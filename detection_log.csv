@@ -1,0 +1,511 @@
+Timestamp,Prediction 1,Prediction 2,Prediction 3,Alert
+01:53:36,potter's wheel (38.1%),stretcher (6.5%),neck brace (3.7%),SAFE
+Timestamp,Prediction 1,Prediction 2,Prediction 3,Alert
+02:06:25,"panpipe, pandean pipe, syrinx (18.2%)",neck brace (6.0%),potter's wheel (3.8%),SAFE
+02:06:26,"panpipe, pandean pipe, syrinx (14.9%)",neck brace (5.9%),potter's wheel (3.4%),SAFE
+02:06:26,"panpipe, pandean pipe, syrinx (9.8%)",Band Aid (5.2%),neck brace (5.0%),SAFE
+02:06:26,"panpipe, pandean pipe, syrinx (6.0%)",Band Aid (5.1%),neck brace (4.8%),SAFE
+02:06:27,"panpipe, pandean pipe, syrinx (6.5%)",Band Aid (5.3%),potter's wheel (3.7%),SAFE
+02:06:27,Band Aid (8.5%),neck brace (2.7%),combination lock (2.7%),SAFE
+02:06:27,Band Aid (5.0%),potter's wheel (3.0%),"panpipe, pandean pipe, syrinx (2.8%)",SAFE
+02:06:27,"panpipe, pandean pipe, syrinx (8.3%)",whistle (3.3%),Band Aid (2.9%),SAFE
+02:06:28,Band Aid (4.5%),neck brace (3.6%),Windsor tie (2.9%),SAFE
+02:06:28,potter's wheel (2.9%),drumstick (2.6%),Band Aid (2.5%),SAFE
+02:06:28,potter's wheel (3.3%),drumstick (3.0%),Band Aid (2.3%),SAFE
+02:06:29,potter's wheel (3.3%),"shoe shop, shoe-shop, shoe store (2.6%)",nipple (2.1%),SAFE
+02:06:29,Band Aid (7.2%),ping-pong ball (4.1%),maraca (3.2%),SAFE
+02:06:29,potter's wheel (58.3%),"shoe shop, shoe-shop, shoe store (1.7%)","iron, smoothing iron (1.2%)",SAFE
+02:06:29,potter's wheel (26.7%),"shoe shop, shoe-shop, shoe store (3.1%)","jersey, T-shirt, tee shirt (2.5%)",SAFE
+02:06:30,potter's wheel (23.7%),"shoe shop, shoe-shop, shoe store (4.3%)","jersey, T-shirt, tee shirt (2.1%)",SAFE
+02:06:30,potter's wheel (24.7%),"shoe shop, shoe-shop, shoe store (3.6%)","jersey, T-shirt, tee shirt (2.1%)",SAFE
+02:06:30,potter's wheel (26.9%),"shoe shop, shoe-shop, shoe store (3.2%)",neck brace (2.3%),SAFE
+02:06:30,potter's wheel (25.3%),"shoe shop, shoe-shop, shoe store (2.9%)","jersey, T-shirt, tee shirt (2.5%)",SAFE
+02:06:31,potter's wheel (30.9%),"shoe shop, shoe-shop, shoe store (2.6%)","jersey, T-shirt, tee shirt (2.5%)",SAFE
+02:06:31,potter's wheel (28.7%),"jersey, T-shirt, tee shirt (3.1%)","shoe shop, shoe-shop, shoe store (2.6%)",SAFE
+02:06:31,potter's wheel (23.3%),"jersey, T-shirt, tee shirt (3.5%)",sewing machine (2.7%),SAFE
+02:06:31,potter's wheel (25.8%),"jersey, T-shirt, tee shirt (3.2%)","shoe shop, shoe-shop, shoe store (2.4%)",SAFE
+02:06:32,potter's wheel (26.1%),"jersey, T-shirt, tee shirt (3.3%)",neck brace (2.2%),SAFE
+02:06:32,potter's wheel (24.6%),"jersey, T-shirt, tee shirt (3.6%)",sewing machine (2.3%),SAFE
+02:06:32,potter's wheel (26.1%),"jersey, T-shirt, tee shirt (3.9%)",sewing machine (2.3%),SAFE
+02:06:32,potter's wheel (27.8%),"jersey, T-shirt, tee shirt (3.2%)",sewing machine (2.7%),SAFE
+02:06:33,potter's wheel (21.9%),"jersey, T-shirt, tee shirt (3.8%)",sewing machine (2.5%),SAFE
+02:06:33,potter's wheel (27.7%),"jersey, T-shirt, tee shirt (3.5%)",sewing machine (2.3%),SAFE
+02:06:33,potter's wheel (36.4%),sewing machine (3.2%),"iron, smoothing iron (2.6%)",SAFE
+02:06:33,potter's wheel (26.3%),"shoe shop, shoe-shop, shoe store (8.2%)",sarong (3.4%),SAFE
+02:06:34,potter's wheel (28.3%),"shoe shop, shoe-shop, shoe store (4.9%)",sarong (2.4%),SAFE
+02:06:34,"shoe shop, shoe-shop, shoe store (17.3%)",potter's wheel (16.8%),neck brace (2.5%),SAFE
+02:06:34,"shoe shop, shoe-shop, shoe store (5.8%)",potter's wheel (5.8%),"jersey, T-shirt, tee shirt (4.7%)",SAFE
+02:06:34,potter's wheel (7.6%),"shoe shop, shoe-shop, shoe store (6.0%)",neck brace (4.6%),SAFE
+02:06:35,potter's wheel (8.6%),"shoe shop, shoe-shop, shoe store (8.0%)",neck brace (7.8%),SAFE
+02:06:35,potter's wheel (12.6%),neck brace (6.1%),"shoe shop, shoe-shop, shoe store (5.5%)",SAFE
+02:06:35,potter's wheel (12.8%),neck brace (5.8%),"shoe shop, shoe-shop, shoe store (5.5%)",SAFE
+02:06:35,potter's wheel (20.9%),neck brace (4.8%),"diaper, nappy, napkin (4.8%)",SAFE
+02:06:35,potter's wheel (27.0%),neck brace (4.3%),"diaper, nappy, napkin (3.4%)",SAFE
+02:06:36,potter's wheel (27.7%),neck brace (4.8%),"shoe shop, shoe-shop, shoe store (2.7%)",SAFE
+02:06:36,potter's wheel (13.9%),neck brace (6.0%),"jersey, T-shirt, tee shirt (2.7%)",SAFE
+02:06:36,potter's wheel (12.2%),neck brace (6.5%),"jersey, T-shirt, tee shirt (3.7%)",SAFE
+02:06:36,potter's wheel (8.6%),neck brace (4.9%),"diaper, nappy, napkin (3.2%)",SAFE
+02:06:37,neck brace (7.8%),potter's wheel (5.3%),"jersey, T-shirt, tee shirt (3.3%)",SAFE
+02:06:37,potter's wheel (11.7%),neck brace (6.1%),"shoe shop, shoe-shop, shoe store (4.0%)",SAFE
+02:06:37,potter's wheel (9.9%),neck brace (5.7%),"shoe shop, shoe-shop, shoe store (3.2%)",SAFE
+02:06:37,potter's wheel (11.4%),neck brace (6.4%),"shoe shop, shoe-shop, shoe store (2.8%)",SAFE
+02:06:38,potter's wheel (13.1%),neck brace (5.6%),"shoe shop, shoe-shop, shoe store (2.6%)",SAFE
+02:06:38,potter's wheel (10.6%),neck brace (5.6%),"shoe shop, shoe-shop, shoe store (3.7%)",SAFE
+02:06:38,potter's wheel (11.3%),neck brace (6.9%),oxygen mask (3.0%),SAFE
+02:06:38,potter's wheel (11.0%),neck brace (7.0%),oxygen mask (3.0%),SAFE
+02:06:39,potter's wheel (13.3%),neck brace (6.2%),oxygen mask (2.8%),SAFE
+02:06:39,potter's wheel (7.9%),neck brace (7.2%),oxygen mask (3.0%),SAFE
+02:06:39,potter's wheel (9.2%),neck brace (7.0%),"shoe shop, shoe-shop, shoe store (3.1%)",SAFE
+02:06:39,potter's wheel (9.3%),neck brace (6.7%),"jersey, T-shirt, tee shirt (2.9%)",SAFE
+02:06:40,potter's wheel (9.1%),neck brace (5.5%),"shoe shop, shoe-shop, shoe store (3.7%)",SAFE
+02:06:40,potter's wheel (10.8%),neck brace (5.5%),"shoe shop, shoe-shop, shoe store (3.8%)",SAFE
+02:06:40,potter's wheel (8.7%),neck brace (5.9%),"shoe shop, shoe-shop, shoe store (3.4%)",SAFE
+02:06:40,potter's wheel (8.0%),neck brace (5.9%),"shoe shop, shoe-shop, shoe store (3.8%)",SAFE
+02:06:41,potter's wheel (9.5%),neck brace (7.3%),"shoe shop, shoe-shop, shoe store (3.3%)",SAFE
+02:06:41,potter's wheel (6.7%),neck brace (6.7%),"shoe shop, shoe-shop, shoe store (3.5%)",SAFE
+02:06:41,potter's wheel (7.4%),neck brace (6.2%),"shoe shop, shoe-shop, shoe store (4.0%)",SAFE
+02:06:41,potter's wheel (9.4%),neck brace (6.8%),"shoe shop, shoe-shop, shoe store (4.2%)",SAFE
+02:06:42,neck brace (6.5%),potter's wheel (6.3%),"shoe shop, shoe-shop, shoe store (4.2%)",SAFE
+02:06:42,potter's wheel (8.7%),neck brace (7.1%),"shoe shop, shoe-shop, shoe store (4.7%)",SAFE
+02:06:42,potter's wheel (8.5%),neck brace (4.3%),"diaper, nappy, napkin (3.6%)",SAFE
+02:06:42,potter's wheel (10.9%),"shoe shop, shoe-shop, shoe store (8.3%)",neck brace (6.0%),SAFE
+02:06:43,potter's wheel (11.8%),"diaper, nappy, napkin (10.0%)",neck brace (4.0%),SAFE
+02:06:43,"diaper, nappy, napkin (20.5%)",shower cap (9.4%),neck brace (4.3%),SAFE
+02:06:43,"shoe shop, shoe-shop, shoe store (8.7%)",neck brace (6.8%),"diaper, nappy, napkin (5.5%)",SAFE
+02:06:43,stretcher (29.7%),neck brace (21.0%),oxygen mask (7.8%),SAFE
+02:06:44,"shoe shop, shoe-shop, shoe store (43.4%)",knee pad (2.8%),neck brace (2.0%),SAFE
+02:06:44,"shoe shop, shoe-shop, shoe store (18.6%)",neck brace (7.4%),potter's wheel (2.7%),SAFE
+02:06:44,"shoe shop, shoe-shop, shoe store (26.6%)",neck brace (8.2%),shower cap (2.4%),SAFE
+02:06:44,"shoe shop, shoe-shop, shoe store (24.3%)",neck brace (12.7%),go-kart (6.4%),SAFE
+02:06:45,"shoe shop, shoe-shop, shoe store (26.5%)",neck brace (9.0%),potter's wheel (2.5%),SAFE
+02:06:45,"shoe shop, shoe-shop, shoe store (35.6%)",neck brace (9.5%),potter's wheel (2.5%),SAFE
+02:06:45,"shoe shop, shoe-shop, shoe store (25.6%)",neck brace (12.6%),potter's wheel (3.5%),SAFE
+02:06:46,"shoe shop, shoe-shop, shoe store (19.4%)",neck brace (13.2%),potter's wheel (3.7%),SAFE
+02:06:46,"shoe shop, shoe-shop, shoe store (21.4%)",neck brace (15.0%),go-kart (4.2%),SAFE
+02:06:46,"shoe shop, shoe-shop, shoe store (33.8%)",neck brace (11.0%),potter's wheel (3.0%),SAFE
+02:06:46,"shoe shop, shoe-shop, shoe store (27.7%)",neck brace (11.6%),go-kart (3.4%),SAFE
+02:06:46,"shoe shop, shoe-shop, shoe store (25.9%)",neck brace (13.2%),potter's wheel (3.0%),SAFE
+02:06:47,"shoe shop, shoe-shop, shoe store (22.5%)",neck brace (13.4%),potter's wheel (2.8%),SAFE
+02:06:47,"shoe shop, shoe-shop, shoe store (25.0%)",neck brace (12.8%),potter's wheel (2.9%),SAFE
+02:06:47,"shoe shop, shoe-shop, shoe store (27.0%)",neck brace (10.8%),"diaper, nappy, napkin (2.9%)",SAFE
+02:06:48,"shoe shop, shoe-shop, shoe store (23.1%)",neck brace (10.6%),"diaper, nappy, napkin (3.6%)",SAFE
+02:06:48,"shoe shop, shoe-shop, shoe store (29.3%)",neck brace (11.6%),potter's wheel (2.4%),SAFE
+02:06:48,"shoe shop, shoe-shop, shoe store (30.5%)",neck brace (13.1%),"diaper, nappy, napkin (2.3%)",SAFE
+02:06:49,"shoe shop, shoe-shop, shoe store (35.4%)",neck brace (9.2%),running shoe (2.8%),SAFE
+02:06:49,"shoe shop, shoe-shop, shoe store (29.5%)",neck brace (7.8%),potter's wheel (2.6%),SAFE
+02:06:49,"shoe shop, shoe-shop, shoe store (26.4%)",neck brace (7.5%),potter's wheel (3.9%),SAFE
+02:06:49,"shoe shop, shoe-shop, shoe store (31.0%)",neck brace (5.2%),potter's wheel (4.3%),SAFE
+02:06:50,"shoe shop, shoe-shop, shoe store (22.9%)",neck brace (9.5%),potter's wheel (3.9%),SAFE
+02:06:50,"shoe shop, shoe-shop, shoe store (25.5%)",neck brace (9.3%),potter's wheel (5.9%),SAFE
+02:06:50,"shoe shop, shoe-shop, shoe store (36.5%)",neck brace (7.7%),potter's wheel (3.1%),SAFE
+02:06:50,"shoe shop, shoe-shop, shoe store (41.6%)",stretcher (5.7%),neck brace (4.5%),SAFE
+02:06:51,"shoe shop, shoe-shop, shoe store (70.7%)",running shoe (3.0%),"clog, geta, patten, sabot (1.6%)",SAFE
+02:06:51,"shoe shop, shoe-shop, shoe store (67.8%)",potter's wheel (3.3%),"clog, geta, patten, sabot (1.4%)",SAFE
+02:06:51,"shoe shop, shoe-shop, shoe store (22.8%)",potter's wheel (17.9%),nipple (1.5%),SAFE
+02:06:51,"shoe shop, shoe-shop, shoe store (31.5%)",potter's wheel (12.1%),sandal (1.4%),SAFE
+02:06:52,potter's wheel (19.9%),"shoe shop, shoe-shop, shoe store (19.0%)",neck brace (2.6%),SAFE
+02:06:52,potter's wheel (24.8%),"shoe shop, shoe-shop, shoe store (17.4%)",neck brace (1.6%),SAFE
+02:06:52,potter's wheel (15.2%),"shoe shop, shoe-shop, shoe store (8.3%)",miniature poodle (2.6%),SAFE
+02:06:52,potter's wheel (23.8%),"shoe shop, shoe-shop, shoe store (20.3%)",neck brace (4.0%),SAFE
+02:06:53,"shoe shop, shoe-shop, shoe store (30.2%)",potter's wheel (11.1%),neck brace (4.7%),SAFE
+02:06:53,potter's wheel (12.4%),"shoe shop, shoe-shop, shoe store (9.5%)","diaper, nappy, napkin (2.1%)",SAFE
+02:06:53,potter's wheel (22.5%),"shoe shop, shoe-shop, shoe store (11.1%)",neck brace (2.2%),SAFE
+02:06:54,potter's wheel (23.3%),"shoe shop, shoe-shop, shoe store (14.0%)",neck brace (2.1%),SAFE
+02:06:54,"shoe shop, shoe-shop, shoe store (18.9%)",potter's wheel (10.0%),neck brace (7.8%),SAFE
+02:06:54,neck brace (19.5%),"shoe shop, shoe-shop, shoe store (18.7%)",stretcher (3.2%),SAFE
+02:06:55,neck brace (26.8%),"shoe shop, shoe-shop, shoe store (13.4%)",stretcher (3.4%),SAFE
+02:06:55,neck brace (18.4%),"shoe shop, shoe-shop, shoe store (16.4%)",potter's wheel (3.7%),SAFE
+02:06:55,"shoe shop, shoe-shop, shoe store (18.6%)",neck brace (11.8%),potter's wheel (4.8%),SAFE
+02:06:55,"shoe shop, shoe-shop, shoe store (19.4%)",neck brace (10.5%),potter's wheel (8.2%),SAFE
+02:06:56,neck brace (14.7%),"shoe shop, shoe-shop, shoe store (14.6%)",potter's wheel (8.3%),SAFE
+02:06:56,neck brace (16.9%),"shoe shop, shoe-shop, shoe store (15.3%)",potter's wheel (6.1%),SAFE
+02:06:56,"shoe shop, shoe-shop, shoe store (16.8%)",neck brace (15.8%),potter's wheel (4.7%),SAFE
+02:06:56,"shoe shop, shoe-shop, shoe store (35.3%)",potter's wheel (3.7%),neck brace (2.9%),SAFE
+02:06:57,"shoe shop, shoe-shop, shoe store (10.2%)","ice lolly, lolly, lollipop, popsicle (9.4%)",Band Aid (5.1%),SAFE
+02:06:57,"ice lolly, lolly, lollipop, popsicle (21.3%)",whistle (11.9%),Band Aid (6.4%),SAFE
+02:06:57,"ice lolly, lolly, lollipop, popsicle (17.4%)",whistle (11.3%),Band Aid (6.7%),SAFE
+02:06:57,"shoe shop, shoe-shop, shoe store (20.5%)",potter's wheel (4.6%),neck brace (4.5%),SAFE
+02:06:58,"shoe shop, shoe-shop, shoe store (30.1%)",potter's wheel (7.3%),"clog, geta, patten, sabot (2.5%)",SAFE
+02:06:58,"shoe shop, shoe-shop, shoe store (29.7%)",potter's wheel (9.1%),neck brace (3.4%),SAFE
+02:06:58,"shoe shop, shoe-shop, shoe store (32.3%)",potter's wheel (15.2%),sandal (3.0%),SAFE
+02:06:59,"shoe shop, shoe-shop, shoe store (34.7%)",potter's wheel (24.8%),"clog, geta, patten, sabot (1.7%)",SAFE
+02:06:59,"shoe shop, shoe-shop, shoe store (64.3%)",potter's wheel (15.8%),"clog, geta, patten, sabot (4.3%)",SAFE
+02:06:59,"shoe shop, shoe-shop, shoe store (39.6%)",potter's wheel (11.6%),"clog, geta, patten, sabot (4.1%)",SAFE
+02:06:59,"shoe shop, shoe-shop, shoe store (39.5%)",potter's wheel (4.9%),"clog, geta, patten, sabot (4.0%)",SAFE
+02:07:00,"shoe shop, shoe-shop, shoe store (22.4%)",potter's wheel (8.0%),neck brace (5.4%),SAFE
+02:07:00,"shoe shop, shoe-shop, shoe store (23.8%)",neck brace (5.6%),potter's wheel (4.9%),SAFE
+02:07:00,"shoe shop, shoe-shop, shoe store (31.9%)","clog, geta, patten, sabot (4.3%)",potter's wheel (3.8%),SAFE
+02:07:00,"shoe shop, shoe-shop, shoe store (40.0%)","clog, geta, patten, sabot (4.8%)",potter's wheel (4.5%),SAFE
+02:07:01,"shoe shop, shoe-shop, shoe store (31.7%)",potter's wheel (5.7%),"clog, geta, patten, sabot (4.9%)",SAFE
+02:07:01,"shoe shop, shoe-shop, shoe store (47.5%)","clog, geta, patten, sabot (5.6%)",sandal (3.4%),SAFE
+02:07:01,"shoe shop, shoe-shop, shoe store (20.2%)",potter's wheel (7.5%),neck brace (4.0%),SAFE
+02:07:01,"shoe shop, shoe-shop, shoe store (12.3%)",potter's wheel (5.8%),neck brace (4.4%),SAFE
+02:07:02,"shoe shop, shoe-shop, shoe store (11.7%)",neck brace (5.1%),drumstick (4.7%),SAFE
+02:07:02,"shoe shop, shoe-shop, shoe store (20.3%)",neck brace (5.4%),potter's wheel (5.3%),SAFE
+02:07:02,"shoe shop, shoe-shop, shoe store (7.9%)",potter's wheel (5.7%),neck brace (4.7%),SAFE
+02:07:03,neck brace (6.8%),stretcher (4.1%),"shoe shop, shoe-shop, shoe store (4.1%)",SAFE
+02:07:03,neck brace (7.0%),potter's wheel (5.2%),"shoe shop, shoe-shop, shoe store (5.1%)",SAFE
+02:07:03,neck brace (6.8%),potter's wheel (5.1%),stretcher (3.9%),SAFE
+02:07:03,neck brace (5.3%),potter's wheel (5.1%),stretcher (2.9%),SAFE
+02:07:04,"prayer rug, prayer mat (5.1%)",neck brace (5.0%),potter's wheel (4.2%),SAFE
+02:07:04,neck brace (19.6%),stretcher (15.3%),potter's wheel (3.7%),SAFE
+02:07:04,neck brace (23.9%),stretcher (11.6%),"shoe shop, shoe-shop, shoe store (5.2%)",SAFE
+02:07:05,neck brace (20.5%),stretcher (10.7%),potter's wheel (6.7%),SAFE
+02:07:05,neck brace (22.9%),stretcher (10.7%),"shoe shop, shoe-shop, shoe store (5.6%)",SAFE
+02:07:05,neck brace (21.1%),stretcher (8.9%),potter's wheel (6.8%),SAFE
+02:07:08,neck brace (14.6%),"shoe shop, shoe-shop, shoe store (7.3%)",potter's wheel (6.2%),SAFE
+02:07:08,"shoe shop, shoe-shop, shoe store (8.4%)",potter's wheel (7.8%),neck brace (7.5%),SAFE
+02:07:09,"shoe shop, shoe-shop, shoe store (14.5%)",neck brace (11.2%),potter's wheel (9.5%),SAFE
+02:07:09,"shoe shop, shoe-shop, shoe store (19.2%)",neck brace (11.4%),potter's wheel (8.1%),SAFE
+02:07:09,neck brace (17.4%),"shoe shop, shoe-shop, shoe store (10.3%)",go-kart (6.8%),SAFE
+02:07:09,neck brace (23.2%),stretcher (7.4%),go-kart (6.8%),SAFE
+02:07:10,neck brace (24.7%),"shoe shop, shoe-shop, shoe store (5.7%)",stretcher (5.5%),SAFE
+02:07:10,neck brace (23.9%),"shoe shop, shoe-shop, shoe store (6.6%)",stretcher (5.4%),SAFE
+02:07:10,neck brace (26.3%),stretcher (5.3%),"shoe shop, shoe-shop, shoe store (4.8%)",SAFE
+02:07:10,neck brace (21.8%),potter's wheel (6.0%),"shoe shop, shoe-shop, shoe store (5.7%)",SAFE
+02:07:11,neck brace (19.9%),"shoe shop, shoe-shop, shoe store (6.0%)",stretcher (4.9%),SAFE
+02:07:11,neck brace (23.1%),stretcher (5.3%),"shoe shop, shoe-shop, shoe store (5.0%)",SAFE
+02:07:11,neck brace (21.2%),stretcher (4.6%),"shoe shop, shoe-shop, shoe store (4.5%)",SAFE
+02:07:12,neck brace (20.6%),potter's wheel (6.1%),stretcher (5.0%),SAFE
+02:07:12,neck brace (14.8%),"shoe shop, shoe-shop, shoe store (6.6%)",potter's wheel (6.6%),SAFE
+02:07:12,neck brace (16.1%),potter's wheel (6.1%),stretcher (5.0%),SAFE
+02:07:12,neck brace (21.1%),potter's wheel (6.0%),stretcher (5.1%),SAFE
+02:07:13,neck brace (20.3%),potter's wheel (7.9%),stretcher (4.9%),SAFE
+02:07:13,neck brace (17.8%),potter's wheel (9.7%),stretcher (4.9%),SAFE
+02:07:13,neck brace (17.0%),potter's wheel (10.6%),oxygen mask (4.1%),SAFE
+02:07:13,neck brace (15.7%),potter's wheel (10.1%),stretcher (4.3%),SAFE
+02:07:14,neck brace (16.9%),potter's wheel (9.2%),oxygen mask (4.5%),SAFE
+02:07:14,potter's wheel (19.6%),neck brace (11.1%),oxygen mask (3.7%),SAFE
+02:07:14,neck brace (16.9%),potter's wheel (8.2%),oxygen mask (3.6%),SAFE
+02:07:14,neck brace (19.0%),potter's wheel (6.3%),stretcher (4.9%),SAFE
+02:07:14,neck brace (21.5%),potter's wheel (5.9%),stretcher (5.4%),SAFE
+02:07:15,neck brace (23.7%),stretcher (5.0%),oxygen mask (4.5%),SAFE
+02:07:15,neck brace (29.5%),stretcher (11.1%),oxygen mask (6.1%),SAFE
+02:07:15,potter's wheel (23.3%),"shoe shop, shoe-shop, shoe store (7.0%)",neck brace (5.0%),SAFE
+02:07:15,potter's wheel (24.5%),"shoe shop, shoe-shop, shoe store (18.1%)",neck brace (3.3%),SAFE
+02:07:16,"shoe shop, shoe-shop, shoe store (28.1%)",neck brace (9.9%),stretcher (4.4%),SAFE
+02:07:16,"shoe shop, shoe-shop, shoe store (20.0%)",potter's wheel (14.4%),neck brace (5.3%),SAFE
+02:07:16,potter's wheel (23.0%),"shoe shop, shoe-shop, shoe store (11.5%)",neck brace (3.6%),SAFE
+02:07:16,potter's wheel (47.8%),"shoe shop, shoe-shop, shoe store (5.0%)",crutch (3.7%),SAFE
+02:07:17,potter's wheel (24.9%),"shoe shop, shoe-shop, shoe store (13.0%)",neck brace (3.6%),SAFE
+02:07:17,"shoe shop, shoe-shop, shoe store (39.2%)",potter's wheel (21.2%),"clog, geta, patten, sabot (2.7%)",SAFE
+02:07:17,"shoe shop, shoe-shop, shoe store (28.1%)",potter's wheel (10.7%),neck brace (5.3%),SAFE
+02:07:17,"shoe shop, shoe-shop, shoe store (23.1%)",neck brace (15.1%),potter's wheel (7.8%),SAFE
+02:07:18,neck brace (21.9%),"shoe shop, shoe-shop, shoe store (20.0%)",potter's wheel (6.0%),SAFE
+02:07:18,potter's wheel (14.9%),neck brace (12.3%),"shoe shop, shoe-shop, shoe store (7.3%)",SAFE
+02:07:18,neck brace (13.6%),potter's wheel (11.6%),"shoe shop, shoe-shop, shoe store (5.4%)",SAFE
+02:07:18,neck brace (11.5%),potter's wheel (7.8%),"shoe shop, shoe-shop, shoe store (7.3%)",SAFE
+02:07:19,potter's wheel (8.2%),neck brace (6.4%),"diaper, nappy, napkin (3.7%)",SAFE
+02:07:19,potter's wheel (10.2%),"shoe shop, shoe-shop, shoe store (4.2%)",neck brace (4.2%),SAFE
+02:07:19,potter's wheel (12.3%),"shoe shop, shoe-shop, shoe store (5.0%)",neck brace (4.1%),SAFE
+02:07:20,potter's wheel (11.4%),neck brace (4.8%),"shoe shop, shoe-shop, shoe store (4.6%)",SAFE
+02:07:20,potter's wheel (8.7%),neck brace (6.6%),"shoe shop, shoe-shop, shoe store (5.7%)",SAFE
+02:07:20,potter's wheel (10.8%),"shoe shop, shoe-shop, shoe store (9.7%)",neck brace (4.6%),SAFE
+02:07:20,potter's wheel (9.5%),neck brace (6.0%),stretcher (4.2%),SAFE
+02:07:21,"shoe shop, shoe-shop, shoe store (11.7%)",potter's wheel (9.1%),neck brace (3.9%),SAFE
+02:07:21,"shoe shop, shoe-shop, shoe store (9.9%)",potter's wheel (8.9%),neck brace (5.5%),SAFE
+02:07:21,neck brace (9.5%),"shoe shop, shoe-shop, shoe store (8.0%)",potter's wheel (4.0%),SAFE
+02:07:21,neck brace (12.0%),"shoe shop, shoe-shop, shoe store (8.4%)",potter's wheel (4.2%),SAFE
+02:07:22,neck brace (18.2%),"shoe shop, shoe-shop, shoe store (5.5%)",stretcher (5.3%),SAFE
+02:07:22,neck brace (22.3%),stretcher (7.1%),"shoe shop, shoe-shop, shoe store (4.6%)",SAFE
+02:07:22,neck brace (18.1%),stretcher (8.0%),"shoe shop, shoe-shop, shoe store (6.2%)",SAFE
+02:07:23,neck brace (20.4%),"shoe shop, shoe-shop, shoe store (7.8%)",stretcher (7.1%),SAFE
+02:07:23,neck brace (20.6%),stretcher (7.3%),"shoe shop, shoe-shop, shoe store (5.8%)",SAFE
+02:07:23,neck brace (18.5%),stretcher (8.2%),"shoe shop, shoe-shop, shoe store (6.0%)",SAFE
+02:07:23,neck brace (16.0%),potter's wheel (7.2%),stretcher (6.5%),SAFE
+02:07:24,neck brace (18.9%),stretcher (10.2%),potter's wheel (7.0%),SAFE
+02:07:24,neck brace (18.8%),stretcher (9.7%),potter's wheel (6.6%),SAFE
+02:07:24,neck brace (22.4%),stretcher (9.5%),potter's wheel (6.5%),SAFE
+02:07:24,neck brace (27.7%),stretcher (9.7%),"shoe shop, shoe-shop, shoe store (5.3%)",SAFE
+02:07:25,neck brace (22.1%),stretcher (12.4%),potter's wheel (6.3%),SAFE
+02:07:25,neck brace (23.0%),stretcher (7.8%),potter's wheel (7.0%),SAFE
+02:07:25,neck brace (23.9%),stretcher (12.3%),potter's wheel (6.9%),SAFE
+02:07:26,neck brace (19.6%),stretcher (11.9%),potter's wheel (7.5%),SAFE
+02:07:26,potter's wheel (14.9%),"shoe shop, shoe-shop, shoe store (14.7%)",neck brace (6.0%),SAFE
+02:07:26,potter's wheel (39.8%),"shoe shop, shoe-shop, shoe store (5.3%)","iron, smoothing iron (4.3%)",SAFE
+02:07:26,potter's wheel (14.7%),"shoe shop, shoe-shop, shoe store (7.9%)",neck brace (2.4%),SAFE
+02:11:25,potter's wheel (40.7%),"shoe shop, shoe-shop, shoe store (11.1%)",neck brace (2.5%),SAFE
+02:11:26,"shoe shop, shoe-shop, shoe store (13.4%)",potter's wheel (13.1%),neck brace (6.4%),SAFE
+02:11:26,potter's wheel (29.8%),"shoe shop, shoe-shop, shoe store (5.2%)",neck brace (4.5%),SAFE
+02:11:26,potter's wheel (41.1%),"shoe shop, shoe-shop, shoe store (4.4%)",neck brace (3.1%),SAFE
+02:11:26,potter's wheel (36.3%),"shoe shop, shoe-shop, shoe store (6.7%)",neck brace (2.8%),SAFE
+02:11:27,potter's wheel (63.6%),"shoe shop, shoe-shop, shoe store (2.2%)","iron, smoothing iron (2.2%)",SAFE
+02:11:27,potter's wheel (70.7%),"iron, smoothing iron (1.8%)","shoe shop, shoe-shop, shoe store (1.6%)",SAFE
+02:11:27,potter's wheel (70.9%),"iron, smoothing iron (2.0%)","shoe shop, shoe-shop, shoe store (1.3%)",SAFE
+02:11:28,potter's wheel (70.3%),"shoe shop, shoe-shop, shoe store (1.4%)","iron, smoothing iron (1.3%)",SAFE
+02:11:28,potter's wheel (80.0%),"shoe shop, shoe-shop, shoe store (1.1%)","iron, smoothing iron (0.9%)",SAFE
+02:11:28,potter's wheel (74.0%),"shoe shop, shoe-shop, shoe store (1.4%)","iron, smoothing iron (0.9%)",SAFE
+02:15:20,
+02:15:20,
+02:15:20,
+02:15:21,
+02:15:21,
+02:15:21,
+02:15:21,
+02:15:22,
+02:15:22,
+02:15:22,
+02:15:22,
+02:15:23,
+02:15:23,
+02:15:23,
+02:15:24,
+02:15:24,
+02:15:24,
+02:15:24,
+02:15:25,
+02:15:25,
+02:15:25,
+02:15:25,
+02:15:26,
+02:15:26,
+02:15:26,
+02:15:26,
+02:15:27,
+02:15:27,
+02:15:27,
+02:15:27,
+02:15:28,
+02:15:28,
+02:15:28,
+02:15:28,
+02:15:29,
+02:15:29,
+02:15:29,
+02:15:29,
+02:15:30,
+02:15:30,
+02:15:30,
+02:17:11,
+02:17:11,
+02:17:11,
+02:17:12,
+02:17:12,
+02:17:12,
+02:17:13,
+02:17:13,
+02:17:13,
+02:17:13,
+02:17:35,"neck brace (6.1%); Band Aid (6.1%); prayer rug, prayer mat (4.7%)"
+02:17:35,Band Aid (10.2%); neck brace (4.8%); shower cap (3.9%)
+02:17:36,"ice lolly, lolly, lollipop, popsicle (46.0%); Band Aid (4.5%); maraca (4.1%)"
+02:17:36,"ice lolly, lolly, lollipop, popsicle (47.7%); ice cream, icecream (4.5%); Granny Smith (2.8%)"
+02:17:36,Band Aid (14.9%); potter's wheel (6.5%); shower cap (4.8%)
+02:17:36,potter's wheel (5.9%); neck brace (5.0%); sombrero (3.1%)
+02:17:37,"potter's wheel (24.9%); shoe shop, shoe-shop, shoe store (6.0%); neck brace (2.8%)"
+02:17:37,"potter's wheel (16.4%); shoe shop, shoe-shop, shoe store (6.2%); prayer rug, prayer mat (2.8%)"
+02:17:37,"shoe shop, shoe-shop, shoe store (10.6%); potter's wheel (7.4%); neck brace (4.4%)"
+02:17:37,"shoe shop, shoe-shop, shoe store (9.8%); potter's wheel (8.0%); neck brace (4.6%)"
+02:17:38,"shoe shop, shoe-shop, shoe store (9.9%); potter's wheel (6.8%); neck brace (6.5%)"
+02:17:38,"potter's wheel (12.4%); neck brace (9.2%); shoe shop, shoe-shop, shoe store (5.7%)"
+02:17:38,"shoe shop, shoe-shop, shoe store (9.0%); neck brace (4.6%); potter's wheel (3.5%)"
+02:17:39,"potter's wheel (16.0%); shoe shop, shoe-shop, shoe store (14.9%); prayer rug, prayer mat (5.3%)"
+02:17:39,"shoe shop, shoe-shop, shoe store (30.0%); potter's wheel (11.2%); clog, geta, patten, sabot (3.1%)"
+02:20:01,"prayer rug, prayer mat (33.1%); potter's wheel (18.8%); sarong (4.5%)"
+02:20:01,"potter's wheel (56.4%); prayer rug, prayer mat (2.7%); sarong (1.4%)"
+02:20:02,"potter's wheel (48.3%); prayer rug, prayer mat (2.4%); neck brace (1.4%)"
+02:20:02,"potter's wheel (56.4%); prayer rug, prayer mat (2.2%); neck brace (1.3%)"
+02:20:02,"potter's wheel (28.6%); prayer rug, prayer mat (6.9%); sarong (2.5%)"
+02:20:03,"potter's wheel (17.0%); prayer rug, prayer mat (7.2%); neck brace (3.4%)"
+02:20:03,"potter's wheel (17.2%); prayer rug, prayer mat (5.6%); neck brace (4.4%)"
+02:20:03,"potter's wheel (20.4%); neck brace (4.1%); prayer rug, prayer mat (3.9%)"
+02:20:04,"potter's wheel (13.6%); neck brace (5.4%); prayer rug, prayer mat (3.2%)"
+02:20:04,"potter's wheel (15.5%); prayer rug, prayer mat (4.8%); neck brace (4.5%)"
+02:20:04,"potter's wheel (16.0%); prayer rug, prayer mat (7.4%); neck brace (2.8%)"
+02:20:04,"potter's wheel (7.7%); Band Aid (6.0%); diaper, nappy, napkin (5.7%)"
+02:20:05,"potter's wheel (67.2%); shoe shop, shoe-shop, shoe store (3.3%); Indian cobra, Naja naja (2.9%)"
+02:20:05,"potter's wheel (60.1%); prayer rug, prayer mat (2.6%); shoe shop, shoe-shop, shoe store (1.5%)"
+02:20:05,"potter's wheel (84.0%); dough (1.0%); prayer rug, prayer mat (0.7%)"
+02:32:23,"potter's wheel (45.8%); dough (2.2%); Angora, Angora rabbit (1.6%)"
+02:32:24,"potter's wheel (96.6%); shoe shop, shoe-shop, shoe store (0.1%); sarong (0.1%)"
+02:32:24,"potter's wheel (85.1%); sewing machine (1.8%); shoe shop, shoe-shop, shoe store (0.4%)"
+02:32:24,potter's wheel (87.6%); nipple (0.5%); sarong (0.3%)
+02:32:24,"potter's wheel (91.5%); shoe shop, shoe-shop, shoe store (0.5%); Band Aid (0.4%)"
+02:32:25,"potter's wheel (55.8%); neck brace (2.6%); jersey, T-shirt, tee shirt (2.5%)"
+02:32:25,"potter's wheel (14.2%); shoe shop, shoe-shop, shoe store (5.2%); neck brace (4.9%)"
+02:32:25,potter's wheel (24.3%); neck brace (10.8%); stretcher (4.2%)
+02:32:26,"potter's wheel (24.7%); neck brace (6.8%); jersey, T-shirt, tee shirt (4.3%)"
+02:32:26,"potter's wheel (22.2%); neck brace (6.6%); jersey, T-shirt, tee shirt (3.9%)"
+02:32:26,"potter's wheel (29.7%); neck brace (4.4%); jersey, T-shirt, tee shirt (3.7%)"
+02:32:26,"potter's wheel (27.3%); neck brace (5.5%); jersey, T-shirt, tee shirt (4.8%)"
+02:32:27,"potter's wheel (55.9%); iron, smoothing iron (4.4%); shoe shop, shoe-shop, shoe store (1.7%)"
+02:32:27,"potter's wheel (73.6%); iron, smoothing iron (1.1%); stretcher (1.1%)"
+02:32:27,"potter's wheel (21.5%); iron, smoothing iron (3.6%); stretcher (3.5%)"
+23:55:04,potter's wheel (30.5%),"iron, smoothing iron (3.5%)","drum, membranophone, tympan (2.1%)",SAFE
+23:55:18,potter's wheel (10.3%),"Indian cobra, Naja naja (7.3%)",neck brace (4.3%),SAFE
+23:55:18,potter's wheel (10.8%),neck brace (8.0%),"Indian cobra, Naja naja (3.3%)",SAFE
+23:55:18,potter's wheel (18.7%),neck brace (6.2%),drumstick (1.7%),SAFE
+23:55:18,potter's wheel (11.4%),neck brace (7.0%),Band Aid (2.1%),SAFE
+23:55:19,potter's wheel (15.2%),neck brace (7.5%),"jersey, T-shirt, tee shirt (2.0%)",SAFE
+23:55:19,neck brace (14.3%),potter's wheel (9.0%),"jersey, T-shirt, tee shirt (2.6%)",SAFE
+23:55:19,neck brace (7.2%),potter's wheel (5.6%),drumstick (3.5%),SAFE
+23:55:19,neck brace (8.4%),potter's wheel (5.4%),maraca (4.0%),SAFE
+23:55:20,neck brace (7.9%),potter's wheel (5.6%),drumstick (3.9%),SAFE
+23:55:20,potter's wheel (6.3%),neck brace (4.9%),drumstick (4.6%),SAFE
+23:55:20,"prison, prison house (5.8%)",neck brace (5.6%),potter's wheel (4.8%),SAFE
+23:55:21,"prison, prison house (8.0%)",neck brace (5.5%),potter's wheel (5.0%),SAFE
+23:55:21,neck brace (7.7%),"prison, prison house (6.2%)","jersey, T-shirt, tee shirt (4.2%)",SAFE
+23:55:21,neck brace (9.1%),"prison, prison house (5.0%)","jersey, T-shirt, tee shirt (4.9%)",SAFE
+23:55:21,neck brace (8.6%),"jersey, T-shirt, tee shirt (5.0%)",maraca (3.8%),SAFE
+23:55:22,neck brace (7.9%),"jersey, T-shirt, tee shirt (5.1%)",maraca (4.1%),SAFE
+23:55:22,neck brace (8.8%),"jersey, T-shirt, tee shirt (6.6%)",drumstick (4.1%),SAFE
+23:55:22,drumstick (7.1%),"marimba, xylophone (6.1%)",maraca (5.2%),SAFE
+23:55:22,"cleaver, meat cleaver, chopper (87.8%)",spatula (3.0%),scabbard (1.0%),SAFE
+23:55:23,"cleaver, meat cleaver, chopper (95.8%)",spatula (1.8%),hatchet (0.2%),SAFE
+23:55:23,"cleaver, meat cleaver, chopper (90.1%)",hatchet (1.2%),spatula (0.9%),SAFE
+23:55:23,"cleaver, meat cleaver, chopper (95.4%)",spatula (0.8%),scabbard (0.3%),SAFE
+23:55:23,"cleaver, meat cleaver, chopper (96.1%)",spatula (0.7%),hatchet (0.4%),SAFE
+23:55:24,"cleaver, meat cleaver, chopper (94.6%)",spatula (0.7%),scabbard (0.5%),SAFE
+23:55:24,"cleaver, meat cleaver, chopper (94.6%)",spatula (0.8%),scabbard (0.4%),SAFE
+23:55:24,"cleaver, meat cleaver, chopper (95.9%)",spatula (0.6%),scabbard (0.3%),SAFE
+23:55:24,"cleaver, meat cleaver, chopper (95.9%)",spatula (0.6%),scabbard (0.4%),SAFE
+23:55:25,"cleaver, meat cleaver, chopper (96.5%)",spatula (0.5%),scabbard (0.4%),SAFE
+23:55:25,"cleaver, meat cleaver, chopper (96.8%)",scabbard (0.4%),spatula (0.4%),SAFE
+23:55:25,"cleaver, meat cleaver, chopper (96.1%)",spatula (0.6%),scabbard (0.4%),SAFE
+23:55:25,"cleaver, meat cleaver, chopper (95.1%)",spatula (0.6%),scabbard (0.5%),SAFE
+23:55:26,"cleaver, meat cleaver, chopper (66.5%)","rule, ruler (4.5%)",spatula (3.4%),SAFE
+23:55:26,"cleaver, meat cleaver, chopper (95.7%)",hatchet (0.5%),scabbard (0.5%),SAFE
+23:55:26,"cleaver, meat cleaver, chopper (96.1%)",spatula (0.4%),hatchet (0.4%),SAFE
+23:55:26,"cleaver, meat cleaver, chopper (92.0%)",hatchet (1.1%),scabbard (0.9%),SAFE
+23:55:27,"cleaver, meat cleaver, chopper (99.8%)",spatula (0.0%),scabbard (0.0%),SAFE
+23:55:27,"cleaver, meat cleaver, chopper (95.0%)",scabbard (0.7%),spatula (0.5%),SAFE
+23:55:40,
+23:55:40,
+23:55:40,
+23:55:41,
+23:55:41,
+23:55:41,
+23:55:41,
+23:55:42,
+23:55:42,
+23:55:42,
+23:55:43,
+23:55:43,
+23:55:43,
+23:55:43,
+23:55:44,
+23:55:44,
+23:55:44,
+23:55:44,
+23:55:45,
+23:55:45,
+23:55:45,
+23:55:45,
+23:55:46,
+23:55:46,
+23:55:46,
+23:55:47,
+23:55:47,
+23:55:47,
+23:55:47,
+23:55:48,
+23:55:48,
+23:55:48,
+23:55:48,
+23:55:49,
+23:55:49,
+23:55:49,
+23:55:49,
+23:55:50,
+23:55:50,
+23:55:50,
+23:55:50,
+23:55:51,
+23:55:51,
+23:56:31,"Indian cobra, Naja naja (6.0%); neck brace (5.0%); potter's wheel (3.7%)"
+23:56:31,neck brace (6.7%); sombrero (5.4%); shower cap (5.4%)
+23:56:31,neck brace (3.7%); drumstick (2.8%); Band Aid (2.5%)
+23:56:32,"pajama, pyjama, pj's, jammies (10.3%); neck brace (9.8%); potter's wheel (5.9%)"
+23:56:32,"neck brace (11.9%); potter's wheel (3.8%); iron, smoothing iron (3.4%)"
+23:56:32,"neck brace (9.3%); pajama, pyjama, pj's, jammies (6.3%); potter's wheel (4.6%)"
+23:56:32,"neck brace (10.1%); pajama, pyjama, pj's, jammies (7.0%); potter's wheel (5.3%)"
+23:56:33,"neck brace (12.3%); potter's wheel (3.9%); pajama, pyjama, pj's, jammies (3.8%)"
+23:56:33,"cleaver, meat cleaver, chopper (88.5%); spatula (1.8%); syringe (1.0%)"
+23:56:33,"syringe (29.3%); cleaver, meat cleaver, chopper (16.2%); hair spray (6.4%)"
+23:56:34,"syringe (13.2%); revolver, six-gun, six-shooter (10.8%); drumstick (5.9%)"
+23:56:34,"syringe (6.7%); cleaver, meat cleaver, chopper (6.3%); drumstick (2.9%)"
+23:56:34,"combination lock (6.2%); syringe (5.0%); wardrobe, closet, press (3.8%)"
+23:56:34,"cleaver, meat cleaver, chopper (23.4%); rule, ruler (18.2%); syringe (5.7%)"
+23:56:35,"cleaver, meat cleaver, chopper (34.6%); syringe (19.4%); rule, ruler (9.3%)"
+23:56:35,"syringe (59.9%); cleaver, meat cleaver, chopper (5.2%); screwdriver (2.1%)"
+23:56:35,"can opener, tin opener (23.6%); screwdriver (10.0%); cleaver, meat cleaver, chopper (8.7%)"
+23:56:35,"cleaver, meat cleaver, chopper (67.1%); scabbard (3.8%); letter opener, paper knife, paperknife (3.0%)"
+23:56:36,"cleaver, meat cleaver, chopper (89.8%); letter opener, paper knife, paperknife (2.0%); scabbard (0.9%)"
+23:56:36,"cleaver, meat cleaver, chopper (89.2%); syringe (1.3%); letter opener, paper knife, paperknife (1.1%)"
+23:56:36,"cleaver, meat cleaver, chopper (86.2%); spatula (1.4%); syringe (1.3%)"
+23:56:36,"cleaver, meat cleaver, chopper (83.9%); syringe (1.6%); spatula (1.4%)"
+23:56:37,"cleaver, meat cleaver, chopper (81.8%); syringe (1.9%); spatula (1.4%)"
+23:56:37,"cleaver, meat cleaver, chopper (83.8%); syringe (1.7%); letter opener, paper knife, paperknife (1.2%)"
+23:56:37,"cleaver, meat cleaver, chopper (87.1%); letter opener, paper knife, paperknife (1.3%); spatula (1.1%)"
+23:56:37,"cleaver, meat cleaver, chopper (89.6%); letter opener, paper knife, paperknife (1.0%); spatula (0.9%)"
+23:56:38,"cleaver, meat cleaver, chopper (87.1%); spatula (1.2%); letter opener, paper knife, paperknife (1.2%)"
+23:56:38,"cleaver, meat cleaver, chopper (94.5%); scabbard (0.6%); letter opener, paper knife, paperknife (0.5%)"
+23:56:38,"cleaver, meat cleaver, chopper (94.0%); scabbard (0.6%); hatchet (0.5%)"
+23:56:39,"cleaver, meat cleaver, chopper (96.9%); letter opener, paper knife, paperknife (0.3%); scabbard (0.2%)"
+23:56:39,"cleaver, meat cleaver, chopper (98.3%); letter opener, paper knife, paperknife (0.3%); spatula (0.2%)"
+23:56:39,"cleaver, meat cleaver, chopper (98.5%); letter opener, paper knife, paperknife (0.2%); spatula (0.2%)"
+23:56:39,"cleaver, meat cleaver, chopper (97.5%); letter opener, paper knife, paperknife (0.4%); scabbard (0.2%)"
+23:56:40,"cleaver, meat cleaver, chopper (97.4%); letter opener, paper knife, paperknife (0.4%); scabbard (0.2%)"
+23:56:40,"cleaver, meat cleaver, chopper (91.7%); chain saw, chainsaw (1.4%); letter opener, paper knife, paperknife (0.8%)"
+23:56:40,"cleaver, meat cleaver, chopper (96.5%); letter opener, paper knife, paperknife (0.6%); scabbard (0.6%)"
+23:56:40,"cleaver, meat cleaver, chopper (98.9%); scabbard (0.2%); hatchet (0.1%)"
+23:56:41,"cleaver, meat cleaver, chopper (93.3%); syringe (2.2%); scabbard (0.8%)"
+23:56:41,"refrigerator, icebox (8.8%); lighter, light, igniter, ignitor (7.6%); cleaver, meat cleaver, chopper (7.6%)"
+23:56:41,"cleaver, meat cleaver, chopper (97.8%); scabbard (0.3%); syringe (0.2%)"
+23:56:41,"cleaver, meat cleaver, chopper (77.2%); syringe (3.7%); lighter, light, igniter, ignitor (1.8%)"
+23:56:42,"cleaver, meat cleaver, chopper (85.5%); syringe (6.0%); screwdriver (0.7%)"
+23:56:42,"cleaver, meat cleaver, chopper (81.5%); syringe (10.3%); screwdriver (0.5%)"
+23:56:42,"cleaver, meat cleaver, chopper (70.3%); syringe (26.0%); screwdriver (0.1%)"
+23:56:42,"syringe (96.9%); screwdriver (1.8%); cleaver, meat cleaver, chopper (0.3%)"
+23:56:43,"syringe (88.7%); cleaver, meat cleaver, chopper (5.4%); screwdriver (2.5%)"
+23:56:43,"syringe (98.0%); screwdriver (0.3%); rule, ruler (0.2%)"
+23:56:43,syringe (95.7%); screwdriver (0.9%); stethoscope (0.3%)
+23:56:43,"syringe (64.5%); cleaver, meat cleaver, chopper (13.0%); screwdriver (3.0%)"
+23:56:44,"cleaver, meat cleaver, chopper (80.6%); letter opener, paper knife, paperknife (2.5%); scabbard (1.5%)"
+23:56:44,"cleaver, meat cleaver, chopper (86.1%); letter opener, paper knife, paperknife (1.7%); syringe (1.0%)"
+23:56:44,"cleaver, meat cleaver, chopper (91.6%); letter opener, paper knife, paperknife (1.1%); scabbard (0.7%)"
+23:56:44,"cleaver, meat cleaver, chopper (91.6%); letter opener, paper knife, paperknife (1.1%); scabbard (0.6%)"
+23:56:45,"cleaver, meat cleaver, chopper (88.2%); letter opener, paper knife, paperknife (1.9%); scabbard (0.8%)"
+23:56:45,"cleaver, meat cleaver, chopper (86.0%); letter opener, paper knife, paperknife (1.7%); syringe (1.3%)"
+23:56:45,"cleaver, meat cleaver, chopper (76.0%); letter opener, paper knife, paperknife (3.9%); scabbard (2.1%)"
+23:56:46,"cleaver, meat cleaver, chopper (90.9%); scabbard (2.2%); letter opener, paper knife, paperknife (0.9%)"
+23:56:46,"cleaver, meat cleaver, chopper (77.6%); scabbard (5.2%); letter opener, paper knife, paperknife (2.8%)"
+23:56:46,"cleaver, meat cleaver, chopper (76.0%); scabbard (5.2%); letter opener, paper knife, paperknife (3.2%)"
+23:56:46,"cleaver, meat cleaver, chopper (80.0%); scabbard (4.7%); letter opener, paper knife, paperknife (1.7%)"
+23:56:47,"cleaver, meat cleaver, chopper (94.7%); scabbard (1.6%); hatchet (0.4%)"
+23:56:47,"cleaver, meat cleaver, chopper (86.1%); syringe (3.1%); rule, ruler (2.0%)"
+23:56:47,"cleaver, meat cleaver, chopper (95.1%); scabbard (1.3%); syringe (1.0%)"
+23:56:47,"cleaver, meat cleaver, chopper (99.1%); scabbard (0.2%); syringe (0.1%)"
+23:56:48,"cleaver, meat cleaver, chopper (99.2%); syringe (0.2%); scabbard (0.1%)"
+23:56:48,"cleaver, meat cleaver, chopper (99.6%); syringe (0.1%); scabbard (0.0%)"
+23:56:48,"cleaver, meat cleaver, chopper (86.4%); syringe (8.2%); screwdriver (1.0%)"
+23:56:48,"syringe (78.7%); cleaver, meat cleaver, chopper (11.3%); screwdriver (0.6%)"
+23:56:49,"syringe (91.2%); screwdriver (1.8%); cleaver, meat cleaver, chopper (1.2%)"
+23:56:49,"cleaver, meat cleaver, chopper (75.9%); scabbard (6.1%); letter opener, paper knife, paperknife (5.0%)"
+23:56:49,"cleaver, meat cleaver, chopper (41.0%); syringe (31.5%); screwdriver (6.7%)"
+23:56:49,"cleaver, meat cleaver, chopper (44.3%); syringe (17.9%); screwdriver (15.7%)"
+23:56:50,"cleaver, meat cleaver, chopper (80.1%); syringe (9.8%); spatula (1.7%)"
+23:56:50,"cleaver, meat cleaver, chopper (89.0%); syringe (3.3%); spatula (0.9%)"
+23:56:50,"cleaver, meat cleaver, chopper (74.9%); spatula (6.8%); syringe (3.0%)"
+20250415_113311,knife,ALERT,1
+20250415_113319,knife,ALERT,1
+20250415_113327,knife,ALERT,1
+20250415_113334,knife,ALERT,1
+20250415_113342,knife,ALERT,1
+20250415_113350,knife,ALERT,1
+20250415_113358,knife,ALERT,1
+20250415_113405,knife,ALERT,1
+20250415_113413,knife,ALERT,1
+20250415_113421,knife,ALERT,1
+20250415_113428,knife,ALERT,1
+20250415_113436,knife,ALERT,1
+20250415_113444,knife,ALERT,1
+20250415_113451,knife,ALERT,1
+20250415_113459,knife,ALERT,1
+20250415_113507,knife,ALERT,1
+20250415_113514,knife,ALERT,1
+20250415_113522,knife,ALERT,1
+20250415_113530,knife,ALERT,1
+20250415_113538,knife,ALERT,1
+20250415_113545,knife,ALERT,1
+20250415_113553,knife,ALERT,1

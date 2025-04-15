@@ -1,0 +1,1450 @@
+Time,Detected Labels,Status,Snapshot
+19:50:02,"potter's wheel (11.4%); marimba, xylophone (10.6%); Indian cobra, Naja naja (6.1%)",SAFE,N/A
+19:50:02,"potter's wheel (13.9%); marimba, xylophone (7.3%); drum, membranophone, tympan (5.7%)",SAFE,N/A
+19:50:03,"marimba, xylophone (9.9%); abaya (7.6%); drum, membranophone, tympan (5.2%)",SAFE,N/A
+19:50:03,"abaya (11.4%); marimba, xylophone (11.2%); potter's wheel (4.2%)",SAFE,N/A
+19:50:03,"abaya (17.8%); marimba, xylophone (5.8%); drum, membranophone, tympan (3.5%)",SAFE,N/A
+19:50:04,"abaya (8.5%); marimba, xylophone (7.5%); drumstick (3.8%)",SAFE,N/A
+19:50:04,"marimba, xylophone (8.7%); drumstick (6.3%); drum, membranophone, tympan (4.0%)",SAFE,N/A
+19:50:04,"marimba, xylophone (8.8%); abaya (5.8%); drumstick (3.8%)",SAFE,N/A
+19:50:04,"abaya (13.3%); marimba, xylophone (5.3%); maraca (3.5%)",SAFE,N/A
+19:50:05,"potter's wheel (8.4%); marimba, xylophone (4.2%); maraca (3.4%)",SAFE,N/A
+19:50:05,potter's wheel (7.3%); drumstick (5.9%); maraca (5.1%),SAFE,N/A
+19:50:05,"potter's wheel (8.7%); marimba, xylophone (5.0%); maraca (4.6%)",SAFE,N/A
+19:50:06,"potter's wheel (7.5%); marimba, xylophone (5.7%); jackfruit, jak, jack (4.6%)",SAFE,N/A
+19:50:06,"potter's wheel (6.8%); marimba, xylophone (4.7%); maraca (3.6%)",SAFE,N/A
+19:50:06,"marimba, xylophone (4.1%); maraca (3.6%); potter's wheel (3.3%)",SAFE,N/A
+19:50:07,"marimba, xylophone (6.1%); potter's wheel (5.6%); drum, membranophone, tympan (4.8%)",SAFE,N/A
+19:50:07,"drumstick (4.9%); drum, membranophone, tympan (4.3%); potter's wheel (4.1%)",SAFE,N/A
+19:50:07,"drum, membranophone, tympan (8.9%); drumstick (8.5%); marimba, xylophone (5.2%)",SAFE,N/A
+19:50:07,"abaya (7.3%); marimba, xylophone (6.5%); drum, membranophone, tympan (6.5%)",SAFE,N/A
+19:50:08,"abaya (34.4%); drum, membranophone, tympan (5.8%); drumstick (3.1%)",SAFE,N/A
+19:50:08,"cleaver, meat cleaver, chopper (98.9%); scabbard (0.3%); hatchet (0.1%)",SAFE,N/A
+19:50:08,"cleaver, meat cleaver, chopper (98.6%); scabbard (0.4%); hatchet (0.1%)",SAFE,N/A
+19:50:09,"cleaver, meat cleaver, chopper (93.2%); scabbard (1.5%); hatchet (0.7%)",SAFE,N/A
+19:50:09,"cleaver, meat cleaver, chopper (73.6%); scabbard (3.0%); letter opener, paper knife, paperknife (2.4%)",SAFE,N/A
+19:50:09,"cleaver, meat cleaver, chopper (80.4%); scabbard (3.3%); letter opener, paper knife, paperknife (2.0%)",SAFE,N/A
+19:50:10,"cleaver, meat cleaver, chopper (39.6%); letter opener, paper knife, paperknife (5.2%); scabbard (4.2%)",SAFE,N/A
+19:50:10,"cleaver, meat cleaver, chopper (62.6%); letter opener, paper knife, paperknife (4.2%); scabbard (3.1%)",SAFE,N/A
+19:50:10,"cleaver, meat cleaver, chopper (51.6%); letter opener, paper knife, paperknife (4.4%); scabbard (3.9%)",SAFE,N/A
+19:50:10,"cleaver, meat cleaver, chopper (36.4%); scabbard (10.1%); letter opener, paper knife, paperknife (9.0%)",SAFE,N/A
+19:50:11,"revolver, six-gun, six-shooter (24.8%); cleaver, meat cleaver, chopper (15.3%); assault rifle, assault gun (9.5%)",SAFE,N/A
+19:50:11,"revolver, six-gun, six-shooter (34.5%); rifle (25.0%); assault rifle, assault gun (20.4%)",ALERT,alert_20250414_195011_1.jpg
+19:50:15,"potter's wheel (7.2%); marimba, xylophone (6.7%); drum, membranophone, tympan (4.7%)",SAFE,N/A
+20:25:19,"jackfruit, jak, jack (3.5%); marimba, xylophone (3.4%); drumstick (3.0%)",SAFE,N/A
+20:25:35,"abaya (9.4%); drum, membranophone, tympan (6.8%); potter's wheel (6.0%)",SAFE,N/A
+20:25:47,"cleaver, meat cleaver, chopper (99.6%); scabbard (0.1%); hatchet (0.0%)",SAFE,N/A
+20:25:50,"cleaver, meat cleaver, chopper (72.1%); scabbard (18.4%); letter opener, paper knife, paperknife (2.5%)",SAFE,N/A
+20:25:55,"cleaver, meat cleaver, chopper (86.9%); scabbard (2.6%); letter opener, paper knife, paperknife (1.2%)",SAFE,N/A
+20:25:56,"cleaver, meat cleaver, chopper (79.7%); scabbard (4.6%); letter opener, paper knife, paperknife (3.7%)",SAFE,N/A
+20:25:59,"Injection (95.6%); screwdriver (0.4%); cleaver, meat cleaver, chopper (0.2%)",SAFE,N/A
+20:26:20,"cleaver, meat cleaver, chopper (75.5%); scabbard (8.2%); letter opener, paper knife, paperknife (5.7%)",SAFE,N/A
+20:26:21,"cleaver, meat cleaver, chopper (54.3%); scabbard (14.3%); letter opener, paper knife, paperknife (10.0%)",SAFE,N/A
+20:26:31,"cleaver, meat cleaver, chopper (75.3%); rule, ruler (3.6%); letter opener, paper knife, paperknife (2.7%)",SAFE,N/A
+20:26:36,"cleaver, meat cleaver, chopper (28.9%); abaya (10.7%); letter opener, paper knife, paperknife (8.1%)",SAFE,N/A
+20:36:08,"abaya (15.6%); potter's wheel (6.5%); marimba, xylophone (4.4%)",SAFE,N/A
+20:36:26,"potter's wheel (12.5%); drumstick (6.2%); drum, membranophone, tympan (3.8%)",SAFE,N/A
+20:36:29,"drum, membranophone, tympan (8.8%); potter's wheel (5.7%); drumstick (4.3%)",SAFE,N/A
+20:42:09,"drum, membranophone, tympan (19.2%); potter's wheel (8.9%); drumstick (7.9%)",SAFE,N/A
+20:42:10,"drum, membranophone, tympan (20.8%); drumstick (11.7%); steel drum (4.3%)",SAFE,N/A
+20:42:10,"drumstick (9.4%); drum, membranophone, tympan (5.9%); marimba, xylophone (3.1%)",SAFE,N/A
+20:42:10,"drumstick (6.9%); drum, membranophone, tympan (5.8%); potter's wheel (5.4%)",SAFE,N/A
+20:42:10,"drum, membranophone, tympan (9.1%); potter's wheel (4.5%); drumstick (4.3%)",SAFE,N/A
+20:42:11,"drum, membranophone, tympan (15.7%); drumstick (11.6%); marimba, xylophone (5.4%)",SAFE,N/A
+20:42:11,"drum, membranophone, tympan (11.8%); drumstick (9.9%); marimba, xylophone (5.6%)",SAFE,N/A
+20:42:11,"drumstick (9.8%); drum, membranophone, tympan (8.7%); marimba, xylophone (3.6%)",SAFE,N/A
+20:42:11,"potter's wheel (6.7%); drumstick (5.1%); drum, membranophone, tympan (4.0%)",SAFE,N/A
+20:42:12,"drum, membranophone, tympan (7.7%); potter's wheel (7.4%); drumstick (6.0%)",SAFE,N/A
+20:42:12,"potter's wheel (6.4%); drum, membranophone, tympan (6.1%); drumstick (5.5%)",SAFE,N/A
+20:42:12,"potter's wheel (7.0%); drum, membranophone, tympan (6.3%); drumstick (6.1%)",SAFE,N/A
+20:42:12,"potter's wheel (7.7%); drumstick (6.8%); drum, membranophone, tympan (6.0%)",SAFE,N/A
+20:42:13,"potter's wheel (10.9%); drumstick (7.0%); drum, membranophone, tympan (4.8%)",SAFE,N/A
+20:42:13,"potter's wheel (8.3%); drumstick (7.7%); drum, membranophone, tympan (5.1%)",SAFE,N/A
+20:42:13,"potter's wheel (8.2%); drumstick (7.6%); drum, membranophone, tympan (5.6%)",SAFE,N/A
+20:42:13,"potter's wheel (8.9%); drumstick (8.6%); drum, membranophone, tympan (6.5%)",SAFE,N/A
+20:42:14,"drumstick (9.1%); potter's wheel (6.2%); drum, membranophone, tympan (5.2%)",SAFE,N/A
+20:42:14,"drumstick (8.6%); potter's wheel (8.0%); drum, membranophone, tympan (5.2%)",SAFE,N/A
+20:42:14,"drumstick (9.2%); potter's wheel (5.5%); drum, membranophone, tympan (4.7%)",SAFE,N/A
+20:42:14,"drumstick (10.2%); drum, membranophone, tympan (5.0%); potter's wheel (4.1%)",SAFE,N/A
+20:42:14,"drumstick (10.5%); drum, membranophone, tympan (6.0%); potter's wheel (4.8%)",SAFE,N/A
+20:42:15,"drumstick (9.5%); potter's wheel (6.7%); drum, membranophone, tympan (5.4%)",SAFE,N/A
+20:42:15,"potter's wheel (11.3%); drumstick (7.4%); drum, membranophone, tympan (5.6%)",SAFE,N/A
+20:42:15,"potter's wheel (10.2%); drumstick (9.1%); drum, membranophone, tympan (7.1%)",SAFE,N/A
+20:42:15,"potter's wheel (8.6%); drumstick (7.5%); drum, membranophone, tympan (6.4%)",SAFE,N/A
+20:42:16,"potter's wheel (14.4%); drumstick (7.0%); drum, membranophone, tympan (6.7%)",SAFE,N/A
+20:42:16,"potter's wheel (15.8%); drumstick (6.6%); drum, membranophone, tympan (6.4%)",SAFE,N/A
+20:42:16,"potter's wheel (13.0%); drumstick (7.3%); drum, membranophone, tympan (6.9%)",SAFE,N/A
+20:42:16,"potter's wheel (10.8%); drumstick (7.6%); drum, membranophone, tympan (6.9%)",SAFE,N/A
+20:42:17,"potter's wheel (9.4%); drumstick (7.0%); drum, membranophone, tympan (5.8%)",SAFE,N/A
+20:42:17,"drumstick (6.1%); drum, membranophone, tympan (5.0%); potter's wheel (4.3%)",SAFE,N/A
+20:42:17,"cleaver, meat cleaver, chopper (45.1%); Injection (11.8%); letter opener, paper knife, paperknife (3.6%)",SAFE,N/A
+20:42:17,"cleaver, meat cleaver, chopper (58.1%); scabbard (3.7%); letter opener, paper knife, paperknife (2.8%)",SAFE,N/A
+20:42:18,"cleaver, meat cleaver, chopper (76.0%); scabbard (2.6%); letter opener, paper knife, paperknife (2.1%)",SAFE,N/A
+20:42:18,"cleaver, meat cleaver, chopper (72.1%); scabbard (2.6%); letter opener, paper knife, paperknife (2.2%)",SAFE,N/A
+20:42:18,"cleaver, meat cleaver, chopper (74.7%); scabbard (2.0%); letter opener, paper knife, paperknife (1.6%)",SAFE,N/A
+20:42:18,"cleaver, meat cleaver, chopper (74.5%); scabbard (2.3%); letter opener, paper knife, paperknife (1.7%)",SAFE,N/A
+20:42:19,"cleaver, meat cleaver, chopper (73.7%); scabbard (2.9%); letter opener, paper knife, paperknife (2.2%)",SAFE,N/A
+20:42:19,"cleaver, meat cleaver, chopper (72.0%); letter opener, paper knife, paperknife (3.2%); scabbard (3.1%)",SAFE,N/A
+20:42:19,"cleaver, meat cleaver, chopper (70.2%); letter opener, paper knife, paperknife (3.5%); scabbard (3.2%)",SAFE,N/A
+20:42:19,"cleaver, meat cleaver, chopper (69.9%); scabbard (3.7%); letter opener, paper knife, paperknife (3.1%)",SAFE,N/A
+20:42:20,"cleaver, meat cleaver, chopper (70.0%); letter opener, paper knife, paperknife (3.5%); scabbard (2.9%)",SAFE,N/A
+20:42:20,"cleaver, meat cleaver, chopper (69.3%); letter opener, paper knife, paperknife (3.4%); scabbard (2.9%)",SAFE,N/A
+20:42:20,"cleaver, meat cleaver, chopper (65.5%); letter opener, paper knife, paperknife (3.8%); scabbard (3.0%)",SAFE,N/A
+20:42:20,"cleaver, meat cleaver, chopper (64.2%); letter opener, paper knife, paperknife (3.4%); scabbard (3.1%)",SAFE,N/A
+20:42:21,"cleaver, meat cleaver, chopper (62.8%); letter opener, paper knife, paperknife (3.2%); scabbard (2.6%)",SAFE,N/A
+20:42:21,"cleaver, meat cleaver, chopper (43.4%); scabbard (5.7%); letter opener, paper knife, paperknife (5.2%)",SAFE,N/A
+20:42:21,"cleaver, meat cleaver, chopper (41.4%); scabbard (4.8%); drumstick (4.6%)",SAFE,N/A
+20:42:21,"cleaver, meat cleaver, chopper (23.0%); drumstick (6.4%); scabbard (6.1%)",SAFE,N/A
+20:42:21,"cleaver, meat cleaver, chopper (18.6%); drumstick (7.2%); scabbard (4.6%)",SAFE,N/A
+20:42:22,"cleaver, meat cleaver, chopper (16.6%); drumstick (9.8%); Injection (4.8%)",SAFE,N/A
+20:42:22,"cleaver, meat cleaver, chopper (16.1%); drumstick (7.8%); scabbard (5.2%)",SAFE,N/A
+20:42:22,"cleaver, meat cleaver, chopper (19.2%); drumstick (5.4%); scabbard (4.8%)",SAFE,N/A
+20:42:22,"cleaver, meat cleaver, chopper (20.5%); drumstick (5.4%); scabbard (5.3%)",SAFE,N/A
+20:42:23,"cleaver, meat cleaver, chopper (25.9%); letter opener, paper knife, paperknife (5.1%); drumstick (4.6%)",SAFE,N/A
+20:42:23,"cleaver, meat cleaver, chopper (32.9%); scabbard (4.9%); drumstick (4.8%)",SAFE,N/A
+20:42:23,"cleaver, meat cleaver, chopper (26.0%); scabbard (5.2%); drumstick (4.4%)",SAFE,N/A
+20:42:23,"cleaver, meat cleaver, chopper (17.2%); drumstick (6.5%); scabbard (4.0%)",SAFE,N/A
+20:42:24,"cleaver, meat cleaver, chopper (25.8%); drumstick (4.9%); scabbard (3.7%)",SAFE,N/A
+20:42:24,"cleaver, meat cleaver, chopper (20.1%); drumstick (5.4%); scabbard (5.3%)",SAFE,N/A
+20:42:24,"cleaver, meat cleaver, chopper (25.1%); scabbard (5.9%); letter opener, paper knife, paperknife (5.6%)",SAFE,N/A
+20:42:24,"cleaver, meat cleaver, chopper (18.7%); scabbard (5.1%); drumstick (5.0%)",SAFE,N/A
+20:42:25,"cleaver, meat cleaver, chopper (18.8%); scabbard (6.2%); drumstick (4.2%)",SAFE,N/A
+20:42:25,"cleaver, meat cleaver, chopper (22.5%); scabbard (7.4%); drumstick (4.4%)",SAFE,N/A
+20:42:25,"cleaver, meat cleaver, chopper (17.4%); scabbard (5.0%); drumstick (4.6%)",SAFE,N/A
+20:42:25,"cleaver, meat cleaver, chopper (15.8%); drumstick (5.4%); scabbard (4.6%)",SAFE,N/A
+20:42:26,"cleaver, meat cleaver, chopper (16.4%); scabbard (7.6%); drumstick (5.8%)",SAFE,N/A
+20:42:26,"cleaver, meat cleaver, chopper (16.6%); scabbard (6.6%); drumstick (5.4%)",SAFE,N/A
+20:42:26,"cleaver, meat cleaver, chopper (21.6%); scabbard (4.5%); drumstick (4.4%)",SAFE,N/A
+20:42:26,"cleaver, meat cleaver, chopper (18.3%); drumstick (5.7%); scabbard (4.2%)",SAFE,N/A
+20:42:27,"cleaver, meat cleaver, chopper (21.0%); drumstick (4.8%); scabbard (4.5%)",SAFE,N/A
+20:42:27,"cleaver, meat cleaver, chopper (25.3%); drumstick (4.8%); scabbard (3.5%)",SAFE,N/A
+20:42:27,"cleaver, meat cleaver, chopper (27.0%); scabbard (8.3%); letter opener, paper knife, paperknife (5.1%)",SAFE,N/A
+20:42:27,"cleaver, meat cleaver, chopper (17.6%); drumstick (6.1%); scabbard (5.6%)",SAFE,N/A
+20:42:28,"cleaver, meat cleaver, chopper (22.3%); scabbard (5.7%); drumstick (5.2%)",SAFE,N/A
+20:42:28,"cleaver, meat cleaver, chopper (28.4%); scabbard (5.8%); drumstick (3.9%)",SAFE,N/A
+20:42:28,"cleaver, meat cleaver, chopper (19.3%); scabbard (5.5%); drumstick (5.2%)",SAFE,N/A
+20:42:28,"cleaver, meat cleaver, chopper (28.3%); scabbard (5.8%); drumstick (4.3%)",SAFE,N/A
+20:42:29,"cleaver, meat cleaver, chopper (27.6%); scabbard (5.6%); drumstick (3.8%)",SAFE,N/A
+20:42:29,"cleaver, meat cleaver, chopper (40.2%); scabbard (6.8%); hatchet (4.2%)",SAFE,N/A
+20:42:29,"cleaver, meat cleaver, chopper (28.9%); scabbard (5.4%); hatchet (3.6%)",SAFE,N/A
+20:42:29,"cleaver, meat cleaver, chopper (26.5%); scabbard (3.8%); hatchet (3.5%)",SAFE,N/A
+20:42:30,"cleaver, meat cleaver, chopper (27.7%); scabbard (4.0%); hatchet (4.0%)",SAFE,N/A
+20:42:30,"cleaver, meat cleaver, chopper (29.6%); scabbard (4.4%); hatchet (3.9%)",SAFE,N/A
+20:42:30,"cleaver, meat cleaver, chopper (20.8%); drumstick (4.3%); scabbard (3.7%)",SAFE,N/A
+20:42:30,"cleaver, meat cleaver, chopper (23.8%); drumstick (4.9%); scabbard (3.1%)",SAFE,N/A
+20:42:31,"cleaver, meat cleaver, chopper (29.5%); drumstick (3.8%); scabbard (3.8%)",SAFE,N/A
+20:42:31,"cleaver, meat cleaver, chopper (29.4%); scabbard (4.5%); hatchet (3.9%)",SAFE,N/A
+20:42:31,"cleaver, meat cleaver, chopper (32.5%); scabbard (4.7%); hatchet (3.3%)",SAFE,N/A
+20:42:31,"cleaver, meat cleaver, chopper (33.6%); scabbard (5.5%); hatchet (3.4%)",SAFE,N/A
+20:42:31,"cleaver, meat cleaver, chopper (32.7%); scabbard (5.5%); hatchet (3.5%)",SAFE,N/A
+20:42:32,"cleaver, meat cleaver, chopper (37.3%); scabbard (4.6%); hatchet (3.7%)",SAFE,N/A
+20:42:32,"cleaver, meat cleaver, chopper (44.2%); scabbard (5.9%); hatchet (3.1%)",SAFE,N/A
+20:42:32,"cleaver, meat cleaver, chopper (42.2%); scabbard (6.2%); hatchet (3.3%)",SAFE,N/A
+20:42:32,"cleaver, meat cleaver, chopper (40.7%); scabbard (6.8%); hatchet (3.2%)",SAFE,N/A
+20:42:33,"cleaver, meat cleaver, chopper (40.3%); scabbard (5.6%); hatchet (3.1%)",SAFE,N/A
+20:42:33,"cleaver, meat cleaver, chopper (36.2%); scabbard (5.5%); hatchet (3.8%)",SAFE,N/A
+20:42:33,"cleaver, meat cleaver, chopper (38.3%); scabbard (5.2%); hatchet (3.4%)",SAFE,N/A
+20:42:33,"cleaver, meat cleaver, chopper (35.9%); scabbard (5.9%); hatchet (3.9%)",SAFE,N/A
+20:42:34,"cleaver, meat cleaver, chopper (29.3%); scabbard (5.4%); drumstick (4.0%)",SAFE,N/A
+20:42:34,"cleaver, meat cleaver, chopper (36.3%); scabbard (6.0%); hatchet (4.3%)",SAFE,N/A
+20:42:34,"cleaver, meat cleaver, chopper (36.6%); scabbard (4.7%); drumstick (3.5%)",SAFE,N/A
+20:42:34,"cleaver, meat cleaver, chopper (32.4%); hatchet (4.9%); scabbard (4.5%)",SAFE,N/A
+20:42:35,"cleaver, meat cleaver, chopper (44.6%); letter opener, paper knife, paperknife (3.5%); drumstick (3.1%)",SAFE,N/A
+20:42:35,"cleaver, meat cleaver, chopper (53.3%); scabbard (3.1%); letter opener, paper knife, paperknife (2.9%)",SAFE,N/A
+20:42:35,"cleaver, meat cleaver, chopper (33.4%); scabbard (3.9%); letter opener, paper knife, paperknife (3.3%)",SAFE,N/A
+20:42:35,"cleaver, meat cleaver, chopper (25.9%); Injection (11.7%); drumstick (5.2%)",SAFE,N/A
+20:42:36,"cleaver, meat cleaver, chopper (37.3%); scabbard (5.8%); letter opener, paper knife, paperknife (5.1%)",SAFE,N/A
+20:42:36,"cleaver, meat cleaver, chopper (42.3%); letter opener, paper knife, paperknife (4.7%); scabbard (4.4%)",SAFE,N/A
+20:42:36,"cleaver, meat cleaver, chopper (36.8%); hatchet (5.4%); bow (5.3%)",SAFE,N/A
+20:42:36,"cleaver, meat cleaver, chopper (59.6%); hatchet (6.4%); hammer (6.2%)",SAFE,N/A
+20:42:37,"Injection (42.5%); torch (6.3%); cleaver, meat cleaver, chopper (4.6%)",SAFE,N/A
+20:42:37,"Injection (37.5%); hammer (15.1%); cleaver, meat cleaver, chopper (12.3%)",SAFE,N/A
+20:42:37,"Injection (46.1%); cleaver, meat cleaver, chopper (9.7%); hammer (9.5%)",SAFE,N/A
+20:42:37,"Injection (56.4%); cleaver, meat cleaver, chopper (13.2%); hammer (2.5%)",SAFE,N/A
+20:42:38,"Injection (70.6%); cleaver, meat cleaver, chopper (6.8%); hammer (3.9%)",SAFE,N/A
+20:42:38,"hammer (28.4%); Injection (19.2%); cleaver, meat cleaver, chopper (13.8%)",SAFE,N/A
+20:42:38,"cleaver, meat cleaver, chopper (18.5%); Injection (17.2%); hammer (10.8%)",SAFE,N/A
+20:42:38,"assault rifle, assault gun (19.2%); rifle (14.1%); cleaver, meat cleaver, chopper (8.0%)",ALERT,alert_20250414_204238_1.jpg
+20:42:39,"assault rifle, assault gun (22.3%); rifle (20.4%); Injection (14.8%)",ALERT,N/A
+20:42:39,"rifle (31.8%); assault rifle, assault gun (30.5%); revolver, six-gun, six-shooter (5.9%)",ALERT,N/A
+20:42:39,"rifle (18.5%); assault rifle, assault gun (18.5%); Injection (11.6%)",ALERT,N/A
+20:42:39,"cleaver, meat cleaver, chopper (21.7%); Injection (18.2%); hammer (13.0%)",SAFE,N/A
+20:42:40,"cleaver, meat cleaver, chopper (30.9%); letter opener, paper knife, paperknife (11.0%); drumstick (4.2%)",SAFE,N/A
+20:42:40,"cleaver, meat cleaver, chopper (38.2%); drumstick (8.5%); paintbrush (7.8%)",SAFE,N/A
+20:42:40,"cleaver, meat cleaver, chopper (56.3%); revolver, six-gun, six-shooter (3.4%); scabbard (3.3%)",SAFE,N/A
+20:42:40,"cleaver, meat cleaver, chopper (51.1%); letter opener, paper knife, paperknife (6.7%); drumstick (6.5%)",SAFE,N/A
+20:42:41,"cleaver, meat cleaver, chopper (41.9%); revolver, six-gun, six-shooter (14.8%); scabbard (4.2%)",SAFE,N/A
+20:42:41,"cleaver, meat cleaver, chopper (53.5%); letter opener, paper knife, paperknife (4.6%); scabbard (3.8%)",SAFE,N/A
+20:42:41,"cleaver, meat cleaver, chopper (72.5%); drumstick (4.2%); scabbard (2.6%)",SAFE,N/A
+20:42:41,"cleaver, meat cleaver, chopper (61.8%); drumstick (2.9%); Injection (1.8%)",SAFE,N/A
+20:42:42,"cleaver, meat cleaver, chopper (57.9%); revolver, six-gun, six-shooter (2.0%); electric guitar (1.5%)",SAFE,N/A
+20:42:42,"cleaver, meat cleaver, chopper (90.3%); spatula (0.6%); jackfruit, jak, jack (0.5%)",SAFE,N/A
+20:42:42,"cleaver, meat cleaver, chopper (96.2%); spatula (0.3%); scabbard (0.2%)",SAFE,N/A
+20:42:42,"cleaver, meat cleaver, chopper (93.4%); spatula (0.5%); plate (0.3%)",SAFE,N/A
+20:42:43,"cleaver, meat cleaver, chopper (46.8%); can opener, tin opener (4.3%); drumstick (3.9%)",SAFE,N/A
+20:42:43,"cleaver, meat cleaver, chopper (69.4%); drumstick (4.4%); scabbard (3.4%)",SAFE,N/A
+20:42:43,"cleaver, meat cleaver, chopper (64.4%); drumstick (9.4%); scabbard (3.0%)",SAFE,N/A
+20:42:43,"cleaver, meat cleaver, chopper (43.0%); chain saw, chainsaw (8.9%); drumstick (4.5%)",SAFE,N/A
+20:42:44,"cleaver, meat cleaver, chopper (48.5%); chain saw, chainsaw (4.8%); drumstick (2.4%)",SAFE,N/A
+20:42:44,"cleaver, meat cleaver, chopper (83.4%); chain saw, chainsaw (0.9%); Injection (0.7%)",SAFE,N/A
+20:42:44,"cleaver, meat cleaver, chopper (73.1%); scabbard (2.8%); chain saw, chainsaw (1.2%)",SAFE,N/A
+20:42:44,"cleaver, meat cleaver, chopper (92.8%); scabbard (1.5%); Injection (0.5%)",SAFE,N/A
+20:42:45,"cleaver, meat cleaver, chopper (97.8%); scabbard (0.2%); hatchet (0.1%)",SAFE,N/A
+20:42:45,"cleaver, meat cleaver, chopper (87.4%); scabbard (1.5%); Injection (0.8%)",SAFE,N/A
+20:42:45,"cleaver, meat cleaver, chopper (94.9%); scabbard (0.3%); hatchet (0.2%)",SAFE,N/A
+20:42:45,"cleaver, meat cleaver, chopper (91.7%); Injection (0.5%); scabbard (0.4%)",SAFE,N/A
+20:42:46,"cleaver, meat cleaver, chopper (69.6%); chain saw, chainsaw (1.2%); spatula (1.2%)",SAFE,N/A
+20:42:46,"cleaver, meat cleaver, chopper (15.9%); drumstick (3.7%); electric guitar (3.3%)",SAFE,N/A
+20:42:46,"laptop, laptop computer (5.0%); oboe, hautboy, hautbois (4.2%); space bar (3.7%)",SAFE,N/A
+20:42:46,"bassoon (6.1%); electric guitar (6.1%); chain saw, chainsaw (5.4%)",SAFE,N/A
+20:42:47,"cleaver, meat cleaver, chopper (10.4%); laptop, laptop computer (7.6%); paintbrush (6.7%)",SAFE,N/A
+20:42:47,potter's wheel (9.7%); drumstick (6.5%); electric guitar (5.3%),SAFE,N/A
+20:42:47,electric guitar (13.8%); harp (7.3%); rifle (6.8%),ALERT,alert_20250414_204247_2.jpg
+20:42:47,potter's wheel (18.8%); electric guitar (4.8%); harp (3.4%),SAFE,N/A
+01:19:45,"harmonica, mouth organ, harp, mouth harp (23.0%); cellular telephone, cellular phone, cellphone, cell, mobile phone (16.3%); ocarina, sweet potato (4.8%)",SAFE,N/A
+01:19:45,"harmonica, mouth organ, harp, mouth harp (14.0%); jersey, T-shirt, tee shirt (5.0%); panpipe, pandean pipe, syrinx (4.7%)",SAFE,N/A
+01:19:45,"harmonica, mouth organ, harp, mouth harp (15.7%); ocarina, sweet potato (15.4%); cellular telephone, cellular phone, cellphone, cell, mobile phone (5.0%)",SAFE,N/A
+01:19:46,"harmonica, mouth organ, harp, mouth harp (24.5%); cellular telephone, cellular phone, cellphone, cell, mobile phone (11.0%); ocarina, sweet potato (9.3%)",SAFE,N/A
+01:19:46,"harmonica, mouth organ, harp, mouth harp (20.0%); cellular telephone, cellular phone, cellphone, cell, mobile phone (18.0%); panpipe, pandean pipe, syrinx (5.6%)",SAFE,N/A
+01:19:46,"harmonica, mouth organ, harp, mouth harp (18.4%); cellular telephone, cellular phone, cellphone, cell, mobile phone (17.5%); jersey, T-shirt, tee shirt (5.9%)",SAFE,N/A
+01:19:47,"harmonica, mouth organ, harp, mouth harp (15.9%); jersey, T-shirt, tee shirt (10.2%); cellular telephone, cellular phone, cellphone, cell, mobile phone (8.9%)",SAFE,N/A
+01:19:47,"harmonica, mouth organ, harp, mouth harp (18.1%); cellular telephone, cellular phone, cellphone, cell, mobile phone (9.6%); ocarina, sweet potato (7.8%)",SAFE,N/A
+01:19:47,"candle, taper, wax light (37.8%); harmonica, mouth organ, harp, mouth harp (10.5%); cellular telephone, cellular phone, cellphone, cell, mobile phone (4.0%)",SAFE,N/A
+01:19:48,"candle, taper, wax light (79.8%); matchstick (1.1%); potter's wheel (0.8%)",SAFE,N/A
+01:19:48,"candle, taper, wax light (17.9%); matchstick (11.5%); lighter, light, igniter, ignitor (3.0%)",SAFE,N/A
+01:19:48,"candle, taper, wax light (29.8%); lighter, light, igniter, ignitor (6.8%); matchstick (3.7%)",SAFE,N/A
+01:19:49,"candle, taper, wax light (43.3%); matchstick (7.1%); lighter, light, igniter, ignitor (2.6%)",SAFE,N/A
+01:19:49,"candle, taper, wax light (15.3%); matchstick (5.4%); jack-o'-lantern (2.9%)",SAFE,N/A
+01:19:49,"candle, taper, wax light (63.1%); matchstick (11.9%); jack-o'-lantern (1.6%)",SAFE,N/A
+01:19:49,"candle, taper, wax light (39.6%); jack-o'-lantern (10.4%); matchstick (9.3%)",SAFE,N/A
+01:19:50,"candle, taper, wax light (58.2%); jack-o'-lantern (6.8%); matchstick (6.0%)",SAFE,N/A
+01:19:50,"candle, taper, wax light (70.5%); matchstick (7.2%); jack-o'-lantern (4.1%)",SAFE,N/A
+01:19:50,"jack-o'-lantern (21.4%); candle, taper, wax light (12.2%); lighter, light, igniter, ignitor (6.5%)",SAFE,N/A
+01:19:51,"scabbard (60.0%); letter opener, paper knife, paperknife (10.0%); cleaver, meat cleaver, chopper (8.4%)",SAFE,N/A
+01:19:51,"letter opener, paper knife, paperknife (34.2%); scabbard (23.8%); slide rule, slipstick (22.1%)",SAFE,N/A
+01:19:51,"can opener, tin opener (11.0%); cleaver, meat cleaver, chopper (8.5%); torch (7.7%)",SAFE,N/A
+01:19:51,"cleaver, meat cleaver, chopper (21.3%); letter opener, paper knife, paperknife (17.1%); scabbard (9.1%)",SAFE,N/A
+01:19:52,"cleaver, meat cleaver, chopper (42.2%); letter opener, paper knife, paperknife (4.6%); can opener, tin opener (3.2%)",SAFE,N/A
+01:19:52,"cleaver, meat cleaver, chopper (58.7%); letter opener, paper knife, paperknife (4.5%); lighter, light, igniter, ignitor (3.4%)",SAFE,N/A
+01:19:52,"cleaver, meat cleaver, chopper (32.2%); lighter, light, igniter, ignitor (10.2%); Injection (5.9%)",SAFE,N/A
+01:19:53,"lighter, light, igniter, ignitor (25.1%); cleaver, meat cleaver, chopper (20.2%); cellular telephone, cellular phone, cellphone, cell, mobile phone (4.6%)",SAFE,N/A
+01:19:53,"lighter, light, igniter, ignitor (23.0%); cleaver, meat cleaver, chopper (5.7%); Injection (5.6%)",SAFE,N/A
+01:19:53,"lighter, light, igniter, ignitor (29.3%); cleaver, meat cleaver, chopper (7.8%); cellular telephone, cellular phone, cellphone, cell, mobile phone (6.5%)",SAFE,N/A
+01:19:54,"lighter, light, igniter, ignitor (18.8%); cleaver, meat cleaver, chopper (14.0%); Injection (6.9%)",SAFE,N/A
+01:19:54,"cleaver, meat cleaver, chopper (33.8%); lighter, light, igniter, ignitor (11.9%); Injection (5.4%)",SAFE,N/A
+01:19:54,"cleaver, meat cleaver, chopper (33.3%); lighter, light, igniter, ignitor (8.1%); Injection (5.9%)",SAFE,N/A
+01:19:55,"cleaver, meat cleaver, chopper (26.5%); Injection (14.3%); lighter, light, igniter, ignitor (10.2%)",SAFE,N/A
+01:19:55,"cleaver, meat cleaver, chopper (33.6%); Injection (11.6%); lighter, light, igniter, ignitor (7.9%)",SAFE,N/A
+01:19:55,"lighter, light, igniter, ignitor (30.9%); Injection (17.9%); cleaver, meat cleaver, chopper (8.1%)",SAFE,N/A
+01:19:55,"lighter, light, igniter, ignitor (22.5%); Injection (19.6%); cleaver, meat cleaver, chopper (12.0%)",SAFE,N/A
+01:19:56,"Injection (21.9%); lighter, light, igniter, ignitor (21.1%); cleaver, meat cleaver, chopper (11.1%)",SAFE,N/A
+01:19:56,"Injection (26.0%); lighter, light, igniter, ignitor (20.9%); cleaver, meat cleaver, chopper (9.9%)",SAFE,N/A
+01:19:56,"Injection (23.8%); lighter, light, igniter, ignitor (22.4%); cleaver, meat cleaver, chopper (11.9%)",SAFE,N/A
+01:19:57,"Injection (20.8%); lighter, light, igniter, ignitor (17.4%); cleaver, meat cleaver, chopper (16.5%)",SAFE,N/A
+01:19:57,"torch (22.6%); cleaver, meat cleaver, chopper (9.1%); plunger, plumber's helper (6.3%)",SAFE,N/A
+01:19:57,"cleaver, meat cleaver, chopper (54.6%); plunger, plumber's helper (4.4%); torch (2.9%)",SAFE,N/A
+01:19:58,"cleaver, meat cleaver, chopper (20.8%); Injection (16.0%); letter opener, paper knife, paperknife (10.1%)",SAFE,N/A
+01:19:58,"drumstick (98.5%); drum, membranophone, tympan (0.4%); plunger, plumber's helper (0.2%)",SAFE,N/A
+01:19:58,"cleaver, meat cleaver, chopper (49.8%); letter opener, paper knife, paperknife (44.4%); drumstick (0.9%)",SAFE,N/A
+01:19:58,"drumstick (65.2%); flute, transverse flute (5.5%); plunger, plumber's helper (2.8%)",SAFE,N/A
+01:19:59,"drumstick (73.7%); plunger, plumber's helper (5.6%); maraca (4.2%)",SAFE,N/A
+01:19:59,"drumstick (45.1%); plunger, plumber's helper (9.1%); torch (4.7%)",SAFE,N/A
+01:19:59,"drumstick (56.3%); torch (6.3%); plunger, plumber's helper (6.0%)",SAFE,N/A
+01:20:00,"Injection (67.5%); cleaver, meat cleaver, chopper (8.0%); screwdriver (5.8%)",SAFE,N/A
+01:20:00,"candle, taper, wax light (48.8%); torch (24.4%); lighter, light, igniter, ignitor (11.6%)",SAFE,N/A
+01:20:00,Injection (99.1%); isopod (0.3%); screwdriver (0.0%),SAFE,N/A
+01:20:01,"Injection (96.7%); isopod (0.8%); quill, quill pen (0.1%)",SAFE,N/A
+01:20:01,"Injection (91.5%); isopod (1.3%); quill, quill pen (0.4%)",SAFE,N/A
+01:20:01,"Injection (96.6%); isopod (0.9%); quill, quill pen (0.1%)",SAFE,N/A
+01:20:01,Injection (23.7%); drumstick (9.7%); pole (5.6%),SAFE,N/A
+01:20:02,hartebeest (14.4%); drumstick (8.5%); bow (3.5%),SAFE,N/A
+01:20:02,"hartebeest (31.2%); bow (12.3%); impala, Aepyceros melampus (3.7%)",SAFE,N/A
+01:20:02,hartebeest (44.1%); warthog (3.7%); bow (3.6%),SAFE,N/A
+01:20:03,"Injection (24.2%); quill, quill pen (6.7%); hartebeest (4.4%)",SAFE,N/A
+01:24:47,"crutch (3.8%); tench, Tinca tinca (1.9%); miniskirt, mini (1.7%)",SAFE,N/A
+01:24:48,"potter's wheel (8.9%); drum, membranophone, tympan (4.0%); maraca (3.7%)",SAFE,N/A
+01:24:48,"maraca (51.4%); steel drum (3.6%); drum, membranophone, tympan (3.1%)",SAFE,N/A
+01:24:48,"maraca (14.3%); candle, taper, wax light (8.6%); lighter, light, igniter, ignitor (4.4%)",SAFE,N/A
+01:24:49,"maraca (12.7%); candle, taper, wax light (11.4%); matchstick (5.7%)",SAFE,N/A
+01:24:49,"candle, taper, wax light (15.6%); matchstick (6.9%); maraca (6.3%)",SAFE,N/A
+01:24:49,"candle, taper, wax light (18.0%); matchstick (5.4%); lighter, light, igniter, ignitor (5.3%)",SAFE,N/A
+01:24:50,potter's wheel (15.3%); maraca (4.2%); steel drum (4.1%),SAFE,N/A
+01:24:50,"potter's wheel (10.8%); Band Aid (8.1%); panpipe, pandean pipe, syrinx (3.0%)",SAFE,N/A
+01:24:50,Band Aid (22.2%); potter's wheel (8.2%); nipple (3.9%),SAFE,N/A
+01:24:51,"Band Aid (21.5%); potter's wheel (11.1%); jersey, T-shirt, tee shirt (3.5%)",SAFE,N/A
+01:24:51,"Band Aid (19.4%); potter's wheel (10.6%); jersey, T-shirt, tee shirt (5.4%)",SAFE,N/A
+01:24:51,"Band Aid (17.1%); jersey, T-shirt, tee shirt (7.2%); potter's wheel (7.1%)",SAFE,N/A
+01:24:51,"Band Aid (26.8%); nipple (6.7%); ice lolly, lolly, lollipop, popsicle (4.3%)",SAFE,N/A
+01:24:52,"ice lolly, lolly, lollipop, popsicle (23.2%); Band Aid (10.3%); nipple (6.9%)",SAFE,N/A
+01:24:52,maraca (23.5%); potter's wheel (6.8%); steel drum (6.3%),SAFE,N/A
+01:24:52,"potter's wheel (18.6%); tench, Tinca tinca (7.4%); steel drum (4.1%)",SAFE,N/A
+01:24:53,"potter's wheel (52.3%); Indian cobra, Naja naja (6.6%); steel drum (3.9%)",SAFE,N/A
+01:24:53,"potter's wheel (55.5%); Indian cobra, Naja naja (4.9%); steel drum (1.5%)",SAFE,N/A
+01:24:53,"potter's wheel (27.6%); steel drum (7.1%); tench, Tinca tinca (4.8%)",SAFE,N/A
+01:24:54,"potter's wheel (25.2%); steel drum (3.9%); Indian cobra, Naja naja (2.8%)",SAFE,N/A
+01:24:54,"potter's wheel (14.1%); steel drum (2.9%); jersey, T-shirt, tee shirt (2.6%)",SAFE,N/A
+01:24:54,"potter's wheel (19.0%); steel drum (3.2%); Indian cobra, Naja naja (2.2%)",SAFE,N/A
+01:24:54,"potter's wheel (14.2%); steel drum (4.4%); Indian cobra, Naja naja (3.3%)",SAFE,N/A
+01:24:55,"potter's wheel (11.4%); Indian cobra, Naja naja (4.8%); tench, Tinca tinca (2.5%)",SAFE,N/A
+01:24:55,"jersey, T-shirt, tee shirt (5.5%); steel drum (5.4%); potter's wheel (4.1%)",SAFE,N/A
+01:24:55,"potter's wheel (7.3%); steel drum (3.4%); jersey, T-shirt, tee shirt (3.0%)",SAFE,N/A
+01:24:56,"potter's wheel (7.6%); jersey, T-shirt, tee shirt (6.6%); maraca (3.1%)",SAFE,N/A
+01:24:56,"potter's wheel (14.9%); jersey, T-shirt, tee shirt (3.3%); maraca (3.3%)",SAFE,N/A
+01:24:56,"potter's wheel (16.7%); maraca (4.0%); jersey, T-shirt, tee shirt (2.9%)",SAFE,N/A
+01:24:57,potter's wheel (20.2%); maraca (3.3%); steel drum (2.7%),SAFE,N/A
+01:24:57,"potter's wheel (24.4%); steel drum (4.3%); jersey, T-shirt, tee shirt (2.6%)",SAFE,N/A
+01:24:57,"potter's wheel (22.1%); steel drum (7.8%); jersey, T-shirt, tee shirt (3.3%)",SAFE,N/A
+01:24:57,"potter's wheel (28.2%); jersey, T-shirt, tee shirt (3.3%); steel drum (1.8%)",SAFE,N/A
+01:24:58,"potter's wheel (15.2%); jersey, T-shirt, tee shirt (5.2%); Band Aid (2.4%)",SAFE,N/A
+01:24:58,"potter's wheel (16.8%); jersey, T-shirt, tee shirt (3.2%); Indian cobra, Naja naja (1.6%)",SAFE,N/A
+01:24:58,"potter's wheel (20.1%); steel drum (2.6%); jersey, T-shirt, tee shirt (2.2%)",SAFE,N/A
+01:24:59,"potter's wheel (42.8%); jersey, T-shirt, tee shirt (2.2%); maraca (2.0%)",SAFE,N/A
+01:24:59,potter's wheel (17.3%); maraca (9.0%); nipple (2.9%),SAFE,N/A
+01:24:59,"electric guitar (12.6%); cleaver, meat cleaver, chopper (7.5%); seat belt, seatbelt (6.9%)",SAFE,N/A
+01:25:00,"lighter, light, igniter, ignitor (52.2%); hair spray (9.7%); revolver, six-gun, six-shooter (4.5%)",SAFE,N/A
+01:25:00,"scabbard (21.1%); letter opener, paper knife, paperknife (17.5%); lighter, light, igniter, ignitor (7.7%)",SAFE,N/A
+01:25:00,"cleaver, meat cleaver, chopper (49.6%); scabbard (29.4%); letter opener, paper knife, paperknife (13.9%)",SAFE,N/A
+01:25:00,"scabbard (46.1%); cleaver, meat cleaver, chopper (26.3%); letter opener, paper knife, paperknife (22.8%)",SAFE,N/A
+01:25:01,"scabbard (31.7%); letter opener, paper knife, paperknife (15.5%); plane, carpenter's plane, woodworking plane (3.7%)",SAFE,N/A
+01:25:01,"letter opener, paper knife, paperknife (70.0%); cleaver, meat cleaver, chopper (11.9%); scabbard (7.4%)",SAFE,N/A
+01:25:01,"letter opener, paper knife, paperknife (89.6%); cleaver, meat cleaver, chopper (5.1%); scabbard (0.9%)",SAFE,N/A
+01:25:02,"letter opener, paper knife, paperknife (83.7%); cleaver, meat cleaver, chopper (12.2%); scabbard (0.8%)",SAFE,N/A
+01:25:02,"letter opener, paper knife, paperknife (84.6%); cleaver, meat cleaver, chopper (11.1%); scabbard (1.0%)",SAFE,N/A
+01:25:02,"cleaver, meat cleaver, chopper (55.4%); letter opener, paper knife, paperknife (37.5%); scabbard (2.0%)",SAFE,N/A
+01:25:03,"cleaver, meat cleaver, chopper (66.9%); letter opener, paper knife, paperknife (25.4%); scabbard (3.2%)",SAFE,N/A
+01:25:03,"cleaver, meat cleaver, chopper (71.7%); letter opener, paper knife, paperknife (19.9%); scabbard (3.2%)",SAFE,N/A
+01:25:03,"letter opener, paper knife, paperknife (46.1%); cleaver, meat cleaver, chopper (19.8%); scabbard (5.2%)",SAFE,N/A
+01:25:04,"letter opener, paper knife, paperknife (18.6%); cleaver, meat cleaver, chopper (17.2%); can opener, tin opener (9.0%)",SAFE,N/A
+01:25:04,"cleaver, meat cleaver, chopper (45.6%); letter opener, paper knife, paperknife (24.6%); scabbard (18.3%)",SAFE,N/A
+01:25:04,"cleaver, meat cleaver, chopper (44.9%); letter opener, paper knife, paperknife (18.6%); scabbard (17.0%)",SAFE,N/A
+01:25:04,"cleaver, meat cleaver, chopper (43.7%); letter opener, paper knife, paperknife (20.4%); scabbard (18.2%)",SAFE,N/A
+01:25:05,"cleaver, meat cleaver, chopper (51.0%); letter opener, paper knife, paperknife (18.0%); scabbard (16.3%)",SAFE,N/A
+01:25:05,"cleaver, meat cleaver, chopper (58.8%); letter opener, paper knife, paperknife (15.1%); scabbard (11.5%)",SAFE,N/A
+01:25:05,"cleaver, meat cleaver, chopper (50.2%); letter opener, paper knife, paperknife (16.5%); scabbard (15.3%)",SAFE,N/A
+01:25:06,"cleaver, meat cleaver, chopper (55.8%); letter opener, paper knife, paperknife (16.5%); scabbard (14.6%)",SAFE,N/A
+01:25:06,"cleaver, meat cleaver, chopper (55.7%); letter opener, paper knife, paperknife (18.5%); scabbard (11.3%)",SAFE,N/A
+01:25:06,"cleaver, meat cleaver, chopper (57.1%); letter opener, paper knife, paperknife (17.2%); scabbard (11.6%)",SAFE,N/A
+01:25:07,"cleaver, meat cleaver, chopper (52.8%); letter opener, paper knife, paperknife (22.0%); scabbard (11.6%)",SAFE,N/A
+01:25:07,"cleaver, meat cleaver, chopper (56.9%); letter opener, paper knife, paperknife (17.7%); scabbard (12.9%)",SAFE,N/A
+01:25:07,"cleaver, meat cleaver, chopper (60.7%); letter opener, paper knife, paperknife (16.8%); scabbard (10.9%)",SAFE,N/A
+01:25:07,"cleaver, meat cleaver, chopper (61.4%); scabbard (15.0%); letter opener, paper knife, paperknife (12.5%)",SAFE,N/A
+01:25:08,"cleaver, meat cleaver, chopper (59.5%); letter opener, paper knife, paperknife (15.6%); scabbard (14.9%)",SAFE,N/A
+01:25:08,"cleaver, meat cleaver, chopper (66.7%); scabbard (12.9%); letter opener, paper knife, paperknife (10.9%)",SAFE,N/A
+01:25:08,"cleaver, meat cleaver, chopper (62.7%); scabbard (14.8%); letter opener, paper knife, paperknife (11.9%)",SAFE,N/A
+01:25:09,"cleaver, meat cleaver, chopper (63.8%); scabbard (17.1%); letter opener, paper knife, paperknife (10.6%)",SAFE,N/A
+01:25:09,"cleaver, meat cleaver, chopper (62.6%); scabbard (17.3%); letter opener, paper knife, paperknife (12.3%)",SAFE,N/A
+01:25:09,"cleaver, meat cleaver, chopper (66.5%); scabbard (15.8%); letter opener, paper knife, paperknife (8.8%)",SAFE,N/A
+01:25:10,"cleaver, meat cleaver, chopper (63.4%); scabbard (18.1%); letter opener, paper knife, paperknife (10.1%)",SAFE,N/A
+01:25:10,"cleaver, meat cleaver, chopper (61.4%); scabbard (18.2%); letter opener, paper knife, paperknife (11.1%)",SAFE,N/A
+01:25:10,"cleaver, meat cleaver, chopper (65.0%); scabbard (13.4%); letter opener, paper knife, paperknife (10.8%)",SAFE,N/A
+01:25:10,"cleaver, meat cleaver, chopper (59.2%); scabbard (20.4%); letter opener, paper knife, paperknife (11.1%)",SAFE,N/A
+01:25:11,"cleaver, meat cleaver, chopper (62.2%); scabbard (16.4%); letter opener, paper knife, paperknife (12.9%)",SAFE,N/A
+01:25:11,"cleaver, meat cleaver, chopper (55.5%); scabbard (18.0%); letter opener, paper knife, paperknife (16.4%)",SAFE,N/A
+01:25:11,"cleaver, meat cleaver, chopper (54.2%); scabbard (23.1%); letter opener, paper knife, paperknife (13.5%)",SAFE,N/A
+01:25:12,"cleaver, meat cleaver, chopper (53.8%); scabbard (23.5%); letter opener, paper knife, paperknife (12.4%)",SAFE,N/A
+01:25:12,"cleaver, meat cleaver, chopper (61.7%); scabbard (18.0%); letter opener, paper knife, paperknife (11.2%)",SAFE,N/A
+01:25:12,"cleaver, meat cleaver, chopper (59.8%); scabbard (22.1%); letter opener, paper knife, paperknife (10.3%)",SAFE,N/A
+01:25:13,"cleaver, meat cleaver, chopper (58.1%); scabbard (20.4%); letter opener, paper knife, paperknife (13.0%)",SAFE,N/A
+01:25:13,"cleaver, meat cleaver, chopper (68.8%); scabbard (15.5%); letter opener, paper knife, paperknife (9.4%)",SAFE,N/A
+01:25:13,"cleaver, meat cleaver, chopper (72.2%); scabbard (13.6%); letter opener, paper knife, paperknife (9.4%)",SAFE,N/A
+01:25:14,"cleaver, meat cleaver, chopper (50.4%); scabbard (28.0%); letter opener, paper knife, paperknife (16.5%)",SAFE,N/A
+01:25:14,"letter opener, paper knife, paperknife (61.2%); scabbard (17.3%); cleaver, meat cleaver, chopper (15.1%)",SAFE,N/A
+01:25:14,"letter opener, paper knife, paperknife (35.4%); scabbard (19.3%); cleaver, meat cleaver, chopper (18.8%)",SAFE,N/A
+01:25:14,"scabbard (31.0%); letter opener, paper knife, paperknife (12.0%); cleaver, meat cleaver, chopper (9.0%)",SAFE,N/A
+01:25:15,"scabbard (35.8%); letter opener, paper knife, paperknife (18.2%); cleaver, meat cleaver, chopper (8.1%)",SAFE,N/A
+01:25:15,"scabbard (39.7%); letter opener, paper knife, paperknife (18.1%); cleaver, meat cleaver, chopper (7.5%)",SAFE,N/A
+01:25:15,"scabbard (40.5%); letter opener, paper knife, paperknife (19.9%); cleaver, meat cleaver, chopper (4.5%)",SAFE,N/A
+01:25:16,"scabbard (38.8%); letter opener, paper knife, paperknife (24.9%); cleaver, meat cleaver, chopper (4.9%)",SAFE,N/A
+01:25:16,"scabbard (43.4%); letter opener, paper knife, paperknife (28.4%); cleaver, meat cleaver, chopper (3.6%)",SAFE,N/A
+01:25:16,"scabbard (60.5%); letter opener, paper knife, paperknife (21.4%); cleaver, meat cleaver, chopper (4.1%)",SAFE,N/A
+01:25:17,"letter opener, paper knife, paperknife (45.2%); scabbard (37.0%); cleaver, meat cleaver, chopper (6.4%)",SAFE,N/A
+01:25:17,"letter opener, paper knife, paperknife (42.8%); scabbard (35.6%); cleaver, meat cleaver, chopper (11.6%)",SAFE,N/A
+01:25:17,"letter opener, paper knife, paperknife (46.9%); scabbard (33.9%); cleaver, meat cleaver, chopper (10.9%)",SAFE,N/A
+01:25:17,"letter opener, paper knife, paperknife (53.3%); scabbard (24.4%); cleaver, meat cleaver, chopper (13.9%)",SAFE,N/A
+01:25:18,"letter opener, paper knife, paperknife (51.8%); scabbard (31.2%); cleaver, meat cleaver, chopper (10.2%)",SAFE,N/A
+01:25:18,"letter opener, paper knife, paperknife (41.0%); scabbard (36.8%); cleaver, meat cleaver, chopper (11.8%)",SAFE,N/A
+01:25:18,"letter opener, paper knife, paperknife (43.9%); scabbard (31.7%); cleaver, meat cleaver, chopper (13.8%)",SAFE,N/A
+01:25:19,"letter opener, paper knife, paperknife (49.9%); scabbard (27.2%); cleaver, meat cleaver, chopper (12.5%)",SAFE,N/A
+01:25:19,"letter opener, paper knife, paperknife (54.3%); scabbard (25.6%); cleaver, meat cleaver, chopper (10.4%)",SAFE,N/A
+01:25:19,"letter opener, paper knife, paperknife (45.4%); scabbard (30.9%); cleaver, meat cleaver, chopper (11.6%)",SAFE,N/A
+01:25:20,"letter opener, paper knife, paperknife (52.0%); scabbard (26.2%); cleaver, meat cleaver, chopper (10.8%)",SAFE,N/A
+01:25:20,"letter opener, paper knife, paperknife (45.0%); scabbard (25.4%); cleaver, meat cleaver, chopper (18.1%)",SAFE,N/A
+01:25:20,"cleaver, meat cleaver, chopper (28.3%); letter opener, paper knife, paperknife (11.4%); scabbard (5.5%)",SAFE,N/A
+01:25:20,"revolver, six-gun, six-shooter (79.2%); letter opener, paper knife, paperknife (3.4%); cleaver, meat cleaver, chopper (1.5%)",SAFE,N/A
+01:25:21,"letter opener, paper knife, paperknife (65.8%); scabbard (17.3%); cleaver, meat cleaver, chopper (15.0%)",SAFE,N/A
+01:25:21,"letter opener, paper knife, paperknife (56.3%); cleaver, meat cleaver, chopper (23.6%); scabbard (18.0%)",SAFE,N/A
+01:25:21,"letter opener, paper knife, paperknife (53.1%); cleaver, meat cleaver, chopper (31.6%); scabbard (13.2%)",SAFE,N/A
+01:25:22,"letter opener, paper knife, paperknife (53.4%); cleaver, meat cleaver, chopper (32.5%); scabbard (11.9%)",SAFE,N/A
+01:25:22,"letter opener, paper knife, paperknife (58.2%); cleaver, meat cleaver, chopper (29.5%); scabbard (10.1%)",SAFE,N/A
+01:25:22,"letter opener, paper knife, paperknife (68.2%); scabbard (24.4%); cleaver, meat cleaver, chopper (6.3%)",SAFE,N/A
+01:25:23,"letter opener, paper knife, paperknife (70.2%); scabbard (27.3%); cleaver, meat cleaver, chopper (1.7%)",SAFE,N/A
+01:25:23,"letter opener, paper knife, paperknife (65.9%); scabbard (30.4%); cleaver, meat cleaver, chopper (2.0%)",SAFE,N/A
+01:25:23,"letter opener, paper knife, paperknife (55.9%); scabbard (39.8%); cleaver, meat cleaver, chopper (2.3%)",SAFE,N/A
+01:25:24,"scabbard (51.1%); letter opener, paper knife, paperknife (42.4%); cleaver, meat cleaver, chopper (4.1%)",SAFE,N/A
+01:25:24,"letter opener, paper knife, paperknife (60.1%); scabbard (36.5%); cleaver, meat cleaver, chopper (2.1%)",SAFE,N/A
+01:25:24,"letter opener, paper knife, paperknife (79.3%); scabbard (12.8%); cleaver, meat cleaver, chopper (4.9%)",SAFE,N/A
+01:25:24,"letter opener, paper knife, paperknife (49.3%); cleaver, meat cleaver, chopper (26.3%); scabbard (16.5%)",SAFE,N/A
+01:25:25,"cleaver, meat cleaver, chopper (69.1%); scabbard (14.6%); letter opener, paper knife, paperknife (10.4%)",SAFE,N/A
+01:25:25,"cleaver, meat cleaver, chopper (54.4%); scabbard (20.7%); letter opener, paper knife, paperknife (18.7%)",SAFE,N/A
+01:25:25,"letter opener, paper knife, paperknife (60.9%); scabbard (23.9%); cleaver, meat cleaver, chopper (10.4%)",SAFE,N/A
+01:25:25,"scabbard (53.7%); letter opener, paper knife, paperknife (32.6%); cleaver, meat cleaver, chopper (10.6%)",SAFE,N/A
+01:25:26,"letter opener, paper knife, paperknife (58.9%); cleaver, meat cleaver, chopper (26.5%); scabbard (8.4%)",SAFE,N/A
+01:25:26,"letter opener, paper knife, paperknife (60.3%); cleaver, meat cleaver, chopper (18.7%); scabbard (17.7%)",SAFE,N/A
+01:25:26,"letter opener, paper knife, paperknife (65.3%); scabbard (22.0%); cleaver, meat cleaver, chopper (10.4%)",SAFE,N/A
+01:25:27,"letter opener, paper knife, paperknife (67.0%); scabbard (20.3%); cleaver, meat cleaver, chopper (9.7%)",SAFE,N/A
+01:25:27,"letter opener, paper knife, paperknife (43.7%); scabbard (32.4%); cleaver, meat cleaver, chopper (19.0%)",SAFE,N/A
+01:25:27,"letter opener, paper knife, paperknife (44.8%); scabbard (29.3%); cleaver, meat cleaver, chopper (20.1%)",SAFE,N/A
+01:25:28,"letter opener, paper knife, paperknife (43.6%); scabbard (31.1%); cleaver, meat cleaver, chopper (18.9%)",SAFE,N/A
+01:25:28,"letter opener, paper knife, paperknife (37.9%); scabbard (33.2%); cleaver, meat cleaver, chopper (23.0%)",SAFE,N/A
+01:25:28,"letter opener, paper knife, paperknife (39.5%); cleaver, meat cleaver, chopper (28.8%); scabbard (26.8%)",SAFE,N/A
+01:25:29,"letter opener, paper knife, paperknife (39.6%); scabbard (28.0%); cleaver, meat cleaver, chopper (26.7%)",SAFE,N/A
+01:25:29,"letter opener, paper knife, paperknife (40.6%); cleaver, meat cleaver, chopper (29.8%); scabbard (24.2%)",SAFE,N/A
+01:25:29,"cleaver, meat cleaver, chopper (36.9%); scabbard (30.2%); letter opener, paper knife, paperknife (27.7%)",SAFE,N/A
+01:25:29,"letter opener, paper knife, paperknife (34.2%); scabbard (29.8%); cleaver, meat cleaver, chopper (28.7%)",SAFE,N/A
+01:25:30,"letter opener, paper knife, paperknife (32.6%); scabbard (31.2%); cleaver, meat cleaver, chopper (31.1%)",SAFE,N/A
+01:25:30,"letter opener, paper knife, paperknife (66.3%); scabbard (25.2%); cleaver, meat cleaver, chopper (5.5%)",SAFE,N/A
+01:25:30,"letter opener, paper knife, paperknife (50.2%); scabbard (41.5%); cleaver, meat cleaver, chopper (4.0%)",SAFE,N/A
+01:25:31,"letter opener, paper knife, paperknife (60.5%); scabbard (32.5%); cleaver, meat cleaver, chopper (3.0%)",SAFE,N/A
+01:25:31,"letter opener, paper knife, paperknife (53.9%); scabbard (38.3%); cleaver, meat cleaver, chopper (3.4%)",SAFE,N/A
+01:25:31,"letter opener, paper knife, paperknife (74.3%); scabbard (11.5%); cleaver, meat cleaver, chopper (9.4%)",SAFE,N/A
+01:25:31,"letter opener, paper knife, paperknife (71.1%); cleaver, meat cleaver, chopper (15.8%); scabbard (11.0%)",SAFE,N/A
+01:25:32,"letter opener, paper knife, paperknife (18.5%); cleaver, meat cleaver, chopper (16.5%); scabbard (7.3%)",SAFE,N/A
+01:25:32,"potter's wheel (8.3%); steel drum (3.6%); tench, Tinca tinca (3.3%)",SAFE,N/A
+01:25:32,"potter's wheel (26.7%); steel drum (6.5%); dugong, Dugong dugon (3.1%)",SAFE,N/A
+01:25:33,"potter's wheel (15.2%); steel drum (9.6%); tench, Tinca tinca (8.2%)",SAFE,N/A
+01:25:33,"steel drum (62.3%); gong, tam-tam (4.8%); marimba, xylophone (4.0%)",SAFE,N/A
+01:25:33,"potter's wheel (4.5%); maraca (4.2%); marimba, xylophone (1.9%)",SAFE,N/A
+01:25:33,"steel drum (7.2%); potter's wheel (5.0%); gong, tam-tam (2.7%)",SAFE,N/A
+01:25:34,"gong, tam-tam (16.1%); marimba, xylophone (10.7%); steel drum (8.8%)",SAFE,N/A
+01:25:34,oxygen mask (22.6%); nipple (17.7%); Band Aid (7.4%),SAFE,N/A
+01:25:34,"fly (5.2%); barn spider, Araneus cavaticus (3.9%); cicada, cicala (2.6%)",SAFE,N/A
+01:25:35,"maillot, tank suit (12.0%); maillot (9.1%); barn spider, Araneus cavaticus (4.5%)",SAFE,N/A
+01:25:35,"vine snake (27.2%); green mamba (11.0%); Indian cobra, Naja naja (3.6%)",SAFE,N/A
+01:25:35,"drumstick (5.8%); French horn, horn (2.5%); sunglass (2.1%)",SAFE,N/A
+01:25:36,"Injection (23.0%); black-footed ferret, ferret, Mustela nigripes (6.5%); polecat, fitch, foulmart, foumart, Mustela putorius (2.7%)",SAFE,N/A
+01:25:36,"sunglass (5.5%); sunglasses, dark glasses, shades (3.3%); cellular telephone, cellular phone, cellphone, cell, mobile phone (2.8%)",SAFE,N/A
+01:25:36,"umbrella (6.0%); punching bag, punch bag, punching ball, punchball (3.7%); cloak (2.4%)",SAFE,N/A
+01:25:36,umbrella (4.1%); crutch (2.4%); plastic bag (2.4%),SAFE,N/A
+01:25:37,"seat belt, seatbelt (2.9%); iron, smoothing iron (2.2%); lighter, light, igniter, ignitor (2.1%)",SAFE,N/A
+01:25:37,"pool table, billiard table, snooker table (13.3%); television, television system (4.8%); punching bag, punch bag, punching ball, punchball (4.2%)",SAFE,N/A
+01:25:37,"theater curtain, theatre curtain (7.9%); spotlight, spot (2.7%); home theater, home theatre (1.8%)",SAFE,N/A
+01:25:38,"table lamp (4.9%); redbone (2.0%); bloodhound, sleuthhound (1.8%)",SAFE,N/A
+01:25:38,"television, television system (3.0%); oxygen mask (2.2%); theater curtain, theatre curtain (1.8%)",SAFE,N/A
+01:25:38,"pool table, billiard table, snooker table (11.7%); television, television system (7.2%); spotlight, spot (2.7%)",SAFE,N/A
+01:25:39,"prison, prison house (21.2%); sleeping bag (14.5%); prayer rug, prayer mat (6.8%)",SAFE,N/A
+01:25:39,"stretcher (27.0%); prison, prison house (15.3%); prayer rug, prayer mat (9.3%)",SAFE,N/A
+01:25:39,"sleeping bag (23.4%); stretcher (17.5%); prayer rug, prayer mat (7.9%)",SAFE,N/A
+01:25:39,"stretcher (12.6%); prayer rug, prayer mat (6.2%); prison, prison house (2.7%)",SAFE,N/A
+01:25:40,stretcher (44.3%); sleeping bag (5.2%); neck brace (2.4%),SAFE,N/A
+01:25:40,"sarong (6.9%); wig (4.5%); shoe shop, shoe-shop, shoe store (3.9%)",SAFE,N/A
+01:25:40,"prayer rug, prayer mat (63.5%); doormat, welcome mat (3.9%); broom (1.8%)",SAFE,N/A
+01:25:41,"shoe shop, shoe-shop, shoe store (8.0%); maraca (5.2%); broom (3.2%)",SAFE,N/A
+01:25:41,"prayer rug, prayer mat (28.7%); jigsaw puzzle (5.7%); drum, membranophone, tympan (3.5%)",SAFE,N/A
+01:25:41,"potter's wheel (25.9%); prayer rug, prayer mat (11.1%); Indian cobra, Naja naja (5.4%)",SAFE,N/A
+01:25:42,"sarong (21.1%); potter's wheel (12.7%); prayer rug, prayer mat (10.2%)",SAFE,N/A
+01:25:42,"crutch (13.0%); stretcher (9.1%); barrow, garden cart, lawn cart, wheelbarrow (8.5%)",SAFE,N/A
+01:25:42,potter's wheel (13.3%); neck brace (5.6%); crutch (4.6%),SAFE,N/A
+01:25:42,"potter's wheel (15.4%); neck brace (10.7%); miniskirt, mini (5.5%)",SAFE,N/A
+01:25:43,"potter's wheel (21.3%); stretcher (10.6%); shoe shop, shoe-shop, shoe store (6.8%)",SAFE,N/A
+01:25:43,potter's wheel (64.4%); oxygen mask (1.1%); stretcher (0.9%),SAFE,N/A
+01:25:43,"potter's wheel (7.2%); cleaver, meat cleaver, chopper (5.5%); Mexican hairless (4.3%)",SAFE,N/A
+01:25:44,"cleaver, meat cleaver, chopper (78.9%); scabbard (4.5%); hatchet (1.5%)",SAFE,N/A
+01:25:44,"cleaver, meat cleaver, chopper (59.6%); scabbard (9.6%); shoe shop, shoe-shop, shoe store (3.1%)",SAFE,N/A
+01:25:44,"cleaver, meat cleaver, chopper (86.5%); scabbard (3.5%); letter opener, paper knife, paperknife (0.6%)",SAFE,N/A
+01:25:45,"cleaver, meat cleaver, chopper (85.7%); scabbard (2.8%); letter opener, paper knife, paperknife (2.1%)",SAFE,N/A
+01:25:45,"cleaver, meat cleaver, chopper (45.9%); potter's wheel (7.5%); letter opener, paper knife, paperknife (4.0%)",SAFE,N/A
+01:25:45,"cleaver, meat cleaver, chopper (59.7%); potter's wheel (4.6%); letter opener, paper knife, paperknife (4.5%)",SAFE,N/A
+01:25:45,"cleaver, meat cleaver, chopper (56.6%); potter's wheel (4.7%); letter opener, paper knife, paperknife (4.5%)",SAFE,N/A
+01:25:46,"cleaver, meat cleaver, chopper (75.3%); scabbard (3.3%); letter opener, paper knife, paperknife (2.7%)",SAFE,N/A
+01:25:46,"cleaver, meat cleaver, chopper (88.9%); letter opener, paper knife, paperknife (2.4%); scabbard (1.3%)",SAFE,N/A
+01:25:46,"cleaver, meat cleaver, chopper (78.0%); letter opener, paper knife, paperknife (4.9%); scabbard (4.1%)",SAFE,N/A
+01:25:47,"cleaver, meat cleaver, chopper (68.0%); scabbard (8.5%); letter opener, paper knife, paperknife (6.9%)",SAFE,N/A
+01:25:47,"cleaver, meat cleaver, chopper (60.5%); scabbard (8.0%); letter opener, paper knife, paperknife (6.6%)",SAFE,N/A
+01:25:47,"cleaver, meat cleaver, chopper (75.7%); letter opener, paper knife, paperknife (5.5%); scabbard (5.1%)",SAFE,N/A
+01:25:48,"cleaver, meat cleaver, chopper (63.5%); letter opener, paper knife, paperknife (11.4%); scabbard (6.1%)",SAFE,N/A
+01:25:48,"cleaver, meat cleaver, chopper (61.8%); letter opener, paper knife, paperknife (11.5%); scabbard (6.6%)",SAFE,N/A
+01:25:48,"cleaver, meat cleaver, chopper (71.9%); letter opener, paper knife, paperknife (11.2%); scabbard (5.9%)",SAFE,N/A
+01:25:48,"cleaver, meat cleaver, chopper (82.7%); letter opener, paper knife, paperknife (5.5%); scabbard (1.5%)",SAFE,N/A
+01:25:49,"cleaver, meat cleaver, chopper (43.7%); letter opener, paper knife, paperknife (6.1%); scabbard (5.3%)",SAFE,N/A
+01:29:43,"potter's wheel (31.7%); steel drum (3.4%); marimba, xylophone (3.0%)",SAFE,N/A
+01:29:43,"potter's wheel (57.0%); Indian cobra, Naja naja (3.1%); ocarina, sweet potato (1.3%)",SAFE,N/A
+01:29:43,"potter's wheel (16.7%); Indian cobra, Naja naja (12.3%); steel drum (3.2%)",SAFE,N/A
+01:29:44,"maraca (20.2%); steel drum (8.7%); gong, tam-tam (5.3%)",SAFE,N/A
+01:29:44,"potter's wheel (33.2%); marimba, xylophone (6.1%); maraca (3.3%)",SAFE,N/A
+01:29:44,"steel drum (37.4%); marimba, xylophone (5.7%); gong, tam-tam (4.2%)",SAFE,N/A
+01:29:45,"steel drum (34.7%); marimba, xylophone (7.7%); gong, tam-tam (5.1%)",SAFE,N/A
+01:29:45,"steel drum (32.7%); potter's wheel (14.7%); gong, tam-tam (4.7%)",SAFE,N/A
+01:29:45,"jersey, T-shirt, tee shirt (8.4%); maraca (6.1%); steel drum (3.9%)",SAFE,N/A
+01:29:45,"maraca (11.0%); steel drum (7.8%); jersey, T-shirt, tee shirt (5.4%)",SAFE,N/A
+01:29:46,steel drum (21.1%); maraca (17.8%); drumstick (10.0%),SAFE,N/A
+01:29:46,"maraca (87.9%); drumstick (2.6%); marimba, xylophone (1.8%)",SAFE,N/A
+01:29:46,"maraca (27.0%); nipple (4.8%); jersey, T-shirt, tee shirt (4.7%)",SAFE,N/A
+01:29:47,"potter's wheel (25.3%); steel drum (19.2%); marimba, xylophone (8.0%)",SAFE,N/A
+01:29:47,maraca (32.0%); potter's wheel (28.2%); steel drum (13.0%),SAFE,N/A
+01:29:47,"potter's wheel (15.8%); Indian cobra, Naja naja (5.0%); maraca (4.3%)",SAFE,N/A
+01:29:48,"ice cream, icecream (29.7%); trifle (14.7%); chocolate sauce, chocolate syrup (11.6%)",SAFE,N/A
+01:29:48,"ice cream, icecream (27.6%); trifle (10.0%); chocolate sauce, chocolate syrup (4.9%)",SAFE,N/A
+01:29:48,"ice cream, icecream (38.0%); trifle (10.3%); chocolate sauce, chocolate syrup (6.2%)",SAFE,N/A
+01:29:48,"ice cream, icecream (43.2%); trifle (7.2%); chocolate sauce, chocolate syrup (5.2%)",SAFE,N/A
+01:29:49,"ice cream, icecream (40.3%); trifle (7.8%); chocolate sauce, chocolate syrup (5.8%)",SAFE,N/A
+01:29:49,"potter's wheel (9.7%); ice cream, icecream (8.7%); Indian cobra, Naja naja (7.3%)",SAFE,N/A
+01:29:49,"potter's wheel (19.6%); Indian cobra, Naja naja (17.2%); shoe shop, shoe-shop, shoe store (3.6%)",SAFE,N/A
+01:29:50,"potter's wheel (15.2%); Indian cobra, Naja naja (5.4%); maraca (4.1%)",SAFE,N/A
+01:29:50,"potter's wheel (18.4%); Indian cobra, Naja naja (17.7%); polecat, fitch, foulmart, foumart, Mustela putorius (2.0%)",SAFE,N/A
+01:29:50,"potter's wheel (29.6%); Indian cobra, Naja naja (5.5%); maraca (3.8%)",SAFE,N/A
+01:29:51,"potter's wheel (34.1%); Indian cobra, Naja naja (8.2%); abaya (3.8%)",SAFE,N/A
+01:29:51,potter's wheel (18.3%); maraca (6.1%); nipple (5.4%),SAFE,N/A
+01:29:51,"candle, taper, wax light (6.0%); potter's wheel (6.0%); shoe shop, shoe-shop, shoe store (5.8%)",SAFE,N/A
+01:29:51,"maraca (8.9%); candle, taper, wax light (4.4%); steel drum (4.3%)",SAFE,N/A
+01:29:52,"steel drum (3.6%); candle, taper, wax light (3.5%); plastic bag (2.6%)",SAFE,N/A
+01:29:52,steel drum (3.4%); abaya (3.2%); plastic bag (2.8%),SAFE,N/A
+01:29:52,"candle, taper, wax light (9.0%); maraca (6.4%); piggy bank, penny bank (3.1%)",SAFE,N/A
+01:29:53,plastic bag (8.0%); maraca (7.5%); abaya (1.7%),SAFE,N/A
+01:29:53,"cleaver, meat cleaver, chopper (68.2%); scabbard (13.3%); letter opener, paper knife, paperknife (5.1%)",SAFE,N/A
+01:29:53,"cleaver, meat cleaver, chopper (79.7%); scabbard (8.6%); letter opener, paper knife, paperknife (4.0%)",SAFE,N/A
+01:29:54,"cleaver, meat cleaver, chopper (26.3%); flute, transverse flute (14.9%); Injection (9.4%)",SAFE,N/A
+01:29:54,"scabbard (83.4%); bow (5.3%); letter opener, paper knife, paperknife (4.2%)",SAFE,N/A
+01:29:54,"scabbard (46.0%); letter opener, paper knife, paperknife (18.3%); cleaver, meat cleaver, chopper (7.2%)",SAFE,N/A
+01:29:54,"scabbard (48.5%); cleaver, meat cleaver, chopper (21.4%); letter opener, paper knife, paperknife (15.8%)",SAFE,N/A
+01:29:55,"scabbard (64.9%); cleaver, meat cleaver, chopper (16.6%); letter opener, paper knife, paperknife (5.9%)",SAFE,N/A
+01:29:55,"scabbard (56.1%); cleaver, meat cleaver, chopper (5.9%); pole (4.3%)",SAFE,N/A
+01:29:55,"scabbard (58.8%); cleaver, meat cleaver, chopper (15.3%); letter opener, paper knife, paperknife (3.6%)",SAFE,N/A
+01:29:56,"scabbard (70.6%); cleaver, meat cleaver, chopper (9.8%); letter opener, paper knife, paperknife (5.2%)",SAFE,N/A
+01:29:56,"scabbard (61.1%); cleaver, meat cleaver, chopper (10.1%); letter opener, paper knife, paperknife (7.5%)",SAFE,N/A
+01:29:56,"scabbard (61.4%); cleaver, meat cleaver, chopper (10.0%); letter opener, paper knife, paperknife (8.8%)",SAFE,N/A
+01:29:57,"scabbard (42.3%); letter opener, paper knife, paperknife (7.7%); cleaver, meat cleaver, chopper (7.5%)",SAFE,N/A
+01:29:57,"scabbard (56.5%); letter opener, paper knife, paperknife (9.5%); cleaver, meat cleaver, chopper (9.0%)",SAFE,N/A
+01:29:57,"scabbard (58.1%); cleaver, meat cleaver, chopper (9.6%); letter opener, paper knife, paperknife (8.1%)",SAFE,N/A
+01:29:57,"scabbard (60.6%); letter opener, paper knife, paperknife (8.2%); cleaver, meat cleaver, chopper (3.5%)",SAFE,N/A
+01:29:58,"scabbard (65.8%); letter opener, paper knife, paperknife (7.5%); cleaver, meat cleaver, chopper (3.6%)",SAFE,N/A
+01:29:58,"scabbard (51.2%); pole (8.6%); letter opener, paper knife, paperknife (5.4%)",SAFE,N/A
+01:29:58,"scabbard (29.0%); drumstick (9.3%); letter opener, paper knife, paperknife (5.6%)",SAFE,N/A
+01:29:59,"scabbard (30.2%); cleaver, meat cleaver, chopper (6.3%); torch (5.8%)",SAFE,N/A
+01:29:59,"scabbard (8.8%); pool table, billiard table, snooker table (8.1%); parallel bars, bars (7.5%)",SAFE,N/A
+01:29:59,"scabbard (33.4%); letter opener, paper knife, paperknife (8.6%); pole (6.8%)",SAFE,N/A
+01:30:00,"scabbard (42.4%); letter opener, paper knife, paperknife (8.7%); pole (7.3%)",SAFE,N/A
+01:30:00,"scabbard (48.8%); letter opener, paper knife, paperknife (13.8%); pole (2.8%)",SAFE,N/A
+01:30:00,"scabbard (34.0%); pole (8.2%); letter opener, paper knife, paperknife (6.9%)",SAFE,N/A
+01:30:00,"scabbard (34.0%); pole (7.4%); letter opener, paper knife, paperknife (7.4%)",SAFE,N/A
+01:30:01,"scabbard (34.7%); cleaver, meat cleaver, chopper (6.8%); pole (6.3%)",SAFE,N/A
+01:30:01,"scabbard (28.3%); cleaver, meat cleaver, chopper (9.6%); pole (6.1%)",SAFE,N/A
+01:30:01,"cleaver, meat cleaver, chopper (30.7%); scabbard (13.6%); letter opener, paper knife, paperknife (4.1%)",SAFE,N/A
+01:30:02,"scabbard (19.2%); pole (17.4%); cleaver, meat cleaver, chopper (8.4%)",SAFE,N/A
+01:30:02,"pole (13.0%); scabbard (10.5%); plunger, plumber's helper (3.2%)",SAFE,N/A
+01:30:02,"pole (10.8%); flute, transverse flute (5.6%); potter's wheel (3.8%)",SAFE,N/A
+01:30:02,"scabbard (8.8%); cleaver, meat cleaver, chopper (5.6%); maraca (5.0%)",SAFE,N/A
+01:30:03,"ballplayer, baseball player (17.7%); pole (8.1%); racket, racquet (7.7%)",SAFE,N/A
+01:31:27,"steel drum (8.0%); potter's wheel (2.8%); candle, taper, wax light (2.3%)",SAFE,N/A
+01:31:28,"candle, taper, wax light (7.4%); potter's wheel (7.1%); maraca (3.7%)",SAFE,N/A
+01:31:28,"maraca (30.1%); ocarina, sweet potato (5.5%); steel drum (5.3%)",SAFE,N/A
+01:31:28,"abaya (16.5%); candle, taper, wax light (5.5%); matchstick (3.2%)",SAFE,N/A
+01:31:29,abaya (55.2%); ski mask (1.3%); matchstick (1.3%),SAFE,N/A
+01:31:29,"abaya (20.3%); candle, taper, wax light (4.1%); matchstick (2.5%)",SAFE,N/A
+01:31:29,"candle, taper, wax light (44.4%); trifle (3.9%); ice cream, icecream (3.6%)",SAFE,N/A
+01:31:30,"candle, taper, wax light (20.8%); ice cream, icecream (11.4%); chocolate sauce, chocolate syrup (3.6%)",SAFE,N/A
+01:31:30,"candle, taper, wax light (38.6%); ice cream, icecream (3.8%); bakery, bakeshop, bakehouse (3.4%)",SAFE,N/A
+01:31:30,"abaya (7.1%); candle, taper, wax light (6.8%); trifle (2.9%)",SAFE,N/A
+01:31:30,"abaya (32.2%); candle, taper, wax light (3.2%); potter's wheel (2.2%)",SAFE,N/A
+01:31:31,"abaya (46.4%); candle, taper, wax light (2.1%); maraca (1.9%)",SAFE,N/A
+01:31:31,steel drum (13.2%); potter's wheel (3.9%); maraca (3.0%),SAFE,N/A
+01:31:31,"steel drum (18.4%); potter's wheel (4.4%); drum, membranophone, tympan (3.4%)",SAFE,N/A
+01:31:32,"steel drum (30.3%); potter's wheel (4.5%); drum, membranophone, tympan (4.1%)",SAFE,N/A
+01:31:32,"steel drum (32.1%); potter's wheel (3.7%); drum, membranophone, tympan (3.4%)",SAFE,N/A
+01:31:32,"steel drum (9.8%); candle, taper, wax light (3.9%); abaya (3.8%)",SAFE,N/A
+01:31:32,"candle, taper, wax light (10.9%); matchstick (1.7%); Indian cobra, Naja naja (1.6%)",SAFE,N/A
+01:31:33,"candle, taper, wax light (33.0%); matchstick (6.6%); iron, smoothing iron (1.3%)",SAFE,N/A
+10:41:20,"cleaver, meat cleaver, chopper (79.6%); iron, smoothing iron (12.4%); scabbard (1.7%)",SAFE,N/A
+10:41:20,"racket, racquet (13.7%); drumstick (11.1%); hammer (7.4%)",SAFE,N/A
+10:41:20,"chain saw, chainsaw (11.1%); scabbard (11.0%); cleaver, meat cleaver, chopper (7.5%)",SAFE,N/A
+10:41:21,"chain saw, chainsaw (11.2%); scabbard (7.3%); Injection (7.1%)",SAFE,N/A
+10:41:21,"scabbard (17.3%); chain saw, chainsaw (12.1%); cleaver, meat cleaver, chopper (10.4%)",SAFE,N/A
+10:41:21,"letter opener, paper knife, paperknife (15.9%); cleaver, meat cleaver, chopper (14.0%); scabbard (8.6%)",SAFE,N/A
+10:41:21,"cleaver, meat cleaver, chopper (23.4%); letter opener, paper knife, paperknife (18.3%); scabbard (16.3%)",SAFE,N/A
+10:41:22,"scabbard (44.7%); cleaver, meat cleaver, chopper (24.3%); letter opener, paper knife, paperknife (13.1%)",SAFE,N/A
+10:41:22,"chain saw, chainsaw (27.8%); scabbard (20.1%); letter opener, paper knife, paperknife (8.6%)",SAFE,N/A
+10:41:22,"cleaver, meat cleaver, chopper (36.4%); scabbard (26.5%); letter opener, paper knife, paperknife (13.3%)",SAFE,N/A
+10:41:23,"cleaver, meat cleaver, chopper (67.5%); scabbard (9.4%); letter opener, paper knife, paperknife (7.4%)",SAFE,N/A
+10:41:23,"cleaver, meat cleaver, chopper (73.3%); scabbard (12.5%); letter opener, paper knife, paperknife (3.3%)",SAFE,N/A
+10:41:23,"cleaver, meat cleaver, chopper (90.5%); scabbard (2.1%); letter opener, paper knife, paperknife (1.7%)",SAFE,N/A
+10:41:24,"cleaver, meat cleaver, chopper (75.1%); letter opener, paper knife, paperknife (12.1%); scabbard (3.2%)",SAFE,N/A
+10:41:24,"cleaver, meat cleaver, chopper (80.8%); Injection (3.7%); scabbard (2.1%)",SAFE,N/A
+10:41:24,"letter opener, paper knife, paperknife (32.4%); cleaver, meat cleaver, chopper (28.0%); quill, quill pen (11.8%)",SAFE,N/A
+10:41:24,"cleaver, meat cleaver, chopper (35.6%); chain saw, chainsaw (29.2%); scabbard (6.7%)",SAFE,N/A
+10:41:25,"cleaver, meat cleaver, chopper (51.2%); chain saw, chainsaw (9.1%); letter opener, paper knife, paperknife (8.8%)",SAFE,N/A
+10:41:25,"cleaver, meat cleaver, chopper (16.3%); letter opener, paper knife, paperknife (9.3%); scabbard (7.8%)",SAFE,N/A
+10:41:25,"cleaver, meat cleaver, chopper (34.7%); letter opener, paper knife, paperknife (14.5%); scabbard (10.4%)",SAFE,N/A
+10:41:26,"cleaver, meat cleaver, chopper (39.4%); scabbard (8.5%); letter opener, paper knife, paperknife (8.5%)",SAFE,N/A
+10:41:26,"cleaver, meat cleaver, chopper (42.3%); letter opener, paper knife, paperknife (14.8%); scabbard (11.9%)",SAFE,N/A
+10:41:26,"cleaver, meat cleaver, chopper (29.4%); letter opener, paper knife, paperknife (22.5%); scabbard (15.8%)",SAFE,N/A
+10:41:27,"cleaver, meat cleaver, chopper (25.9%); scabbard (20.9%); letter opener, paper knife, paperknife (15.6%)",SAFE,N/A
+10:41:27,"cleaver, meat cleaver, chopper (25.5%); letter opener, paper knife, paperknife (16.3%); scabbard (9.4%)",SAFE,N/A
+10:41:27,"cleaver, meat cleaver, chopper (28.8%); letter opener, paper knife, paperknife (15.9%); scabbard (8.0%)",SAFE,N/A
+10:41:27,"cleaver, meat cleaver, chopper (24.7%); letter opener, paper knife, paperknife (17.8%); scabbard (7.5%)",SAFE,N/A
+10:41:28,"cleaver, meat cleaver, chopper (25.2%); letter opener, paper knife, paperknife (17.3%); scabbard (8.5%)",SAFE,N/A
+10:41:28,"cleaver, meat cleaver, chopper (24.0%); letter opener, paper knife, paperknife (19.6%); scabbard (8.4%)",SAFE,N/A
+10:41:28,"cleaver, meat cleaver, chopper (20.7%); letter opener, paper knife, paperknife (17.4%); scabbard (8.3%)",SAFE,N/A
+10:41:29,"cleaver, meat cleaver, chopper (21.3%); letter opener, paper knife, paperknife (20.1%); scabbard (9.2%)",SAFE,N/A
+10:41:29,"cleaver, meat cleaver, chopper (23.2%); letter opener, paper knife, paperknife (18.5%); scabbard (9.6%)",SAFE,N/A
+10:41:29,"cleaver, meat cleaver, chopper (21.8%); letter opener, paper knife, paperknife (18.4%); scabbard (8.5%)",SAFE,N/A
+10:41:30,"cleaver, meat cleaver, chopper (23.5%); letter opener, paper knife, paperknife (18.1%); scabbard (10.0%)",SAFE,N/A
+10:41:30,"cleaver, meat cleaver, chopper (23.4%); letter opener, paper knife, paperknife (19.1%); scabbard (8.5%)",SAFE,N/A
+10:41:30,"cleaver, meat cleaver, chopper (28.8%); letter opener, paper knife, paperknife (18.7%); scabbard (10.1%)",SAFE,N/A
+10:41:30,"cleaver, meat cleaver, chopper (34.1%); letter opener, paper knife, paperknife (15.3%); scabbard (8.0%)",SAFE,N/A
+10:41:31,"cleaver, meat cleaver, chopper (31.3%); letter opener, paper knife, paperknife (11.8%); scabbard (8.5%)",SAFE,N/A
+10:41:31,"cleaver, meat cleaver, chopper (30.4%); letter opener, paper knife, paperknife (15.7%); scabbard (9.5%)",SAFE,N/A
+10:41:31,"Injection (83.3%); cleaver, meat cleaver, chopper (2.3%); scabbard (1.4%)",SAFE,N/A
+10:41:32,Injection (22.7%); screwdriver (5.8%); power drill (3.2%),SAFE,N/A
+10:41:32,"maraca (14.9%); drumstick (7.9%); prison, prison house (4.5%)",SAFE,N/A
+10:41:32,drumstick (15.7%); maraca (9.1%); Injection (8.5%),SAFE,N/A
+10:41:32,"maraca (7.1%); prison, prison house (4.3%); potter's wheel (3.0%)",SAFE,N/A
+10:41:33,"prison, prison house (8.6%); maraca (6.2%); neck brace (2.7%)",SAFE,N/A
+10:41:33,"maraca (4.1%); punching bag, punch bag, punching ball, punchball (3.1%); drum, membranophone, tympan (3.1%)",SAFE,N/A
+10:41:33,"revolver, six-gun, six-shooter (14.7%); maraca (10.1%); electric guitar (4.0%)",SAFE,N/A
+10:41:34,"revolver, six-gun, six-shooter (53.7%); screwdriver (2.3%); power drill (2.2%)",SAFE,N/A
+10:41:34,"revolver, six-gun, six-shooter (37.6%); rifle (3.4%); maraca (2.5%)",ALERT,alert_20250415_104134_1.jpg
+10:41:34,"revolver, six-gun, six-shooter (29.7%); screwdriver (3.3%); power drill (2.9%)",SAFE,N/A
+10:41:35,"revolver, six-gun, six-shooter (15.0%); screwdriver (4.3%); Injection (3.1%)",SAFE,N/A
+10:41:35,"revolver, six-gun, six-shooter (14.4%); screwdriver (4.0%); prison, prison house (3.4%)",SAFE,N/A
+10:41:35,"revolver, six-gun, six-shooter (32.6%); screwdriver (4.0%); rifle (3.8%)",ALERT,alert_20250415_104135_2.jpg
+10:41:35,"revolver, six-gun, six-shooter (7.8%); screwdriver (7.5%); Injection (5.5%)",SAFE,N/A
+10:41:36,maraca (8.6%); swing (4.2%); drumstick (3.7%),SAFE,N/A
+10:41:36,"drumstick (11.8%); cleaver, meat cleaver, chopper (5.4%); Injection (5.0%)",SAFE,N/A
+10:41:36,"cleaver, meat cleaver, chopper (10.5%); Injection (9.6%); drumstick (5.8%)",SAFE,N/A
+10:41:37,"Injection (7.6%); cleaver, meat cleaver, chopper (6.8%); revolver, six-gun, six-shooter (5.1%)",SAFE,N/A
+10:41:37,"cleaver, meat cleaver, chopper (10.7%); Injection (8.7%); drumstick (6.1%)",SAFE,N/A
+10:41:37,"drumstick (14.6%); Injection (4.3%); cleaver, meat cleaver, chopper (3.5%)",SAFE,N/A
+10:41:38,"cleaver, meat cleaver, chopper (11.6%); drumstick (3.0%); Weimaraner (2.9%)",SAFE,N/A
+10:41:38,"cleaver, meat cleaver, chopper (20.9%); potter's wheel (5.2%); chain saw, chainsaw (2.6%)",SAFE,N/A
+10:41:38,nipple (16.5%); oxygen mask (10.6%); Injection (5.4%),SAFE,N/A
+10:41:38,"drumstick (6.0%); oxygen mask (5.8%); drum, membranophone, tympan (5.5%)",SAFE,N/A
+10:41:39,maraca (8.9%); oxygen mask (8.3%); nipple (7.6%),SAFE,N/A
+10:43:24,"sturgeon (33.5%); barracouta, snoek (12.8%); eel (9.2%)",SAFE,N/A
+10:43:24,"eel (8.8%); barracouta, snoek (7.5%); cucumber, cuke (6.3%)",SAFE,N/A
+10:43:25,"jersey, T-shirt, tee shirt (31.9%); maraca (5.6%); nipple (2.3%)",SAFE,N/A
+10:43:25,"maraca (28.3%); nipple (9.5%); ice lolly, lolly, lollipop, popsicle (3.1%)",SAFE,N/A
+10:43:25,"potter's wheel (15.9%); maraca (10.2%); Indian cobra, Naja naja (2.9%)",SAFE,N/A
+10:43:26,"ice lolly, lolly, lollipop, popsicle (26.8%); nipple (15.6%); maraca (11.1%)",SAFE,N/A
+10:43:26,"ice lolly, lolly, lollipop, popsicle (9.0%); cleaver, meat cleaver, chopper (5.7%); hair spray (5.6%)",SAFE,N/A
+10:43:26,"torch (41.7%); lighter, light, igniter, ignitor (15.3%); hair spray (3.7%)",SAFE,N/A
+10:43:27,"cleaver, meat cleaver, chopper (45.2%); Injection (9.7%); drumstick (3.1%)",SAFE,N/A
+10:43:27,"Injection (47.5%); cleaver, meat cleaver, chopper (21.7%); screwdriver (11.7%)",SAFE,N/A
+10:43:27,"Injection (96.6%); screwdriver (0.5%); cleaver, meat cleaver, chopper (0.2%)",SAFE,N/A
+10:43:27,"Injection (38.1%); cleaver, meat cleaver, chopper (35.1%); scabbard (3.0%)",SAFE,N/A
+10:43:28,"Injection (61.4%); cleaver, meat cleaver, chopper (19.3%); letter opener, paper knife, paperknife (3.4%)",SAFE,N/A
+10:43:28,"cleaver, meat cleaver, chopper (46.8%); Injection (28.4%); letter opener, paper knife, paperknife (4.9%)",SAFE,N/A
+10:43:28,"Injection (46.8%); cleaver, meat cleaver, chopper (30.5%); letter opener, paper knife, paperknife (3.8%)",SAFE,N/A
+10:43:29,"Injection (51.4%); cleaver, meat cleaver, chopper (17.2%); letter opener, paper knife, paperknife (6.6%)",SAFE,N/A
+10:43:29,"Injection (39.9%); cleaver, meat cleaver, chopper (25.4%); letter opener, paper knife, paperknife (7.1%)",SAFE,N/A
+10:43:29,"Injection (46.3%); cleaver, meat cleaver, chopper (17.9%); letter opener, paper knife, paperknife (7.5%)",SAFE,N/A
+10:43:30,"Injection (28.8%); cleaver, meat cleaver, chopper (27.9%); letter opener, paper knife, paperknife (10.0%)",SAFE,N/A
+10:43:30,"cleaver, meat cleaver, chopper (32.8%); Injection (30.3%); letter opener, paper knife, paperknife (8.9%)",SAFE,N/A
+10:43:30,"cleaver, meat cleaver, chopper (35.6%); Injection (17.7%); letter opener, paper knife, paperknife (13.3%)",SAFE,N/A
+10:43:30,"Injection (33.4%); cleaver, meat cleaver, chopper (24.5%); letter opener, paper knife, paperknife (11.5%)",SAFE,N/A
+10:43:31,"Injection (38.5%); cleaver, meat cleaver, chopper (24.2%); letter opener, paper knife, paperknife (8.4%)",SAFE,N/A
+10:43:31,"Injection (39.2%); cleaver, meat cleaver, chopper (21.8%); letter opener, paper knife, paperknife (8.4%)",SAFE,N/A
+10:43:31,"Injection (41.5%); cleaver, meat cleaver, chopper (22.8%); letter opener, paper knife, paperknife (7.6%)",SAFE,N/A
+10:43:32,"Injection (55.3%); cleaver, meat cleaver, chopper (13.7%); letter opener, paper knife, paperknife (5.4%)",SAFE,N/A
+10:43:32,"Injection (39.8%); cleaver, meat cleaver, chopper (28.4%); letter opener, paper knife, paperknife (5.9%)",SAFE,N/A
+10:43:32,"cleaver, meat cleaver, chopper (32.5%); Injection (30.5%); letter opener, paper knife, paperknife (8.0%)",SAFE,N/A
+10:43:32,"Injection (32.2%); cleaver, meat cleaver, chopper (29.6%); letter opener, paper knife, paperknife (7.9%)",SAFE,N/A
+10:43:33,"cleaver, meat cleaver, chopper (29.5%); Injection (29.3%); letter opener, paper knife, paperknife (8.5%)",SAFE,N/A
+10:43:33,"Injection (33.2%); cleaver, meat cleaver, chopper (32.1%); letter opener, paper knife, paperknife (6.3%)",SAFE,N/A
+10:43:33,"cleaver, meat cleaver, chopper (32.0%); Injection (31.6%); letter opener, paper knife, paperknife (6.8%)",SAFE,N/A
+10:43:34,"Injection (36.4%); cleaver, meat cleaver, chopper (29.2%); letter opener, paper knife, paperknife (6.2%)",SAFE,N/A
+10:43:34,"Injection (48.2%); cleaver, meat cleaver, chopper (29.0%); letter opener, paper knife, paperknife (2.8%)",SAFE,N/A
+10:43:34,"cleaver, meat cleaver, chopper (79.6%); letter opener, paper knife, paperknife (5.1%); scabbard (4.5%)",SAFE,N/A
+10:43:35,"Injection (22.9%); letter opener, paper knife, paperknife (20.3%); cleaver, meat cleaver, chopper (18.8%)",SAFE,N/A
+10:43:35,"letter opener, paper knife, paperknife (29.0%); cleaver, meat cleaver, chopper (19.1%); Injection (14.5%)",SAFE,N/A
+10:43:35,"Injection (38.9%); cleaver, meat cleaver, chopper (29.6%); letter opener, paper knife, paperknife (4.1%)",SAFE,N/A
+10:43:35,"cleaver, meat cleaver, chopper (60.0%); letter opener, paper knife, paperknife (8.4%); Injection (7.4%)",SAFE,N/A
+10:43:36,"Injection (93.0%); cleaver, meat cleaver, chopper (1.3%); screwdriver (0.9%)",SAFE,N/A
+10:43:36,"cleaver, meat cleaver, chopper (36.0%); letter opener, paper knife, paperknife (11.6%); scabbard (7.9%)",SAFE,N/A
+10:43:36,"cleaver, meat cleaver, chopper (14.9%); scabbard (9.3%); snorkel (8.8%)",SAFE,N/A
+10:43:37,"cleaver, meat cleaver, chopper (11.1%); scabbard (9.2%); letter opener, paper knife, paperknife (8.2%)",SAFE,N/A
+10:43:37,"cleaver, meat cleaver, chopper (14.6%); snorkel (8.8%); scabbard (8.0%)",SAFE,N/A
+10:43:37,"snorkel (12.0%); cleaver, meat cleaver, chopper (10.7%); scabbard (7.9%)",SAFE,N/A
+10:43:38,"cleaver, meat cleaver, chopper (15.7%); chain saw, chainsaw (13.0%); letter opener, paper knife, paperknife (9.8%)",SAFE,N/A
+10:43:38,"cleaver, meat cleaver, chopper (19.7%); chain saw, chainsaw (9.8%); letter opener, paper knife, paperknife (9.4%)",SAFE,N/A
+10:43:38,"cleaver, meat cleaver, chopper (24.9%); letter opener, paper knife, paperknife (9.6%); scabbard (7.3%)",SAFE,N/A
+10:43:38,"cleaver, meat cleaver, chopper (13.0%); letter opener, paper knife, paperknife (10.5%); scabbard (8.9%)",SAFE,N/A
+10:43:39,"cleaver, meat cleaver, chopper (12.5%); letter opener, paper knife, paperknife (9.6%); chain saw, chainsaw (7.8%)",SAFE,N/A
+10:43:39,"cleaver, meat cleaver, chopper (15.7%); letter opener, paper knife, paperknife (9.5%); chain saw, chainsaw (7.4%)",SAFE,N/A
+10:43:39,"cleaver, meat cleaver, chopper (16.8%); chain saw, chainsaw (8.5%); letter opener, paper knife, paperknife (7.9%)",SAFE,N/A
+10:43:40,"cleaver, meat cleaver, chopper (20.5%); chain saw, chainsaw (10.5%); letter opener, paper knife, paperknife (7.7%)",SAFE,N/A
+10:43:40,"cleaver, meat cleaver, chopper (20.8%); chain saw, chainsaw (12.4%); letter opener, paper knife, paperknife (9.1%)",SAFE,N/A
+10:43:40,"cleaver, meat cleaver, chopper (19.0%); chain saw, chainsaw (15.9%); scabbard (9.2%)",SAFE,N/A
+10:43:41,"cleaver, meat cleaver, chopper (22.2%); letter opener, paper knife, paperknife (11.0%); scabbard (10.5%)",SAFE,N/A
+10:43:41,"cleaver, meat cleaver, chopper (23.2%); letter opener, paper knife, paperknife (10.9%); chain saw, chainsaw (9.1%)",SAFE,N/A
+10:43:41,"cleaver, meat cleaver, chopper (22.2%); letter opener, paper knife, paperknife (12.6%); scabbard (9.9%)",SAFE,N/A
+10:43:41,"cleaver, meat cleaver, chopper (17.9%); letter opener, paper knife, paperknife (13.0%); scabbard (9.9%)",SAFE,N/A
+10:43:42,"cleaver, meat cleaver, chopper (20.3%); letter opener, paper knife, paperknife (13.7%); scabbard (8.5%)",SAFE,N/A
+10:43:42,"cleaver, meat cleaver, chopper (17.6%); letter opener, paper knife, paperknife (12.1%); scabbard (9.6%)",SAFE,N/A
+10:43:42,"cleaver, meat cleaver, chopper (24.7%); letter opener, paper knife, paperknife (12.7%); scabbard (9.1%)",SAFE,N/A
+10:43:43,"cleaver, meat cleaver, chopper (85.3%); scabbard (1.8%); letter opener, paper knife, paperknife (1.7%)",SAFE,N/A
+10:43:43,"cleaver, meat cleaver, chopper (64.8%); letter opener, paper knife, paperknife (9.6%); scabbard (5.1%)",SAFE,N/A
+10:43:43,"cleaver, meat cleaver, chopper (57.3%); letter opener, paper knife, paperknife (13.9%); scabbard (7.9%)",SAFE,N/A
+10:43:43,"cleaver, meat cleaver, chopper (56.5%); letter opener, paper knife, paperknife (15.3%); scabbard (4.4%)",SAFE,N/A
+10:43:44,"cleaver, meat cleaver, chopper (80.8%); scabbard (3.9%); letter opener, paper knife, paperknife (3.6%)",SAFE,N/A
+10:43:44,"cleaver, meat cleaver, chopper (49.7%); chain saw, chainsaw (8.6%); letter opener, paper knife, paperknife (8.5%)",SAFE,N/A
+10:43:44,"cleaver, meat cleaver, chopper (49.9%); Injection (11.2%); letter opener, paper knife, paperknife (7.3%)",SAFE,N/A
+10:43:45,"cleaver, meat cleaver, chopper (15.3%); chain saw, chainsaw (15.0%); snorkel (12.8%)",SAFE,N/A
+10:43:45,"cleaver, meat cleaver, chopper (41.9%); scabbard (12.6%); letter opener, paper knife, paperknife (10.8%)",SAFE,N/A
+10:43:45,"cleaver, meat cleaver, chopper (53.5%); letter opener, paper knife, paperknife (11.7%); scabbard (5.6%)",SAFE,N/A
+10:43:46,"cleaver, meat cleaver, chopper (50.9%); letter opener, paper knife, paperknife (9.7%); scabbard (8.9%)",SAFE,N/A
+10:43:46,"cleaver, meat cleaver, chopper (45.8%); letter opener, paper knife, paperknife (14.5%); Injection (6.4%)",SAFE,N/A
+10:43:46,"cleaver, meat cleaver, chopper (67.9%); scabbard (6.7%); letter opener, paper knife, paperknife (6.5%)",SAFE,N/A
+10:43:46,"cleaver, meat cleaver, chopper (42.6%); letter opener, paper knife, paperknife (10.2%); chain saw, chainsaw (5.9%)",SAFE,N/A
+10:43:47,"cleaver, meat cleaver, chopper (69.8%); scabbard (9.1%); letter opener, paper knife, paperknife (4.2%)",SAFE,N/A
+10:43:47,"cleaver, meat cleaver, chopper (33.7%); letter opener, paper knife, paperknife (11.6%); scabbard (8.7%)",SAFE,N/A
+10:43:47,"cleaver, meat cleaver, chopper (28.4%); letter opener, paper knife, paperknife (17.9%); scabbard (16.4%)",SAFE,N/A
+10:43:48,"cleaver, meat cleaver, chopper (24.7%); scabbard (16.7%); letter opener, paper knife, paperknife (14.6%)",SAFE,N/A
+10:43:48,"cleaver, meat cleaver, chopper (22.7%); letter opener, paper knife, paperknife (20.1%); scabbard (16.8%)",SAFE,N/A
+10:43:48,"cleaver, meat cleaver, chopper (24.7%); letter opener, paper knife, paperknife (20.7%); scabbard (14.1%)",SAFE,N/A
+10:43:49,"cleaver, meat cleaver, chopper (23.1%); letter opener, paper knife, paperknife (15.0%); scabbard (13.4%)",SAFE,N/A
+10:43:49,"cleaver, meat cleaver, chopper (19.1%); scabbard (16.7%); letter opener, paper knife, paperknife (14.9%)",SAFE,N/A
+10:43:49,"scabbard (22.1%); cleaver, meat cleaver, chopper (19.2%); letter opener, paper knife, paperknife (12.0%)",SAFE,N/A
+10:43:49,"scabbard (22.9%); cleaver, meat cleaver, chopper (20.4%); letter opener, paper knife, paperknife (11.0%)",SAFE,N/A
+10:43:50,"scabbard (26.2%); cleaver, meat cleaver, chopper (23.3%); letter opener, paper knife, paperknife (8.2%)",SAFE,N/A
+10:43:50,"scabbard (23.3%); cleaver, meat cleaver, chopper (23.2%); letter opener, paper knife, paperknife (6.3%)",SAFE,N/A
+10:43:50,"cleaver, meat cleaver, chopper (26.5%); scabbard (11.9%); hatchet (5.7%)",SAFE,N/A
+10:43:51,"cleaver, meat cleaver, chopper (19.4%); scabbard (19.2%); hatchet (6.0%)",SAFE,N/A
+10:43:51,"cleaver, meat cleaver, chopper (21.3%); scabbard (16.6%); hatchet (5.7%)",SAFE,N/A
+10:43:51,"cleaver, meat cleaver, chopper (23.6%); scabbard (9.6%); letter opener, paper knife, paperknife (6.1%)",SAFE,N/A
+10:43:52,"cleaver, meat cleaver, chopper (27.5%); scabbard (11.3%); hatchet (7.6%)",SAFE,N/A
+10:43:52,"cleaver, meat cleaver, chopper (24.0%); scabbard (10.9%); hatchet (5.0%)",SAFE,N/A
+10:43:52,"cleaver, meat cleaver, chopper (32.5%); Injection (7.9%); letter opener, paper knife, paperknife (7.6%)",SAFE,N/A
+10:43:52,"cleaver, meat cleaver, chopper (60.9%); scabbard (7.9%); letter opener, paper knife, paperknife (7.9%)",SAFE,N/A
+10:43:53,"cleaver, meat cleaver, chopper (46.2%); scabbard (7.7%); letter opener, paper knife, paperknife (4.7%)",SAFE,N/A
+10:43:53,"cleaver, meat cleaver, chopper (53.6%); letter opener, paper knife, paperknife (8.6%); scabbard (8.4%)",SAFE,N/A
+10:43:53,"cleaver, meat cleaver, chopper (54.7%); letter opener, paper knife, paperknife (6.6%); scabbard (6.5%)",SAFE,N/A
+10:43:54,"cleaver, meat cleaver, chopper (53.9%); letter opener, paper knife, paperknife (10.5%); scabbard (4.6%)",SAFE,N/A
+10:43:54,"cleaver, meat cleaver, chopper (33.6%); letter opener, paper knife, paperknife (13.0%); can opener, tin opener (3.1%)",SAFE,N/A
+10:43:54,"cleaver, meat cleaver, chopper (33.9%); letter opener, paper knife, paperknife (8.3%); ice lolly, lolly, lollipop, popsicle (5.3%)",SAFE,N/A
+10:43:55,"cleaver, meat cleaver, chopper (26.2%); letter opener, paper knife, paperknife (14.4%); scabbard (5.0%)",SAFE,N/A
+10:43:55,"cleaver, meat cleaver, chopper (34.3%); letter opener, paper knife, paperknife (11.6%); scabbard (5.6%)",SAFE,N/A
+10:43:55,"cleaver, meat cleaver, chopper (30.4%); letter opener, paper knife, paperknife (12.7%); scabbard (4.2%)",SAFE,N/A
+10:43:55,"cleaver, meat cleaver, chopper (35.8%); letter opener, paper knife, paperknife (14.2%); scabbard (4.2%)",SAFE,N/A
+10:43:56,"cleaver, meat cleaver, chopper (45.1%); letter opener, paper knife, paperknife (15.1%); scabbard (5.5%)",SAFE,N/A
+10:43:56,"cleaver, meat cleaver, chopper (47.9%); letter opener, paper knife, paperknife (12.6%); scabbard (7.1%)",SAFE,N/A
+10:43:56,"cleaver, meat cleaver, chopper (42.9%); letter opener, paper knife, paperknife (18.6%); scabbard (6.9%)",SAFE,N/A
+10:43:57,"cleaver, meat cleaver, chopper (40.6%); letter opener, paper knife, paperknife (19.2%); scabbard (7.9%)",SAFE,N/A
+10:43:57,"cleaver, meat cleaver, chopper (43.4%); letter opener, paper knife, paperknife (16.6%); scabbard (8.5%)",SAFE,N/A
+10:43:57,"cleaver, meat cleaver, chopper (38.2%); letter opener, paper knife, paperknife (16.9%); scabbard (8.2%)",SAFE,N/A
+10:43:58,"cleaver, meat cleaver, chopper (41.7%); letter opener, paper knife, paperknife (15.0%); scabbard (9.1%)",SAFE,N/A
+10:43:58,"cleaver, meat cleaver, chopper (38.5%); letter opener, paper knife, paperknife (15.3%); scabbard (8.6%)",SAFE,N/A
+10:43:58,"cleaver, meat cleaver, chopper (42.9%); letter opener, paper knife, paperknife (12.6%); scabbard (8.4%)",SAFE,N/A
+10:43:58,"cleaver, meat cleaver, chopper (49.3%); letter opener, paper knife, paperknife (8.8%); scabbard (6.9%)",SAFE,N/A
+10:43:59,"cleaver, meat cleaver, chopper (12.4%); chain saw, chainsaw (8.0%); hatchet (4.7%)",SAFE,N/A
+10:43:59,"Injection (15.0%); cleaver, meat cleaver, chopper (14.6%); letter opener, paper knife, paperknife (6.2%)",SAFE,N/A
+10:43:59,"Injection (11.3%); screwdriver (10.8%); letter opener, paper knife, paperknife (9.6%)",SAFE,N/A
+10:44:00,"screwdriver (17.7%); letter opener, paper knife, paperknife (14.1%); scabbard (8.1%)",SAFE,N/A
+10:44:00,Injection (83.1%); screwdriver (7.9%); paintbrush (1.0%),SAFE,N/A
+10:44:00,"hair spray (9.5%); potter's wheel (9.0%); Indian cobra, Naja naja (4.5%)",SAFE,N/A
+10:44:00,"nipple (8.5%); ice lolly, lolly, lollipop, popsicle (7.1%); maraca (6.2%)",SAFE,N/A
+10:44:10,"nipple (18.5%); ice lolly, lolly, lollipop, popsicle (5.8%); ocarina, sweet potato (3.6%)",SAFE,N/A
+10:44:10,"nipple (28.0%); maraca (8.2%); ice lolly, lolly, lollipop, popsicle (7.6%)",SAFE,N/A
+10:44:11,"nipple (27.2%); jersey, T-shirt, tee shirt (10.1%); maraca (5.2%)",SAFE,N/A
+10:44:11,"nipple (30.6%); jersey, T-shirt, tee shirt (12.5%); ice lolly, lolly, lollipop, popsicle (10.1%)",SAFE,N/A
+10:44:11,"ocarina, sweet potato (13.3%); maraca (11.2%); jersey, T-shirt, tee shirt (5.2%)",SAFE,N/A
+10:44:11,"maraca (13.5%); jersey, T-shirt, tee shirt (5.2%); ocarina, sweet potato (4.6%)",SAFE,N/A
+10:44:12,"jersey, T-shirt, tee shirt (34.3%); maraca (7.0%); nipple (3.3%)",SAFE,N/A
+10:44:12,"jersey, T-shirt, tee shirt (79.4%); maraca (2.0%); sweatshirt (1.9%)",SAFE,N/A
+10:44:12,"jersey, T-shirt, tee shirt (28.4%); maraca (16.1%); nipple (6.0%)",SAFE,N/A
+10:44:13,"jersey, T-shirt, tee shirt (67.2%); sweatshirt (2.7%); maraca (2.5%)",SAFE,N/A
+10:44:13,"maraca (82.5%); ice lolly, lolly, lollipop, popsicle (1.9%); jersey, T-shirt, tee shirt (1.4%)",SAFE,N/A
+10:44:13,"cleaver, meat cleaver, chopper (45.3%); letter opener, paper knife, paperknife (18.7%); scabbard (8.8%)",SAFE,N/A
+10:44:13,"cleaver, meat cleaver, chopper (44.5%); letter opener, paper knife, paperknife (16.7%); scabbard (9.7%)",SAFE,N/A
+10:44:14,"letter opener, paper knife, paperknife (25.7%); cleaver, meat cleaver, chopper (24.1%); scabbard (11.3%)",SAFE,N/A
+10:44:14,"cleaver, meat cleaver, chopper (32.7%); letter opener, paper knife, paperknife (11.6%); scabbard (4.9%)",SAFE,N/A
+10:44:14,"cleaver, meat cleaver, chopper (36.9%); letter opener, paper knife, paperknife (11.3%); scabbard (6.5%)",SAFE,N/A
+10:44:15,"cleaver, meat cleaver, chopper (45.8%); letter opener, paper knife, paperknife (10.9%); scabbard (7.5%)",SAFE,N/A
+10:44:15,"cleaver, meat cleaver, chopper (45.6%); letter opener, paper knife, paperknife (12.4%); scabbard (7.2%)",SAFE,N/A
+10:44:15,"cleaver, meat cleaver, chopper (55.0%); letter opener, paper knife, paperknife (9.3%); scabbard (5.1%)",SAFE,N/A
+10:44:16,"cleaver, meat cleaver, chopper (62.4%); letter opener, paper knife, paperknife (7.0%); scabbard (5.9%)",SAFE,N/A
+10:44:16,"cleaver, meat cleaver, chopper (62.0%); letter opener, paper knife, paperknife (7.8%); scabbard (6.1%)",SAFE,N/A
+10:44:16,"cleaver, meat cleaver, chopper (67.6%); letter opener, paper knife, paperknife (6.1%); scabbard (4.8%)",SAFE,N/A
+10:44:16,"cleaver, meat cleaver, chopper (63.3%); letter opener, paper knife, paperknife (7.1%); scabbard (4.7%)",SAFE,N/A
+10:44:17,"cleaver, meat cleaver, chopper (67.9%); letter opener, paper knife, paperknife (6.5%); scabbard (4.1%)",SAFE,N/A
+10:44:17,"cleaver, meat cleaver, chopper (56.2%); letter opener, paper knife, paperknife (8.1%); scabbard (5.2%)",SAFE,N/A
+10:44:17,"cleaver, meat cleaver, chopper (60.1%); letter opener, paper knife, paperknife (8.0%); scabbard (5.2%)",SAFE,N/A
+10:44:18,"cleaver, meat cleaver, chopper (67.9%); letter opener, paper knife, paperknife (6.3%); scabbard (3.8%)",SAFE,N/A
+10:44:18,"cleaver, meat cleaver, chopper (67.3%); letter opener, paper knife, paperknife (6.2%); scabbard (4.7%)",SAFE,N/A
+10:44:18,"cleaver, meat cleaver, chopper (61.7%); letter opener, paper knife, paperknife (7.4%); scabbard (5.5%)",SAFE,N/A
+10:44:19,"cleaver, meat cleaver, chopper (58.3%); letter opener, paper knife, paperknife (8.2%); scabbard (5.8%)",SAFE,N/A
+10:44:19,"cleaver, meat cleaver, chopper (55.3%); letter opener, paper knife, paperknife (8.6%); scabbard (5.9%)",SAFE,N/A
+10:44:19,"cleaver, meat cleaver, chopper (59.7%); letter opener, paper knife, paperknife (9.2%); scabbard (4.9%)",SAFE,N/A
+10:44:20,"cleaver, meat cleaver, chopper (59.2%); letter opener, paper knife, paperknife (9.0%); scabbard (4.8%)",SAFE,N/A
+10:44:20,"cleaver, meat cleaver, chopper (57.2%); letter opener, paper knife, paperknife (8.8%); scabbard (4.8%)",SAFE,N/A
+10:44:20,"cleaver, meat cleaver, chopper (57.9%); letter opener, paper knife, paperknife (9.5%); scabbard (5.9%)",SAFE,N/A
+10:44:20,"cleaver, meat cleaver, chopper (61.9%); letter opener, paper knife, paperknife (8.1%); scabbard (5.2%)",SAFE,N/A
+10:44:21,"cleaver, meat cleaver, chopper (54.7%); letter opener, paper knife, paperknife (10.1%); scabbard (5.3%)",SAFE,N/A
+10:44:21,"cleaver, meat cleaver, chopper (56.3%); letter opener, paper knife, paperknife (9.4%); scabbard (6.2%)",SAFE,N/A
+10:44:21,"cleaver, meat cleaver, chopper (59.2%); letter opener, paper knife, paperknife (7.3%); scabbard (4.1%)",SAFE,N/A
+10:44:22,"cleaver, meat cleaver, chopper (57.2%); letter opener, paper knife, paperknife (8.3%); scabbard (4.6%)",SAFE,N/A
+10:44:22,"cleaver, meat cleaver, chopper (57.8%); letter opener, paper knife, paperknife (8.4%); scabbard (4.3%)",SAFE,N/A
+10:44:22,"cleaver, meat cleaver, chopper (56.0%); letter opener, paper knife, paperknife (8.5%); scabbard (4.4%)",SAFE,N/A
+10:44:23,"cleaver, meat cleaver, chopper (54.4%); letter opener, paper knife, paperknife (8.1%); scabbard (4.6%)",SAFE,N/A
+10:44:23,"cleaver, meat cleaver, chopper (56.5%); letter opener, paper knife, paperknife (8.1%); scabbard (3.8%)",SAFE,N/A
+10:44:23,"cleaver, meat cleaver, chopper (55.0%); letter opener, paper knife, paperknife (8.4%); scabbard (3.7%)",SAFE,N/A
+10:44:23,"cleaver, meat cleaver, chopper (50.7%); letter opener, paper knife, paperknife (9.7%); scabbard (4.0%)",SAFE,N/A
+10:44:24,"cleaver, meat cleaver, chopper (81.9%); letter opener, paper knife, paperknife (3.4%); scabbard (1.6%)",SAFE,N/A
+10:44:24,"cleaver, meat cleaver, chopper (48.9%); letter opener, paper knife, paperknife (13.5%); scabbard (6.3%)",SAFE,N/A
+10:44:24,"cleaver, meat cleaver, chopper (51.0%); letter opener, paper knife, paperknife (13.6%); scabbard (7.2%)",SAFE,N/A
+10:44:25,"cleaver, meat cleaver, chopper (27.2%); letter opener, paper knife, paperknife (12.9%); scabbard (8.8%)",SAFE,N/A
+10:44:25,"screwdriver (18.5%); power drill (9.0%); cleaver, meat cleaver, chopper (6.9%)",SAFE,N/A
+10:44:25,"cleaver, meat cleaver, chopper (25.6%); Injection (6.7%); screwdriver (6.0%)",SAFE,N/A
+10:44:25,"cleaver, meat cleaver, chopper (18.9%); screwdriver (14.8%); Injection (7.1%)",SAFE,N/A
+10:44:26,"screwdriver (29.5%); Injection (8.4%); cleaver, meat cleaver, chopper (7.3%)",SAFE,N/A
+10:44:26,"revolver, six-gun, six-shooter (22.7%); Injection (10.9%); screwdriver (8.5%)",SAFE,N/A
+10:44:26,"Injection (22.6%); screwdriver (14.9%); revolver, six-gun, six-shooter (7.1%)",SAFE,N/A
+10:44:27,"screwdriver (15.3%); Injection (14.1%); cleaver, meat cleaver, chopper (7.4%)",SAFE,N/A
+10:44:27,"revolver, six-gun, six-shooter (22.0%); screwdriver (19.2%); Injection (5.8%)",SAFE,N/A
+10:44:27,screwdriver (26.3%); Injection (24.1%); power drill (16.0%),SAFE,N/A
+10:44:27,screwdriver (42.8%); Injection (29.9%); power drill (12.3%),SAFE,N/A
+10:44:28,screwdriver (54.9%); Injection (11.8%); power drill (9.9%),SAFE,N/A
+10:44:28,screwdriver (67.7%); Injection (12.1%); power drill (2.5%),SAFE,N/A
+10:44:28,screwdriver (70.6%); Injection (9.4%); power drill (2.6%),SAFE,N/A
+10:44:29,screwdriver (68.5%); Injection (8.1%); power drill (3.4%),SAFE,N/A
+10:44:29,"screwdriver (56.6%); Injection (7.0%); carpenter's kit, tool kit (2.2%)",SAFE,N/A
+10:44:29,screwdriver (61.3%); Injection (10.2%); power drill (1.7%),SAFE,N/A
+10:44:30,screwdriver (47.2%); Injection (18.1%); stethoscope (1.6%),SAFE,N/A
+10:44:30,Injection (84.3%); screwdriver (9.7%); stethoscope (0.4%),SAFE,N/A
+10:44:30,Injection (80.9%); screwdriver (14.4%); power drill (1.0%),SAFE,N/A
+10:44:30,Injection (86.4%); screwdriver (9.4%); power drill (0.7%),SAFE,N/A
+10:44:31,Injection (74.0%); screwdriver (15.2%); power drill (2.8%),SAFE,N/A
+10:44:31,Injection (85.6%); screwdriver (9.2%); power drill (1.6%),SAFE,N/A
+10:44:31,Injection (95.2%); screwdriver (2.9%); power drill (0.2%),SAFE,N/A
+10:44:32,Injection (89.7%); screwdriver (7.7%); power drill (0.3%),SAFE,N/A
+10:44:32,Injection (88.2%); screwdriver (9.1%); power drill (0.3%),SAFE,N/A
+10:44:32,Injection (91.6%); screwdriver (4.5%); power drill (0.8%),SAFE,N/A
+10:44:32,power drill (50.8%); screwdriver (15.0%); Injection (3.3%),SAFE,N/A
+10:44:33,screwdriver (56.7%); power drill (20.4%); Injection (10.5%),SAFE,N/A
+10:44:33,Injection (60.4%); screwdriver (32.7%); power drill (1.5%),SAFE,N/A
+10:44:33,Injection (61.9%); screwdriver (32.6%); power drill (0.5%),SAFE,N/A
+10:44:34,Injection (59.6%); screwdriver (33.0%); power drill (0.6%),SAFE,N/A
+10:44:34,Injection (78.7%); screwdriver (17.9%); power drill (0.4%),SAFE,N/A
+10:44:34,Injection (80.1%); screwdriver (14.7%); power drill (0.5%),SAFE,N/A
+10:44:35,Injection (79.8%); screwdriver (15.6%); stethoscope (0.3%),SAFE,N/A
+10:44:35,Injection (73.5%); screwdriver (22.0%); power drill (0.7%),SAFE,N/A
+10:44:35,Injection (86.0%); screwdriver (10.6%); power drill (0.3%),SAFE,N/A
+10:44:35,Injection (76.9%); screwdriver (17.7%); power drill (0.5%),SAFE,N/A
+10:44:36,Injection (67.2%); screwdriver (26.8%); power drill (0.7%),SAFE,N/A
+10:44:36,Injection (69.3%); screwdriver (23.9%); power drill (1.3%),SAFE,N/A
+10:44:36,Injection (84.6%); screwdriver (9.2%); stethoscope (0.5%),SAFE,N/A
+10:44:37,Injection (82.9%); screwdriver (12.2%); power drill (0.4%),SAFE,N/A
+10:44:37,Injection (71.0%); screwdriver (22.8%); power drill (0.7%),SAFE,N/A
+10:44:37,Injection (71.3%); screwdriver (23.4%); power drill (0.4%),SAFE,N/A
+10:44:37,"cleaver, meat cleaver, chopper (53.4%); chain saw, chainsaw (7.1%); hatchet (3.3%)",SAFE,N/A
+10:44:38,"cleaver, meat cleaver, chopper (63.7%); paintbrush (11.1%); Injection (5.8%)",SAFE,N/A
+10:44:38,"nipple (39.1%); ice lolly, lolly, lollipop, popsicle (9.9%); oxygen mask (5.9%)",SAFE,N/A
+10:44:38,"nipple (55.7%); ice lolly, lolly, lollipop, popsicle (10.7%); oxygen mask (5.5%)",SAFE,N/A
+10:44:39,"nipple (46.0%); oxygen mask (5.5%); ice lolly, lolly, lollipop, popsicle (5.3%)",SAFE,N/A
+10:44:39,"nipple (38.3%); ice lolly, lolly, lollipop, popsicle (8.3%); oxygen mask (6.7%)",SAFE,N/A
+10:44:39,"Injection (67.8%); hair spray (5.2%); lighter, light, igniter, ignitor (3.3%)",SAFE,N/A
+10:44:40,"Injection (20.3%); drumstick (18.6%); oboe, hautboy, hautbois (8.5%)",SAFE,N/A
+10:44:40,"Injection (76.9%); cleaver, meat cleaver, chopper (7.2%); scabbard (1.8%)",SAFE,N/A
+10:44:40,"cleaver, meat cleaver, chopper (40.4%); letter opener, paper knife, paperknife (22.9%); scabbard (6.7%)",SAFE,N/A
+10:44:40,"cleaver, meat cleaver, chopper (55.8%); letter opener, paper knife, paperknife (10.8%); scabbard (8.5%)",SAFE,N/A
+10:44:41,"cleaver, meat cleaver, chopper (47.9%); letter opener, paper knife, paperknife (13.5%); scabbard (9.3%)",SAFE,N/A
+10:44:41,"cleaver, meat cleaver, chopper (41.3%); letter opener, paper knife, paperknife (15.4%); scabbard (11.1%)",SAFE,N/A
+10:44:41,"cleaver, meat cleaver, chopper (40.1%); letter opener, paper knife, paperknife (13.0%); scabbard (10.7%)",SAFE,N/A
+10:44:42,"letter opener, paper knife, paperknife (31.0%); cleaver, meat cleaver, chopper (29.7%); scabbard (8.0%)",SAFE,N/A
+10:44:42,"letter opener, paper knife, paperknife (31.0%); cleaver, meat cleaver, chopper (24.5%); Injection (6.4%)",SAFE,N/A
+10:44:42,"cleaver, meat cleaver, chopper (24.8%); letter opener, paper knife, paperknife (24.4%); Injection (7.4%)",SAFE,N/A
+10:44:43,"cleaver, meat cleaver, chopper (25.6%); letter opener, paper knife, paperknife (24.9%); scabbard (5.4%)",SAFE,N/A
+10:44:43,"letter opener, paper knife, paperknife (28.7%); cleaver, meat cleaver, chopper (20.1%); Injection (7.0%)",SAFE,N/A
+10:44:43,"cleaver, meat cleaver, chopper (25.7%); letter opener, paper knife, paperknife (23.7%); Injection (5.6%)",SAFE,N/A
+10:44:43,"cleaver, meat cleaver, chopper (44.0%); letter opener, paper knife, paperknife (15.5%); scabbard (6.8%)",SAFE,N/A
+10:44:44,"cleaver, meat cleaver, chopper (23.0%); letter opener, paper knife, paperknife (22.7%); Injection (6.2%)",SAFE,N/A
+10:44:44,"letter opener, paper knife, paperknife (20.7%); cleaver, meat cleaver, chopper (19.2%); Injection (8.6%)",SAFE,N/A
+10:44:44,"letter opener, paper knife, paperknife (27.6%); cleaver, meat cleaver, chopper (24.4%); Injection (5.6%)",SAFE,N/A
+10:44:45,"letter opener, paper knife, paperknife (31.4%); cleaver, meat cleaver, chopper (16.9%); Injection (6.1%)",SAFE,N/A
+10:44:45,"letter opener, paper knife, paperknife (25.8%); cleaver, meat cleaver, chopper (16.0%); screwdriver (6.5%)",SAFE,N/A
+10:44:45,"cleaver, meat cleaver, chopper (36.2%); letter opener, paper knife, paperknife (18.3%); scabbard (5.7%)",SAFE,N/A
+10:44:45,"cleaver, meat cleaver, chopper (25.1%); letter opener, paper knife, paperknife (23.2%); screwdriver (5.7%)",SAFE,N/A
+10:44:46,"cleaver, meat cleaver, chopper (30.5%); letter opener, paper knife, paperknife (25.7%); scabbard (5.4%)",SAFE,N/A
+10:44:46,"cleaver, meat cleaver, chopper (28.8%); letter opener, paper knife, paperknife (17.8%); screwdriver (6.2%)",SAFE,N/A
+10:44:46,"cleaver, meat cleaver, chopper (23.2%); letter opener, paper knife, paperknife (18.5%); screwdriver (7.2%)",SAFE,N/A
+10:44:47,"letter opener, paper knife, paperknife (20.2%); cleaver, meat cleaver, chopper (14.9%); screwdriver (9.8%)",SAFE,N/A
+10:44:47,"cleaver, meat cleaver, chopper (24.0%); letter opener, paper knife, paperknife (20.1%); screwdriver (6.5%)",SAFE,N/A
+10:44:47,"letter opener, paper knife, paperknife (33.9%); cleaver, meat cleaver, chopper (22.9%); screwdriver (5.6%)",SAFE,N/A
+10:44:48,"letter opener, paper knife, paperknife (22.7%); cleaver, meat cleaver, chopper (16.8%); screwdriver (10.3%)",SAFE,N/A
+10:44:48,"cleaver, meat cleaver, chopper (26.8%); letter opener, paper knife, paperknife (26.6%); screwdriver (5.7%)",SAFE,N/A
+10:44:48,"letter opener, paper knife, paperknife (24.9%); cleaver, meat cleaver, chopper (22.7%); screwdriver (6.9%)",SAFE,N/A
+10:44:48,"letter opener, paper knife, paperknife (29.0%); cleaver, meat cleaver, chopper (28.4%); scabbard (8.9%)",SAFE,N/A
+10:44:49,"cleaver, meat cleaver, chopper (31.2%); letter opener, paper knife, paperknife (26.2%); screwdriver (5.0%)",SAFE,N/A
+10:44:49,"cleaver, meat cleaver, chopper (29.6%); letter opener, paper knife, paperknife (22.9%); screwdriver (5.3%)",SAFE,N/A
+10:44:49,"cleaver, meat cleaver, chopper (36.3%); letter opener, paper knife, paperknife (21.8%); scabbard (6.1%)",SAFE,N/A
+10:44:50,"cleaver, meat cleaver, chopper (27.2%); letter opener, paper knife, paperknife (23.1%); scabbard (8.7%)",SAFE,N/A
+10:44:50,"cleaver, meat cleaver, chopper (27.7%); letter opener, paper knife, paperknife (22.5%); scabbard (9.7%)",SAFE,N/A
+10:44:50,"letter opener, paper knife, paperknife (28.1%); cleaver, meat cleaver, chopper (17.6%); scabbard (10.5%)",SAFE,N/A
+10:44:51,"Injection (41.2%); screwdriver (18.0%); letter opener, paper knife, paperknife (13.2%)",SAFE,N/A
+10:44:51,"ice lolly, lolly, lollipop, popsicle (26.4%); nipple (19.0%); maraca (4.8%)",SAFE,N/A
+10:44:51,"ice lolly, lolly, lollipop, popsicle (55.5%); nipple (25.5%); maraca (4.3%)",SAFE,N/A
+10:44:51,"nipple (18.3%); ice lolly, lolly, lollipop, popsicle (18.0%); maraca (13.3%)",SAFE,N/A
+10:44:52,"nipple (49.1%); ice lolly, lolly, lollipop, popsicle (8.4%); maraca (8.4%)",SAFE,N/A
+10:44:52,maraca (8.7%); nipple (7.4%); hair spray (7.4%),SAFE,N/A
+10:45:22,"jersey, T-shirt, tee shirt (20.4%); maraca (18.1%); drumstick (3.3%)",SAFE,N/A
+10:45:22,"jersey, T-shirt, tee shirt (26.8%); maraca (18.6%); nipple (2.8%)",SAFE,N/A
+10:45:22,"jersey, T-shirt, tee shirt (27.3%); maraca (16.5%); nipple (2.7%)",SAFE,N/A
+10:45:23,"jersey, T-shirt, tee shirt (24.6%); maraca (16.2%); nipple (3.9%)",SAFE,N/A
+10:45:23,"nipple (24.8%); maraca (17.2%); ice lolly, lolly, lollipop, popsicle (12.9%)",SAFE,N/A
+10:45:23,"nipple (30.5%); ice lolly, lolly, lollipop, popsicle (11.1%); oxygen mask (5.9%)",SAFE,N/A
+10:45:24,"jersey, T-shirt, tee shirt (15.1%); maraca (8.4%); potter's wheel (4.2%)",SAFE,N/A
+10:45:24,"jersey, T-shirt, tee shirt (26.1%); maraca (7.1%); drumstick (3.0%)",SAFE,N/A
+10:45:24,"jersey, T-shirt, tee shirt (20.9%); maraca (9.0%); pick, plectrum, plectron (2.5%)",SAFE,N/A
+10:45:24,maraca (7.8%); potter's wheel (6.3%); nipple (5.5%),SAFE,N/A
+10:45:25,"nipple (24.2%); ice lolly, lolly, lollipop, popsicle (13.7%); oxygen mask (5.8%)",SAFE,N/A
+10:45:25,"maraca (19.2%); ice lolly, lolly, lollipop, popsicle (13.4%); nipple (9.1%)",SAFE,N/A
+10:45:25,"cleaver, meat cleaver, chopper (71.4%); scabbard (4.2%); letter opener, paper knife, paperknife (2.4%)",SAFE,N/A
+10:45:26,"cleaver, meat cleaver, chopper (55.4%); letter opener, paper knife, paperknife (4.8%); scabbard (3.6%)",SAFE,N/A
+10:45:26,"cleaver, meat cleaver, chopper (60.9%); scabbard (5.3%); letter opener, paper knife, paperknife (4.6%)",SAFE,N/A
+10:45:26,"cleaver, meat cleaver, chopper (74.3%); letter opener, paper knife, paperknife (5.1%); scabbard (2.0%)",SAFE,N/A
+10:45:26,"cleaver, meat cleaver, chopper (65.4%); letter opener, paper knife, paperknife (6.8%); scabbard (3.1%)",SAFE,N/A
+10:45:27,"cleaver, meat cleaver, chopper (57.7%); letter opener, paper knife, paperknife (5.8%); ice lolly, lolly, lollipop, popsicle (4.4%)",SAFE,N/A
+10:45:27,"cleaver, meat cleaver, chopper (62.0%); letter opener, paper knife, paperknife (4.9%); scabbard (3.3%)",SAFE,N/A
+10:45:27,"cleaver, meat cleaver, chopper (52.9%); ice lolly, lolly, lollipop, popsicle (7.1%); letter opener, paper knife, paperknife (5.4%)",SAFE,N/A
+10:45:28,"cleaver, meat cleaver, chopper (52.0%); ice lolly, lolly, lollipop, popsicle (8.2%); letter opener, paper knife, paperknife (4.6%)",SAFE,N/A
+10:45:28,"cleaver, meat cleaver, chopper (51.3%); ice lolly, lolly, lollipop, popsicle (7.1%); letter opener, paper knife, paperknife (5.0%)",SAFE,N/A
+10:45:28,"cleaver, meat cleaver, chopper (52.5%); ice lolly, lolly, lollipop, popsicle (7.3%); letter opener, paper knife, paperknife (5.2%)",SAFE,N/A
+10:45:29,"cleaver, meat cleaver, chopper (54.3%); ice lolly, lolly, lollipop, popsicle (5.4%); letter opener, paper knife, paperknife (5.3%)",SAFE,N/A
+10:45:29,"cleaver, meat cleaver, chopper (52.4%); ice lolly, lolly, lollipop, popsicle (7.0%); letter opener, paper knife, paperknife (5.0%)",SAFE,N/A
+10:45:29,"cleaver, meat cleaver, chopper (38.7%); ice lolly, lolly, lollipop, popsicle (18.4%); letter opener, paper knife, paperknife (3.0%)",SAFE,N/A
+10:45:29,"cleaver, meat cleaver, chopper (49.6%); ice lolly, lolly, lollipop, popsicle (7.5%); letter opener, paper knife, paperknife (4.3%)",SAFE,N/A
+10:45:30,"cleaver, meat cleaver, chopper (57.1%); ice lolly, lolly, lollipop, popsicle (4.6%); letter opener, paper knife, paperknife (4.5%)",SAFE,N/A
+10:45:30,"cleaver, meat cleaver, chopper (57.8%); ice lolly, lolly, lollipop, popsicle (5.7%); letter opener, paper knife, paperknife (4.4%)",SAFE,N/A
+10:45:30,"cleaver, meat cleaver, chopper (59.4%); letter opener, paper knife, paperknife (6.3%); scabbard (3.5%)",SAFE,N/A
+10:45:31,"cleaver, meat cleaver, chopper (62.1%); letter opener, paper knife, paperknife (5.6%); scabbard (3.9%)",SAFE,N/A
+10:45:31,"cleaver, meat cleaver, chopper (68.4%); letter opener, paper knife, paperknife (4.7%); scabbard (3.9%)",SAFE,N/A
+10:45:31,"cleaver, meat cleaver, chopper (70.3%); letter opener, paper knife, paperknife (4.7%); scabbard (3.9%)",SAFE,N/A
+10:45:32,"cleaver, meat cleaver, chopper (67.9%); letter opener, paper knife, paperknife (5.2%); scabbard (4.1%)",SAFE,N/A
+10:45:32,"cleaver, meat cleaver, chopper (69.0%); letter opener, paper knife, paperknife (4.6%); scabbard (3.9%)",SAFE,N/A
+10:45:32,"cleaver, meat cleaver, chopper (69.1%); letter opener, paper knife, paperknife (4.7%); scabbard (4.1%)",SAFE,N/A
+10:45:32,"cleaver, meat cleaver, chopper (68.9%); letter opener, paper knife, paperknife (4.9%); scabbard (4.1%)",SAFE,N/A
+10:45:33,"cleaver, meat cleaver, chopper (70.2%); letter opener, paper knife, paperknife (4.9%); scabbard (4.1%)",SAFE,N/A
+10:45:33,"cleaver, meat cleaver, chopper (71.4%); letter opener, paper knife, paperknife (4.1%); scabbard (3.7%)",SAFE,N/A
+10:45:33,"cleaver, meat cleaver, chopper (70.5%); letter opener, paper knife, paperknife (4.4%); scabbard (4.0%)",SAFE,N/A
+10:45:34,"cleaver, meat cleaver, chopper (68.6%); scabbard (5.4%); letter opener, paper knife, paperknife (5.3%)",SAFE,N/A
+10:45:34,"cleaver, meat cleaver, chopper (66.3%); scabbard (6.1%); letter opener, paper knife, paperknife (6.0%)",SAFE,N/A
+10:45:34,"cleaver, meat cleaver, chopper (66.4%); letter opener, paper knife, paperknife (5.9%); scabbard (5.7%)",SAFE,N/A
+10:45:34,"cleaver, meat cleaver, chopper (67.8%); letter opener, paper knife, paperknife (5.8%); scabbard (5.0%)",SAFE,N/A
+10:45:35,"cleaver, meat cleaver, chopper (68.8%); scabbard (5.6%); letter opener, paper knife, paperknife (5.1%)",SAFE,N/A
+10:45:35,"cleaver, meat cleaver, chopper (65.3%); letter opener, paper knife, paperknife (6.2%); scabbard (5.4%)",SAFE,N/A
+10:45:35,"cleaver, meat cleaver, chopper (67.9%); letter opener, paper knife, paperknife (5.5%); scabbard (5.4%)",SAFE,N/A
+10:45:36,"cleaver, meat cleaver, chopper (67.5%); letter opener, paper knife, paperknife (5.7%); scabbard (5.1%)",SAFE,N/A
+10:45:36,"cleaver, meat cleaver, chopper (70.0%); scabbard (5.1%); letter opener, paper knife, paperknife (5.0%)",SAFE,N/A
+10:45:36,"cleaver, meat cleaver, chopper (74.3%); scabbard (4.9%); letter opener, paper knife, paperknife (4.7%)",SAFE,N/A
+10:45:37,"cleaver, meat cleaver, chopper (74.5%); scabbard (5.1%); letter opener, paper knife, paperknife (4.2%)",SAFE,N/A
+10:45:37,"cleaver, meat cleaver, chopper (70.1%); scabbard (4.8%); letter opener, paper knife, paperknife (4.2%)",SAFE,N/A
+10:45:37,"cleaver, meat cleaver, chopper (73.5%); scabbard (4.2%); letter opener, paper knife, paperknife (3.3%)",SAFE,N/A
+10:45:37,"cleaver, meat cleaver, chopper (74.5%); scabbard (3.4%); letter opener, paper knife, paperknife (3.0%)",SAFE,N/A
+10:45:38,"cleaver, meat cleaver, chopper (72.0%); scabbard (3.7%); letter opener, paper knife, paperknife (3.3%)",SAFE,N/A
+10:45:38,"cleaver, meat cleaver, chopper (71.9%); scabbard (3.8%); letter opener, paper knife, paperknife (3.6%)",SAFE,N/A
+10:45:38,"cleaver, meat cleaver, chopper (73.7%); scabbard (3.1%); letter opener, paper knife, paperknife (3.0%)",SAFE,N/A
+10:45:39,"cleaver, meat cleaver, chopper (74.6%); scabbard (3.4%); letter opener, paper knife, paperknife (3.4%)",SAFE,N/A
+10:45:39,"cleaver, meat cleaver, chopper (75.0%); scabbard (3.2%); letter opener, paper knife, paperknife (3.2%)",SAFE,N/A
+10:45:39,"cleaver, meat cleaver, chopper (74.0%); scabbard (4.0%); letter opener, paper knife, paperknife (3.4%)",SAFE,N/A
+10:45:40,"cleaver, meat cleaver, chopper (69.7%); scabbard (4.3%); letter opener, paper knife, paperknife (4.2%)",SAFE,N/A
+10:45:40,"cleaver, meat cleaver, chopper (70.3%); letter opener, paper knife, paperknife (3.7%); scabbard (3.7%)",SAFE,N/A
+10:45:40,"cleaver, meat cleaver, chopper (70.8%); scabbard (3.8%); letter opener, paper knife, paperknife (3.6%)",SAFE,N/A
+10:45:40,"cleaver, meat cleaver, chopper (72.9%); scabbard (3.4%); letter opener, paper knife, paperknife (3.3%)",SAFE,N/A
+10:45:41,"cleaver, meat cleaver, chopper (73.7%); scabbard (3.7%); letter opener, paper knife, paperknife (3.5%)",SAFE,N/A
+10:45:41,"cleaver, meat cleaver, chopper (76.3%); scabbard (3.4%); letter opener, paper knife, paperknife (2.5%)",SAFE,N/A
+10:45:41,"cleaver, meat cleaver, chopper (74.9%); scabbard (3.4%); letter opener, paper knife, paperknife (2.7%)",SAFE,N/A
+10:45:42,"cleaver, meat cleaver, chopper (70.9%); scabbard (4.6%); letter opener, paper knife, paperknife (3.5%)",SAFE,N/A
+10:45:42,"cleaver, meat cleaver, chopper (77.9%); scabbard (3.1%); letter opener, paper knife, paperknife (2.4%)",SAFE,N/A
+10:45:42,"cleaver, meat cleaver, chopper (74.3%); scabbard (3.2%); letter opener, paper knife, paperknife (3.0%)",SAFE,N/A
+10:45:42,"cleaver, meat cleaver, chopper (75.2%); scabbard (2.7%); letter opener, paper knife, paperknife (2.4%)",SAFE,N/A
+10:45:43,"cleaver, meat cleaver, chopper (73.9%); scabbard (3.2%); letter opener, paper knife, paperknife (2.8%)",SAFE,N/A
+10:45:43,"cleaver, meat cleaver, chopper (76.0%); scabbard (3.3%); letter opener, paper knife, paperknife (2.7%)",SAFE,N/A
+10:45:43,"cleaver, meat cleaver, chopper (74.5%); scabbard (3.5%); letter opener, paper knife, paperknife (3.2%)",SAFE,N/A
+10:45:44,"cleaver, meat cleaver, chopper (72.2%); scabbard (3.6%); letter opener, paper knife, paperknife (3.3%)",SAFE,N/A
+10:45:44,"cleaver, meat cleaver, chopper (72.1%); scabbard (3.4%); letter opener, paper knife, paperknife (2.9%)",SAFE,N/A
+10:45:44,"cleaver, meat cleaver, chopper (75.8%); scabbard (3.2%); letter opener, paper knife, paperknife (2.4%)",SAFE,N/A
+10:45:45,"cleaver, meat cleaver, chopper (73.7%); scabbard (3.3%); letter opener, paper knife, paperknife (3.0%)",SAFE,N/A
+10:45:45,"cleaver, meat cleaver, chopper (75.6%); scabbard (3.1%); letter opener, paper knife, paperknife (2.4%)",SAFE,N/A
+10:45:45,"cleaver, meat cleaver, chopper (74.3%); scabbard (3.0%); letter opener, paper knife, paperknife (2.6%)",SAFE,N/A
+10:45:45,"cleaver, meat cleaver, chopper (74.6%); scabbard (3.3%); letter opener, paper knife, paperknife (3.1%)",SAFE,N/A
+10:45:46,"cleaver, meat cleaver, chopper (75.2%); scabbard (3.4%); letter opener, paper knife, paperknife (3.0%)",SAFE,N/A
+10:45:46,"cleaver, meat cleaver, chopper (71.3%); letter opener, paper knife, paperknife (4.9%); scabbard (4.6%)",SAFE,N/A
+10:45:46,"cleaver, meat cleaver, chopper (71.7%); letter opener, paper knife, paperknife (4.6%); scabbard (4.6%)",SAFE,N/A
+10:45:47,"cleaver, meat cleaver, chopper (71.3%); scabbard (3.8%); letter opener, paper knife, paperknife (3.6%)",SAFE,N/A
+10:45:47,"cleaver, meat cleaver, chopper (69.3%); scabbard (4.9%); letter opener, paper knife, paperknife (4.0%)",SAFE,N/A
+10:45:47,"cleaver, meat cleaver, chopper (61.6%); letter opener, paper knife, paperknife (3.8%); scabbard (3.6%)",SAFE,N/A
+10:45:47,"cleaver, meat cleaver, chopper (55.8%); letter opener, paper knife, paperknife (3.6%); hatchet (2.3%)",SAFE,N/A
+10:45:48,"cleaver, meat cleaver, chopper (62.2%); hatchet (3.1%); scabbard (3.0%)",SAFE,N/A
+10:45:48,"cleaver, meat cleaver, chopper (59.2%); letter opener, paper knife, paperknife (3.5%); scabbard (3.0%)",SAFE,N/A
+10:45:48,"cleaver, meat cleaver, chopper (58.0%); letter opener, paper knife, paperknife (3.2%); scabbard (2.4%)",SAFE,N/A
+10:45:49,"cleaver, meat cleaver, chopper (57.7%); letter opener, paper knife, paperknife (4.7%); scabbard (2.4%)",SAFE,N/A
+10:45:49,"cleaver, meat cleaver, chopper (64.7%); letter opener, paper knife, paperknife (3.2%); scabbard (2.4%)",SAFE,N/A
+10:45:49,"cleaver, meat cleaver, chopper (63.9%); letter opener, paper knife, paperknife (5.8%); scabbard (2.5%)",SAFE,N/A
+10:45:50,"cleaver, meat cleaver, chopper (70.6%); letter opener, paper knife, paperknife (4.9%); scabbard (2.3%)",SAFE,N/A
+10:45:50,"cleaver, meat cleaver, chopper (65.9%); letter opener, paper knife, paperknife (6.1%); scabbard (2.4%)",SAFE,N/A
+10:45:50,"cleaver, meat cleaver, chopper (66.7%); letter opener, paper knife, paperknife (7.1%); scabbard (2.3%)",SAFE,N/A
+10:45:50,"cleaver, meat cleaver, chopper (68.3%); letter opener, paper knife, paperknife (5.5%); scabbard (1.9%)",SAFE,N/A
+10:45:51,"cleaver, meat cleaver, chopper (67.2%); letter opener, paper knife, paperknife (7.2%); scabbard (1.6%)",SAFE,N/A
+10:45:51,"cleaver, meat cleaver, chopper (61.7%); letter opener, paper knife, paperknife (7.4%); spatula (1.9%)",SAFE,N/A
+10:45:51,"cleaver, meat cleaver, chopper (59.4%); letter opener, paper knife, paperknife (7.6%); scabbard (3.1%)",SAFE,N/A
+10:45:52,"cleaver, meat cleaver, chopper (62.2%); letter opener, paper knife, paperknife (5.1%); scabbard (3.0%)",SAFE,N/A
+10:45:52,"cleaver, meat cleaver, chopper (55.9%); letter opener, paper knife, paperknife (6.4%); spatula (2.6%)",SAFE,N/A
+10:45:52,"cleaver, meat cleaver, chopper (64.7%); letter opener, paper knife, paperknife (2.7%); spatula (1.7%)",SAFE,N/A
+10:45:52,"cleaver, meat cleaver, chopper (59.2%); scabbard (8.1%); letter opener, paper knife, paperknife (4.4%)",SAFE,N/A
+10:45:53,"Injection (76.2%); cleaver, meat cleaver, chopper (8.8%); screwdriver (1.7%)",SAFE,N/A
+10:45:53,"cleaver, meat cleaver, chopper (64.7%); scabbard (5.5%); letter opener, paper knife, paperknife (2.9%)",SAFE,N/A
+10:45:53,"cleaver, meat cleaver, chopper (77.4%); scabbard (3.8%); letter opener, paper knife, paperknife (2.8%)",SAFE,N/A
+10:45:54,"cleaver, meat cleaver, chopper (12.9%); chain saw, chainsaw (12.0%); scabbard (4.9%)",SAFE,N/A
+10:45:54,"snorkel (58.8%); Injection (1.9%); cleaver, meat cleaver, chopper (1.4%)",SAFE,N/A
+10:45:54,"snorkel (44.0%); hook, claw (2.4%); Injection (1.9%)",SAFE,N/A
+10:45:55,"Injection (13.7%); cleaver, meat cleaver, chopper (11.2%); scabbard (7.2%)",SAFE,N/A
+10:45:55,"cleaver, meat cleaver, chopper (20.0%); Injection (12.1%); scabbard (9.7%)",SAFE,N/A
+10:45:55,"cleaver, meat cleaver, chopper (38.7%); Injection (7.9%); letter opener, paper knife, paperknife (6.7%)",SAFE,N/A
+10:45:55,"cleaver, meat cleaver, chopper (32.0%); Injection (15.9%); letter opener, paper knife, paperknife (8.5%)",SAFE,N/A
+10:45:56,"cleaver, meat cleaver, chopper (28.5%); Injection (8.4%); letter opener, paper knife, paperknife (5.3%)",SAFE,N/A
+10:45:56,"cleaver, meat cleaver, chopper (24.9%); letter opener, paper knife, paperknife (4.1%); Injection (3.8%)",SAFE,N/A
+10:45:56,"cleaver, meat cleaver, chopper (33.0%); Injection (5.8%); letter opener, paper knife, paperknife (4.4%)",SAFE,N/A
+10:45:57,"cleaver, meat cleaver, chopper (39.4%); Injection (9.2%); letter opener, paper knife, paperknife (3.5%)",SAFE,N/A
+10:45:57,"cleaver, meat cleaver, chopper (42.3%); Injection (7.0%); letter opener, paper knife, paperknife (4.5%)",SAFE,N/A
+10:45:57,"cleaver, meat cleaver, chopper (64.3%); letter opener, paper knife, paperknife (4.4%); scabbard (1.9%)",SAFE,N/A
+10:45:58,"cleaver, meat cleaver, chopper (34.7%); letter opener, paper knife, paperknife (4.7%); snorkel (3.6%)",SAFE,N/A
+10:45:58,"cleaver, meat cleaver, chopper (21.3%); Injection (7.1%); letter opener, paper knife, paperknife (5.1%)",SAFE,N/A
+10:45:58,"cleaver, meat cleaver, chopper (7.4%); Injection (3.3%); snorkel (3.2%)",SAFE,N/A
+10:45:58,"cleaver, meat cleaver, chopper (17.9%); Injection (6.6%); letter opener, paper knife, paperknife (4.0%)",SAFE,N/A
+10:45:59,"snorkel (7.4%); cleaver, meat cleaver, chopper (6.9%); screwdriver (4.7%)",SAFE,N/A
+10:45:59,"cleaver, meat cleaver, chopper (13.0%); snorkel (5.6%); letter opener, paper knife, paperknife (3.9%)",SAFE,N/A
+10:45:59,"cleaver, meat cleaver, chopper (12.9%); letter opener, paper knife, paperknife (4.9%); screwdriver (4.7%)",SAFE,N/A
+10:46:00,"cleaver, meat cleaver, chopper (17.6%); letter opener, paper knife, paperknife (8.7%); screwdriver (4.1%)",SAFE,N/A
+10:46:00,"cleaver, meat cleaver, chopper (23.8%); letter opener, paper knife, paperknife (6.0%); Injection (5.6%)",SAFE,N/A
+10:46:00,"cleaver, meat cleaver, chopper (39.6%); letter opener, paper knife, paperknife (6.1%); can opener, tin opener (3.9%)",SAFE,N/A
+10:46:00,"cleaver, meat cleaver, chopper (75.2%); scabbard (2.8%); letter opener, paper knife, paperknife (2.5%)",SAFE,N/A
+10:46:01,"cleaver, meat cleaver, chopper (33.3%); Injection (11.4%); ice lolly, lolly, lollipop, popsicle (3.5%)",SAFE,N/A
+10:46:01,"Injection (31.6%); screwdriver (6.3%); cleaver, meat cleaver, chopper (4.8%)",SAFE,N/A
+10:46:01,"Injection (35.5%); ice lolly, lolly, lollipop, popsicle (6.0%); cleaver, meat cleaver, chopper (3.2%)",SAFE,N/A
+10:46:02,"Injection (20.0%); ice lolly, lolly, lollipop, popsicle (7.4%); letter opener, paper knife, paperknife (3.8%)",SAFE,N/A
+10:46:02,"cleaver, meat cleaver, chopper (14.2%); letter opener, paper knife, paperknife (11.8%); Injection (7.1%)",SAFE,N/A
+10:46:02,"cleaver, meat cleaver, chopper (20.2%); letter opener, paper knife, paperknife (11.3%); scabbard (6.3%)",SAFE,N/A
+10:46:02,"cleaver, meat cleaver, chopper (17.7%); letter opener, paper knife, paperknife (8.3%); scabbard (6.0%)",SAFE,N/A
+10:46:03,"cleaver, meat cleaver, chopper (22.2%); letter opener, paper knife, paperknife (8.3%); Injection (6.0%)",SAFE,N/A
+10:46:03,"cleaver, meat cleaver, chopper (23.3%); letter opener, paper knife, paperknife (7.2%); scabbard (7.2%)",SAFE,N/A
+10:46:03,"cleaver, meat cleaver, chopper (17.2%); scabbard (9.7%); Injection (7.8%)",SAFE,N/A
+10:46:04,"cleaver, meat cleaver, chopper (29.9%); letter opener, paper knife, paperknife (10.1%); ice lolly, lolly, lollipop, popsicle (7.6%)",SAFE,N/A
+10:46:04,"cleaver, meat cleaver, chopper (41.3%); letter opener, paper knife, paperknife (13.4%); Injection (9.7%)",SAFE,N/A
+10:46:04,"cleaver, meat cleaver, chopper (54.1%); letter opener, paper knife, paperknife (9.4%); Injection (5.3%)",SAFE,N/A
+10:46:04,"cleaver, meat cleaver, chopper (47.6%); Injection (10.9%); letter opener, paper knife, paperknife (4.8%)",SAFE,N/A
+10:46:05,"cleaver, meat cleaver, chopper (42.2%); letter opener, paper knife, paperknife (8.0%); chain saw, chainsaw (6.7%)",SAFE,N/A
+10:46:05,"cleaver, meat cleaver, chopper (59.5%); letter opener, paper knife, paperknife (6.4%); scabbard (4.0%)",SAFE,N/A
+10:46:05,"cleaver, meat cleaver, chopper (45.4%); letter opener, paper knife, paperknife (15.1%); scabbard (14.2%)",SAFE,N/A
+10:46:06,"cleaver, meat cleaver, chopper (51.5%); scabbard (12.2%); letter opener, paper knife, paperknife (10.7%)",SAFE,N/A
+10:46:06,"scabbard (23.2%); cleaver, meat cleaver, chopper (8.3%); flute, transverse flute (7.3%)",SAFE,N/A
+10:46:06,"cleaver, meat cleaver, chopper (23.2%); scabbard (17.4%); chain saw, chainsaw (9.1%)",SAFE,N/A
+10:46:07,"cleaver, meat cleaver, chopper (26.0%); chain saw, chainsaw (9.1%); scabbard (5.0%)",SAFE,N/A
+10:46:07,"cleaver, meat cleaver, chopper (46.4%); scabbard (30.4%); letter opener, paper knife, paperknife (6.1%)",SAFE,N/A
+10:46:07,"scabbard (48.6%); cleaver, meat cleaver, chopper (18.4%); letter opener, paper knife, paperknife (7.1%)",SAFE,N/A
+10:46:07,"scabbard (33.1%); cleaver, meat cleaver, chopper (28.0%); letter opener, paper knife, paperknife (7.1%)",SAFE,N/A
+10:46:08,"cleaver, meat cleaver, chopper (30.9%); scabbard (29.6%); hatchet (4.6%)",SAFE,N/A
+10:46:08,"cleaver, meat cleaver, chopper (36.9%); scabbard (29.1%); letter opener, paper knife, paperknife (7.2%)",SAFE,N/A
+10:46:08,"cleaver, meat cleaver, chopper (54.8%); scabbard (15.9%); letter opener, paper knife, paperknife (6.4%)",SAFE,N/A
+10:46:09,"cleaver, meat cleaver, chopper (39.0%); chain saw, chainsaw (20.8%); scabbard (12.5%)",SAFE,N/A
+10:46:09,"cleaver, meat cleaver, chopper (43.1%); chain saw, chainsaw (27.5%); scabbard (8.9%)",SAFE,N/A
+10:46:09,"cleaver, meat cleaver, chopper (52.2%); scabbard (13.9%); letter opener, paper knife, paperknife (4.9%)",SAFE,N/A
+10:46:10,"cleaver, meat cleaver, chopper (55.3%); scabbard (15.4%); letter opener, paper knife, paperknife (4.7%)",SAFE,N/A
+10:46:10,"cleaver, meat cleaver, chopper (57.1%); scabbard (15.6%); letter opener, paper knife, paperknife (4.5%)",SAFE,N/A
+10:46:10,"cleaver, meat cleaver, chopper (50.9%); scabbard (16.6%); letter opener, paper knife, paperknife (6.9%)",SAFE,N/A
+10:46:10,"cleaver, meat cleaver, chopper (24.9%); ice lolly, lolly, lollipop, popsicle (11.1%); letter opener, paper knife, paperknife (8.7%)",SAFE,N/A
+10:46:11,"cleaver, meat cleaver, chopper (22.0%); ice lolly, lolly, lollipop, popsicle (13.7%); letter opener, paper knife, paperknife (10.0%)",SAFE,N/A
+10:46:11,"cleaver, meat cleaver, chopper (13.9%); ice lolly, lolly, lollipop, popsicle (13.1%); letter opener, paper knife, paperknife (10.5%)",SAFE,N/A
+10:46:11,"cleaver, meat cleaver, chopper (15.3%); ice lolly, lolly, lollipop, popsicle (12.4%); letter opener, paper knife, paperknife (10.7%)",SAFE,N/A
+10:46:12,"cleaver, meat cleaver, chopper (15.0%); ice lolly, lolly, lollipop, popsicle (11.0%); Injection (9.4%)",SAFE,N/A
+10:46:12,"cleaver, meat cleaver, chopper (15.9%); letter opener, paper knife, paperknife (11.4%); Injection (9.6%)",SAFE,N/A
+10:46:12,"cleaver, meat cleaver, chopper (22.4%); scabbard (16.2%); letter opener, paper knife, paperknife (12.5%)",SAFE,N/A
+10:46:12,"cleaver, meat cleaver, chopper (65.7%); scabbard (10.3%); letter opener, paper knife, paperknife (5.2%)",SAFE,N/A
+10:46:13,"cleaver, meat cleaver, chopper (65.9%); scabbard (8.9%); letter opener, paper knife, paperknife (3.8%)",SAFE,N/A
+10:46:13,"cleaver, meat cleaver, chopper (57.3%); scabbard (8.2%); letter opener, paper knife, paperknife (5.3%)",SAFE,N/A
+10:46:13,"cleaver, meat cleaver, chopper (54.8%); scabbard (7.1%); letter opener, paper knife, paperknife (6.3%)",SAFE,N/A
+10:46:14,"cleaver, meat cleaver, chopper (57.5%); scabbard (5.5%); letter opener, paper knife, paperknife (5.1%)",SAFE,N/A
+10:46:14,"cleaver, meat cleaver, chopper (59.7%); scabbard (4.1%); letter opener, paper knife, paperknife (3.6%)",SAFE,N/A
+10:46:14,"cleaver, meat cleaver, chopper (58.4%); scabbard (4.6%); letter opener, paper knife, paperknife (3.4%)",SAFE,N/A
+10:46:14,"cleaver, meat cleaver, chopper (32.7%); ice lolly, lolly, lollipop, popsicle (10.3%); Injection (6.4%)",SAFE,N/A
+10:46:15,"cleaver, meat cleaver, chopper (28.2%); ice lolly, lolly, lollipop, popsicle (13.1%); Injection (9.6%)",SAFE,N/A
+10:46:15,"cleaver, meat cleaver, chopper (30.8%); ice lolly, lolly, lollipop, popsicle (12.6%); Injection (9.8%)",SAFE,N/A
+10:46:15,"cleaver, meat cleaver, chopper (45.7%); scabbard (5.5%); ice lolly, lolly, lollipop, popsicle (4.4%)",SAFE,N/A
+10:46:16,"cleaver, meat cleaver, chopper (49.2%); ice lolly, lolly, lollipop, popsicle (9.5%); scabbard (5.1%)",SAFE,N/A
+10:46:16,"cleaver, meat cleaver, chopper (26.2%); ice lolly, lolly, lollipop, popsicle (19.2%); Injection (6.4%)",SAFE,N/A
+10:46:16,"cleaver, meat cleaver, chopper (22.4%); ice lolly, lolly, lollipop, popsicle (18.4%); Injection (12.7%)",SAFE,N/A
+10:46:17,"cleaver, meat cleaver, chopper (30.9%); ice lolly, lolly, lollipop, popsicle (11.6%); Injection (5.7%)",SAFE,N/A
+10:46:17,"cleaver, meat cleaver, chopper (24.9%); ice lolly, lolly, lollipop, popsicle (14.0%); Injection (6.3%)",SAFE,N/A
+10:46:17,"cleaver, meat cleaver, chopper (27.0%); ice lolly, lolly, lollipop, popsicle (13.5%); Injection (6.4%)",SAFE,N/A
+10:46:17,"cleaver, meat cleaver, chopper (38.3%); ice lolly, lolly, lollipop, popsicle (6.5%); Injection (5.1%)",SAFE,N/A
+10:46:18,"cleaver, meat cleaver, chopper (50.7%); scabbard (5.9%); letter opener, paper knife, paperknife (4.5%)",SAFE,N/A
+10:46:18,"cleaver, meat cleaver, chopper (41.8%); ice lolly, lolly, lollipop, popsicle (6.9%); scabbard (5.9%)",SAFE,N/A
+10:46:18,"cleaver, meat cleaver, chopper (31.7%); ice lolly, lolly, lollipop, popsicle (7.7%); Injection (5.4%)",SAFE,N/A
+10:46:19,"cleaver, meat cleaver, chopper (28.5%); ice lolly, lolly, lollipop, popsicle (10.1%); Injection (6.6%)",SAFE,N/A
+10:46:19,"cleaver, meat cleaver, chopper (43.8%); scabbard (6.0%); ice lolly, lolly, lollipop, popsicle (5.0%)",SAFE,N/A
+10:46:19,"cleaver, meat cleaver, chopper (57.4%); scabbard (7.3%); letter opener, paper knife, paperknife (5.0%)",SAFE,N/A
+10:46:19,"cleaver, meat cleaver, chopper (55.3%); scabbard (8.5%); letter opener, paper knife, paperknife (5.9%)",SAFE,N/A
+10:46:20,"drumstick (57.0%); drum, membranophone, tympan (7.7%); Injection (3.6%)",SAFE,N/A
+10:46:20,"maraca (20.9%); jersey, T-shirt, tee shirt (8.4%); neck brace (4.6%)",SAFE,N/A
+10:46:20,"ice lolly, lolly, lollipop, popsicle (26.2%); maraca (21.9%); nipple (8.1%)",SAFE,N/A
+10:46:21,"ice lolly, lolly, lollipop, popsicle (49.7%); nipple (10.2%); maraca (9.1%)",SAFE,N/A
+10:46:21,"ice lolly, lolly, lollipop, popsicle (45.4%); nipple (24.7%); maraca (3.0%)",SAFE,N/A
+10:46:21,nipple (15.8%); potter's wheel (6.4%); maraca (6.1%),SAFE,N/A
+10:46:22,"nipple (19.1%); ocarina, sweet potato (7.8%); maraca (5.0%)",SAFE,N/A
+10:50:42,drumstick (8.4%); crutch (5.2%); harp (3.8%),SAFE,N/A
+10:50:42,"drumstick (6.0%); cello, violoncello (5.9%); paintbrush (4.9%)",SAFE,N/A
+10:50:43,"jersey, T-shirt, tee shirt (16.7%); maraca (11.1%); drumstick (7.4%)",SAFE,N/A
+10:50:43,"cleaver, meat cleaver, chopper (54.1%); letter opener, paper knife, paperknife (8.4%); scabbard (4.5%)",SAFE,N/A
+10:50:43,"cleaver, meat cleaver, chopper (91.8%); letter opener, paper knife, paperknife (1.4%); scabbard (1.1%)",SAFE,N/A
+10:50:43,"cleaver, meat cleaver, chopper (66.2%); letter opener, paper knife, paperknife (8.2%); scabbard (3.6%)",SAFE,N/A
+10:50:44,"cleaver, meat cleaver, chopper (65.1%); letter opener, paper knife, paperknife (12.4%); scabbard (3.6%)",SAFE,N/A
+10:50:44,"cleaver, meat cleaver, chopper (60.4%); letter opener, paper knife, paperknife (17.3%); scabbard (5.6%)",SAFE,N/A
+10:50:44,"cleaver, meat cleaver, chopper (53.6%); letter opener, paper knife, paperknife (19.5%); scabbard (6.3%)",SAFE,N/A
+10:50:45,"cleaver, meat cleaver, chopper (47.8%); letter opener, paper knife, paperknife (18.2%); scabbard (7.3%)",SAFE,N/A
+10:50:45,"cleaver, meat cleaver, chopper (57.4%); letter opener, paper knife, paperknife (11.2%); scabbard (4.4%)",SAFE,N/A
+10:50:45,"cleaver, meat cleaver, chopper (48.4%); letter opener, paper knife, paperknife (14.6%); scabbard (4.5%)",SAFE,N/A
+10:50:45,"cleaver, meat cleaver, chopper (64.8%); letter opener, paper knife, paperknife (9.2%); scabbard (4.5%)",SAFE,N/A
+10:50:46,"cleaver, meat cleaver, chopper (77.3%); letter opener, paper knife, paperknife (5.8%); scabbard (3.1%)",SAFE,N/A
+10:50:46,"cleaver, meat cleaver, chopper (62.1%); letter opener, paper knife, paperknife (13.4%); scabbard (4.3%)",SAFE,N/A
+10:50:46,"cleaver, meat cleaver, chopper (59.8%); letter opener, paper knife, paperknife (12.8%); scabbard (5.2%)",SAFE,N/A
+10:50:47,"cleaver, meat cleaver, chopper (60.8%); letter opener, paper knife, paperknife (11.2%); scabbard (4.7%)",SAFE,N/A
+10:50:47,"cleaver, meat cleaver, chopper (49.1%); letter opener, paper knife, paperknife (13.4%); scabbard (4.9%)",SAFE,N/A
+10:50:47,"cleaver, meat cleaver, chopper (62.8%); letter opener, paper knife, paperknife (8.5%); spatula (2.4%)",SAFE,N/A
+10:50:48,"cleaver, meat cleaver, chopper (63.5%); letter opener, paper knife, paperknife (9.7%); scabbard (2.2%)",SAFE,N/A
+10:50:48,"cleaver, meat cleaver, chopper (65.7%); letter opener, paper knife, paperknife (8.7%); scabbard (2.3%)",SAFE,N/A
+10:50:48,"cleaver, meat cleaver, chopper (63.6%); letter opener, paper knife, paperknife (10.0%); scabbard (2.1%)",SAFE,N/A
+10:50:48,"cleaver, meat cleaver, chopper (68.0%); letter opener, paper knife, paperknife (7.1%); spatula (1.8%)",SAFE,N/A
+10:50:49,"cleaver, meat cleaver, chopper (62.2%); letter opener, paper knife, paperknife (8.8%); scabbard (2.3%)",SAFE,N/A
+10:50:49,"cleaver, meat cleaver, chopper (66.4%); letter opener, paper knife, paperknife (6.7%); spatula (1.8%)",SAFE,N/A
+10:50:49,"cleaver, meat cleaver, chopper (64.2%); letter opener, paper knife, paperknife (8.6%); spatula (2.2%)",SAFE,N/A
+10:50:50,"cleaver, meat cleaver, chopper (64.6%); letter opener, paper knife, paperknife (8.3%); spatula (2.2%)",SAFE,N/A
+10:50:50,"cleaver, meat cleaver, chopper (65.2%); letter opener, paper knife, paperknife (8.0%); scabbard (2.1%)",SAFE,N/A
+10:50:50,"cleaver, meat cleaver, chopper (68.3%); letter opener, paper knife, paperknife (8.0%); scabbard (2.0%)",SAFE,N/A
+10:50:51,"cleaver, meat cleaver, chopper (68.4%); letter opener, paper knife, paperknife (7.5%); scabbard (2.1%)",SAFE,N/A
+10:50:51,"cleaver, meat cleaver, chopper (68.7%); letter opener, paper knife, paperknife (7.1%); scabbard (2.0%)",SAFE,N/A
+10:50:51,"cleaver, meat cleaver, chopper (71.0%); letter opener, paper knife, paperknife (7.2%); scabbard (2.1%)",SAFE,N/A
+10:50:51,"cleaver, meat cleaver, chopper (69.2%); letter opener, paper knife, paperknife (5.9%); scabbard (2.1%)",SAFE,N/A
+10:50:52,"cleaver, meat cleaver, chopper (67.0%); letter opener, paper knife, paperknife (7.0%); scabbard (2.2%)",SAFE,N/A
+10:50:52,"cleaver, meat cleaver, chopper (64.0%); letter opener, paper knife, paperknife (7.9%); ice lolly, lolly, lollipop, popsicle (2.3%)",SAFE,N/A
+10:50:52,"cleaver, meat cleaver, chopper (68.9%); letter opener, paper knife, paperknife (6.8%); scabbard (1.8%)",SAFE,N/A
+10:50:53,"cleaver, meat cleaver, chopper (64.7%); letter opener, paper knife, paperknife (7.5%); ice lolly, lolly, lollipop, popsicle (2.6%)",SAFE,N/A
+10:50:53,"cleaver, meat cleaver, chopper (65.9%); letter opener, paper knife, paperknife (5.8%); scabbard (2.1%)",SAFE,N/A
+10:50:53,"cleaver, meat cleaver, chopper (81.0%); letter opener, paper knife, paperknife (3.3%); scabbard (1.6%)",SAFE,N/A
+10:50:54,"cleaver, meat cleaver, chopper (83.1%); letter opener, paper knife, paperknife (3.3%); scabbard (1.4%)",SAFE,N/A
+10:50:54,"cleaver, meat cleaver, chopper (81.7%); letter opener, paper knife, paperknife (3.2%); scabbard (2.2%)",SAFE,N/A
+10:50:54,"cleaver, meat cleaver, chopper (79.5%); letter opener, paper knife, paperknife (3.2%); scabbard (2.3%)",SAFE,N/A
+10:50:54,"cleaver, meat cleaver, chopper (78.2%); letter opener, paper knife, paperknife (3.2%); scabbard (1.9%)",SAFE,N/A
+10:50:55,"cleaver, meat cleaver, chopper (73.4%); letter opener, paper knife, paperknife (3.5%); scabbard (2.3%)",SAFE,N/A
+10:50:55,"cleaver, meat cleaver, chopper (74.8%); letter opener, paper knife, paperknife (3.9%); scabbard (2.1%)",SAFE,N/A
+10:50:55,"cleaver, meat cleaver, chopper (84.7%); letter opener, paper knife, paperknife (3.3%); scabbard (2.1%)",SAFE,N/A
+10:50:56,"cleaver, meat cleaver, chopper (78.6%); letter opener, paper knife, paperknife (4.3%); scabbard (2.2%)",SAFE,N/A
+10:50:56,"cleaver, meat cleaver, chopper (81.6%); letter opener, paper knife, paperknife (3.5%); scabbard (1.8%)",SAFE,N/A
+10:50:56,"cleaver, meat cleaver, chopper (79.8%); letter opener, paper knife, paperknife (4.1%); scabbard (2.1%)",SAFE,N/A
+10:50:56,"cleaver, meat cleaver, chopper (82.5%); letter opener, paper knife, paperknife (3.3%); scabbard (2.3%)",SAFE,N/A
+10:50:57,"cleaver, meat cleaver, chopper (89.9%); letter opener, paper knife, paperknife (1.9%); scabbard (1.3%)",SAFE,N/A
+10:50:57,"cleaver, meat cleaver, chopper (88.0%); letter opener, paper knife, paperknife (2.4%); scabbard (1.5%)",SAFE,N/A
+10:50:57,"cleaver, meat cleaver, chopper (88.6%); letter opener, paper knife, paperknife (2.3%); scabbard (1.6%)",SAFE,N/A
+10:50:58,"cleaver, meat cleaver, chopper (82.7%); letter opener, paper knife, paperknife (3.4%); scabbard (1.9%)",SAFE,N/A
+10:50:58,"cleaver, meat cleaver, chopper (83.4%); letter opener, paper knife, paperknife (3.3%); scabbard (1.4%)",SAFE,N/A
+10:50:58,"cleaver, meat cleaver, chopper (82.8%); letter opener, paper knife, paperknife (3.4%); scabbard (2.4%)",SAFE,N/A
+10:50:58,"cleaver, meat cleaver, chopper (78.7%); letter opener, paper knife, paperknife (3.0%); scabbard (2.2%)",SAFE,N/A
+10:50:59,"cleaver, meat cleaver, chopper (84.5%); letter opener, paper knife, paperknife (2.3%); scabbard (2.0%)",SAFE,N/A
+10:50:59,"cleaver, meat cleaver, chopper (70.1%); letter opener, paper knife, paperknife (3.5%); scabbard (2.9%)",SAFE,N/A
+10:50:59,"cleaver, meat cleaver, chopper (55.2%); letter opener, paper knife, paperknife (5.6%); scabbard (5.2%)",SAFE,N/A
+10:51:00,"cleaver, meat cleaver, chopper (65.4%); letter opener, paper knife, paperknife (8.0%); scabbard (2.7%)",SAFE,N/A
+10:51:00,"cleaver, meat cleaver, chopper (73.6%); scabbard (4.7%); letter opener, paper knife, paperknife (2.2%)",SAFE,N/A
+10:51:00,"cleaver, meat cleaver, chopper (75.2%); scabbard (8.5%); letter opener, paper knife, paperknife (5.1%)",SAFE,N/A
+10:51:00,"cleaver, meat cleaver, chopper (96.8%); letter opener, paper knife, paperknife (0.7%); scabbard (0.4%)",SAFE,N/A
+10:51:01,"cleaver, meat cleaver, chopper (76.9%); letter opener, paper knife, paperknife (7.2%); scabbard (2.4%)",SAFE,N/A
+10:51:01,"cleaver, meat cleaver, chopper (69.5%); letter opener, paper knife, paperknife (13.1%); scabbard (6.6%)",SAFE,N/A
+10:51:01,"cleaver, meat cleaver, chopper (43.1%); letter opener, paper knife, paperknife (40.4%); scabbard (4.2%)",SAFE,N/A
+10:51:02,"cleaver, meat cleaver, chopper (58.4%); letter opener, paper knife, paperknife (16.6%); scabbard (6.3%)",SAFE,N/A
+10:51:02,"cleaver, meat cleaver, chopper (76.3%); letter opener, paper knife, paperknife (8.5%); spatula (2.4%)",SAFE,N/A
+10:51:02,"cleaver, meat cleaver, chopper (75.5%); letter opener, paper knife, paperknife (7.5%); scabbard (2.9%)",SAFE,N/A
+10:51:03,"cleaver, meat cleaver, chopper (79.6%); letter opener, paper knife, paperknife (6.8%); scabbard (4.8%)",SAFE,N/A
+10:51:03,"cleaver, meat cleaver, chopper (83.4%); letter opener, paper knife, paperknife (4.0%); scabbard (3.4%)",SAFE,N/A
+10:51:03,"cleaver, meat cleaver, chopper (53.6%); scabbard (9.9%); letter opener, paper knife, paperknife (5.3%)",SAFE,N/A
+10:51:03,"cleaver, meat cleaver, chopper (83.7%); scabbard (3.5%); letter opener, paper knife, paperknife (2.3%)",SAFE,N/A
+10:51:04,"cleaver, meat cleaver, chopper (74.8%); scabbard (3.6%); letter opener, paper knife, paperknife (3.1%)",SAFE,N/A
+10:51:04,"cleaver, meat cleaver, chopper (81.4%); scabbard (2.5%); letter opener, paper knife, paperknife (1.5%)",SAFE,N/A
+10:51:04,"cleaver, meat cleaver, chopper (81.6%); scabbard (3.6%); letter opener, paper knife, paperknife (2.6%)",SAFE,N/A
+10:51:05,"cleaver, meat cleaver, chopper (82.9%); scabbard (5.3%); letter opener, paper knife, paperknife (4.5%)",SAFE,N/A
+10:51:05,"cleaver, meat cleaver, chopper (60.9%); letter opener, paper knife, paperknife (9.8%); scabbard (8.5%)",SAFE,N/A
+10:51:05,"cleaver, meat cleaver, chopper (53.6%); letter opener, paper knife, paperknife (8.1%); scabbard (8.0%)",SAFE,N/A
+10:51:06,"cleaver, meat cleaver, chopper (56.7%); letter opener, paper knife, paperknife (9.1%); scabbard (7.2%)",SAFE,N/A
+10:51:06,"cleaver, meat cleaver, chopper (44.0%); scabbard (9.9%); letter opener, paper knife, paperknife (7.2%)",SAFE,N/A
+10:51:06,"cleaver, meat cleaver, chopper (57.0%); letter opener, paper knife, paperknife (9.2%); scabbard (5.8%)",SAFE,N/A
+10:51:06,"cleaver, meat cleaver, chopper (58.5%); letter opener, paper knife, paperknife (14.8%); spatula (4.2%)",SAFE,N/A
+10:51:07,"cleaver, meat cleaver, chopper (81.6%); letter opener, paper knife, paperknife (8.1%); scabbard (1.7%)",SAFE,N/A
+10:51:07,"cleaver, meat cleaver, chopper (78.6%); letter opener, paper knife, paperknife (8.4%); scabbard (1.8%)",SAFE,N/A
+10:51:07,"cleaver, meat cleaver, chopper (69.0%); letter opener, paper knife, paperknife (10.1%); scabbard (3.0%)",SAFE,N/A
+10:51:08,"cleaver, meat cleaver, chopper (59.6%); letter opener, paper knife, paperknife (12.8%); scabbard (4.2%)",SAFE,N/A
+10:51:08,"cleaver, meat cleaver, chopper (56.8%); letter opener, paper knife, paperknife (13.3%); scabbard (5.6%)",SAFE,N/A
+10:51:08,"cleaver, meat cleaver, chopper (61.9%); letter opener, paper knife, paperknife (11.0%); scabbard (4.3%)",SAFE,N/A
+10:51:08,"cleaver, meat cleaver, chopper (62.1%); letter opener, paper knife, paperknife (10.2%); can opener, tin opener (3.6%)",SAFE,N/A
+10:51:09,"cleaver, meat cleaver, chopper (59.9%); letter opener, paper knife, paperknife (12.5%); can opener, tin opener (3.8%)",SAFE,N/A
+10:51:09,"cleaver, meat cleaver, chopper (60.0%); letter opener, paper knife, paperknife (12.7%); can opener, tin opener (3.6%)",SAFE,N/A
+10:51:09,"cleaver, meat cleaver, chopper (52.4%); letter opener, paper knife, paperknife (16.7%); can opener, tin opener (3.7%)",SAFE,N/A
+10:51:10,"cleaver, meat cleaver, chopper (66.6%); letter opener, paper knife, paperknife (13.0%); scabbard (2.7%)",SAFE,N/A
+10:51:10,"cleaver, meat cleaver, chopper (77.6%); letter opener, paper knife, paperknife (7.9%); scabbard (1.3%)",SAFE,N/A
+10:51:10,"cleaver, meat cleaver, chopper (74.5%); letter opener, paper knife, paperknife (10.4%); scabbard (1.6%)",SAFE,N/A
+10:51:11,"cleaver, meat cleaver, chopper (72.5%); letter opener, paper knife, paperknife (5.5%); scabbard (1.8%)",SAFE,N/A
+10:51:11,"cleaver, meat cleaver, chopper (90.0%); letter opener, paper knife, paperknife (4.1%); scabbard (1.2%)",SAFE,N/A
+10:51:11,"cleaver, meat cleaver, chopper (72.3%); can opener, tin opener (1.6%); Injection (1.2%)",SAFE,N/A
+10:51:11,potter's wheel (12.5%); maraca (7.8%); nipple (2.3%),SAFE,N/A
+10:58:53,"jersey, T-shirt, tee shirt (20.8%); ocarina, sweet potato (13.9%); harmonica, mouth organ, harp, mouth harp (6.1%)",SAFE,N/A
+10:58:53,"jersey, T-shirt, tee shirt (19.7%); ocarina, sweet potato (18.5%); harmonica, mouth organ, harp, mouth harp (12.8%)",SAFE,N/A
+10:58:53,"jersey, T-shirt, tee shirt (9.4%); Band Aid (4.9%); nipple (4.8%)",SAFE,N/A
+10:58:54,"maraca (13.8%); jersey, T-shirt, tee shirt (9.4%); nipple (7.0%)",SAFE,N/A
+10:58:54,"jersey, T-shirt, tee shirt (33.7%); maraca (10.8%); nipple (2.9%)",SAFE,N/A
+10:58:54,"jersey, T-shirt, tee shirt (41.7%); maraca (12.6%); Band Aid (3.1%)",SAFE,N/A
+10:58:55,"jersey, T-shirt, tee shirt (44.6%); maraca (11.6%); Band Aid (3.2%)",SAFE,N/A
+10:58:55,"jersey, T-shirt, tee shirt (20.7%); maraca (15.5%); nipple (11.2%)",SAFE,N/A
+10:58:55,"jersey, T-shirt, tee shirt (29.3%); maraca (14.3%); Band Aid (6.7%)",SAFE,N/A
+10:58:55,"jersey, T-shirt, tee shirt (23.9%); maraca (16.3%); hair spray (4.5%)",SAFE,N/A
+10:58:56,"cleaver, meat cleaver, chopper (85.3%); spatula (1.6%); letter opener, paper knife, paperknife (1.4%)",SAFE,N/A
+10:58:56,"cleaver, meat cleaver, chopper (29.5%); letter opener, paper knife, paperknife (16.3%); scabbard (4.5%)",SAFE,N/A
+10:58:56,"cleaver, meat cleaver, chopper (31.1%); letter opener, paper knife, paperknife (7.1%); can opener, tin opener (6.9%)",SAFE,N/A
+10:58:57,"cleaver, meat cleaver, chopper (37.4%); letter opener, paper knife, paperknife (5.7%); can opener, tin opener (3.6%)",SAFE,N/A
+10:58:57,"cleaver, meat cleaver, chopper (41.8%); letter opener, paper knife, paperknife (5.8%); can opener, tin opener (3.1%)",SAFE,N/A
+10:58:57,"cleaver, meat cleaver, chopper (45.4%); letter opener, paper knife, paperknife (8.9%); scabbard (6.8%)",SAFE,N/A
+10:58:57,"cleaver, meat cleaver, chopper (47.0%); letter opener, paper knife, paperknife (8.3%); scabbard (6.4%)",SAFE,N/A
+10:58:58,"cleaver, meat cleaver, chopper (43.1%); letter opener, paper knife, paperknife (10.2%); scabbard (4.9%)",SAFE,N/A
+10:58:58,"cleaver, meat cleaver, chopper (32.8%); letter opener, paper knife, paperknife (10.1%); scabbard (5.7%)",SAFE,N/A
+10:58:58,"cleaver, meat cleaver, chopper (39.6%); letter opener, paper knife, paperknife (7.7%); scabbard (4.5%)",SAFE,N/A
+10:58:59,"cleaver, meat cleaver, chopper (39.0%); letter opener, paper knife, paperknife (9.1%); scabbard (4.7%)",SAFE,N/A
+10:58:59,"cleaver, meat cleaver, chopper (46.4%); letter opener, paper knife, paperknife (7.0%); scabbard (4.0%)",SAFE,N/A
+10:58:59,"cleaver, meat cleaver, chopper (43.5%); letter opener, paper knife, paperknife (7.6%); scabbard (4.1%)",SAFE,N/A
+10:59:00,"cleaver, meat cleaver, chopper (46.5%); letter opener, paper knife, paperknife (6.5%); scabbard (4.1%)",SAFE,N/A
+10:59:00,"cleaver, meat cleaver, chopper (37.1%); letter opener, paper knife, paperknife (7.5%); scabbard (4.0%)",SAFE,N/A
+10:59:00,"cleaver, meat cleaver, chopper (34.0%); letter opener, paper knife, paperknife (5.1%); Injection (4.8%)",SAFE,N/A
+10:59:01,"cleaver, meat cleaver, chopper (34.5%); letter opener, paper knife, paperknife (5.8%); Injection (4.4%)",SAFE,N/A
+10:59:01,"cleaver, meat cleaver, chopper (42.9%); letter opener, paper knife, paperknife (7.3%); scabbard (4.0%)",SAFE,N/A
+10:59:01,"cleaver, meat cleaver, chopper (39.6%); letter opener, paper knife, paperknife (9.2%); scabbard (5.0%)",SAFE,N/A
+10:59:01,"cleaver, meat cleaver, chopper (28.1%); letter opener, paper knife, paperknife (8.2%); Injection (4.9%)",SAFE,N/A
+10:59:02,"cleaver, meat cleaver, chopper (24.8%); letter opener, paper knife, paperknife (6.4%); can opener, tin opener (5.3%)",SAFE,N/A
+10:59:02,"cleaver, meat cleaver, chopper (21.1%); Injection (7.5%); letter opener, paper knife, paperknife (6.5%)",SAFE,N/A
+10:59:02,"cleaver, meat cleaver, chopper (17.1%); Injection (9.4%); letter opener, paper knife, paperknife (6.6%)",SAFE,N/A
+10:59:03,"cleaver, meat cleaver, chopper (33.0%); letter opener, paper knife, paperknife (7.7%); can opener, tin opener (4.8%)",SAFE,N/A
+10:59:03,"cleaver, meat cleaver, chopper (28.7%); letter opener, paper knife, paperknife (12.7%); Injection (6.4%)",SAFE,N/A
+10:59:03,"cleaver, meat cleaver, chopper (36.5%); letter opener, paper knife, paperknife (9.5%); Injection (8.2%)",SAFE,N/A
+10:59:03,"cleaver, meat cleaver, chopper (67.0%); letter opener, paper knife, paperknife (3.7%); Injection (2.2%)",SAFE,N/A
+10:59:04,"Injection (38.5%); cleaver, meat cleaver, chopper (17.5%); letter opener, paper knife, paperknife (4.3%)",SAFE,N/A
+10:59:04,"cleaver, meat cleaver, chopper (44.8%); Injection (10.7%); letter opener, paper knife, paperknife (5.9%)",SAFE,N/A
+10:59:04,"cleaver, meat cleaver, chopper (58.5%); Injection (10.7%); letter opener, paper knife, paperknife (7.6%)",SAFE,N/A
+10:59:05,"cleaver, meat cleaver, chopper (55.7%); Injection (10.0%); letter opener, paper knife, paperknife (7.8%)",SAFE,N/A
+10:59:05,"cleaver, meat cleaver, chopper (49.7%); letter opener, paper knife, paperknife (8.7%); scabbard (8.5%)",SAFE,N/A
+10:59:05,"cleaver, meat cleaver, chopper (60.1%); letter opener, paper knife, paperknife (5.3%); Injection (3.5%)",SAFE,N/A
+10:59:06,"cleaver, meat cleaver, chopper (21.3%); Injection (19.7%); chain saw, chainsaw (9.7%)",SAFE,N/A
+10:59:06,"Injection (17.4%); cleaver, meat cleaver, chopper (16.7%); lighter, light, igniter, ignitor (11.5%)",SAFE,N/A
+10:59:06,"Injection (23.5%); cleaver, meat cleaver, chopper (16.6%); lighter, light, igniter, ignitor (12.5%)",SAFE,N/A
+10:59:06,"Injection (44.0%); lighter, light, igniter, ignitor (14.9%); screwdriver (4.9%)",SAFE,N/A
+10:59:07,"Injection (43.2%); lighter, light, igniter, ignitor (12.9%); screwdriver (7.9%)",SAFE,N/A
+10:59:07,"Injection (45.7%); lighter, light, igniter, ignitor (11.0%); screwdriver (7.9%)",SAFE,N/A
+10:59:07,"Injection (74.4%); screwdriver (8.9%); lighter, light, igniter, ignitor (2.4%)",SAFE,N/A
+10:59:07,"Injection (79.2%); screwdriver (8.6%); lighter, light, igniter, ignitor (1.2%)",SAFE,N/A
+10:59:08,Injection (74.8%); screwdriver (17.1%); stethoscope (0.4%),SAFE,N/A
+10:59:08,"Injection (20.4%); lighter, light, igniter, ignitor (16.9%); ballpoint, ballpoint pen, ballpen, Biro (7.3%)",SAFE,N/A
+10:59:08,"Injection (92.6%); screwdriver (2.3%); ballpoint, ballpoint pen, ballpen, Biro (0.9%)",SAFE,N/A
+10:59:09,Injection (99.0%); screwdriver (0.4%); stethoscope (0.1%),SAFE,N/A
+10:59:09,Injection (99.4%); screwdriver (0.2%); stethoscope (0.0%),SAFE,N/A
+10:59:09,Injection (99.2%); screwdriver (0.3%); stethoscope (0.0%),SAFE,N/A
+10:59:10,"Injection (13.8%); cleaver, meat cleaver, chopper (12.3%); screwdriver (11.6%)",SAFE,N/A
+10:59:10,"cleaver, meat cleaver, chopper (28.0%); Injection (8.5%); lighter, light, igniter, ignitor (8.3%)",SAFE,N/A
+10:59:10,"cleaver, meat cleaver, chopper (32.0%); Injection (7.3%); lighter, light, igniter, ignitor (6.7%)",SAFE,N/A
+10:59:10,"cleaver, meat cleaver, chopper (29.5%); lighter, light, igniter, ignitor (8.8%); Injection (8.3%)",SAFE,N/A
+10:59:11,"cleaver, meat cleaver, chopper (41.3%); letter opener, paper knife, paperknife (7.0%); scabbard (4.1%)",SAFE,N/A
+10:59:11,"cleaver, meat cleaver, chopper (74.6%); Injection (2.7%); torch (2.6%)",SAFE,N/A
+10:59:11,"maraca (14.4%); potter's wheel (8.4%); Indian cobra, Naja naja (5.7%)",SAFE,N/A
+10:59:12,maraca (17.0%); Band Aid (10.3%); nipple (8.7%),SAFE,N/A
+11:11:26,"jersey, T-shirt, tee shirt (21.5%); maraca (12.7%); Band Aid (11.4%)",SAFE,N/A
+11:11:26,"jersey, T-shirt, tee shirt (30.6%); maraca (13.2%); Band Aid (6.4%)",SAFE,N/A
+11:11:27,"ice lolly, lolly, lollipop, popsicle (21.0%); maraca (20.1%); nipple (16.8%)",SAFE,N/A
+11:11:27,"jersey, T-shirt, tee shirt (25.1%); maraca (19.7%); pick, plectrum, plectron (2.7%)",SAFE,N/A
+11:11:27,"jersey, T-shirt, tee shirt (36.4%); maraca (14.1%); Band Aid (3.1%)",SAFE,N/A
+11:11:28,"jersey, T-shirt, tee shirt (40.1%); maraca (12.6%); Band Aid (2.9%)",SAFE,N/A
+11:11:28,"jersey, T-shirt, tee shirt (26.5%); maraca (14.0%); nipple (5.7%)",SAFE,N/A
+11:11:28,"jersey, T-shirt, tee shirt (19.6%); maraca (15.0%); Band Aid (8.4%)",SAFE,N/A
+11:11:29,"jersey, T-shirt, tee shirt (19.5%); maraca (13.6%); Band Aid (7.5%)",SAFE,N/A
+11:11:29,"quill, quill pen (25.2%); torch (9.2%); ice lolly, lolly, lollipop, popsicle (6.9%)",SAFE,N/A
+11:11:29,"cleaver, meat cleaver, chopper (64.7%); hatchet (4.6%); letter opener, paper knife, paperknife (4.5%)",SAFE,N/A
+11:11:29,"cleaver, meat cleaver, chopper (79.8%); scabbard (3.3%); letter opener, paper knife, paperknife (2.0%)",SAFE,N/A
+11:11:30,"maraca (7.4%); drumstick (6.4%); jersey, T-shirt, tee shirt (6.4%)",SAFE,N/A
+11:11:30,"nipple (30.4%); maraca (22.8%); ice lolly, lolly, lollipop, popsicle (6.1%)",SAFE,N/A
+11:11:30,"maraca (25.4%); nipple (12.6%); jersey, T-shirt, tee shirt (10.8%)",SAFE,N/A
+11:11:31,"hair spray (44.4%); lighter, light, igniter, ignitor (5.4%); nipple (4.5%)",SAFE,N/A
+11:11:31,"cleaver, meat cleaver, chopper (96.4%); scabbard (0.8%); hatchet (0.6%)",SAFE,N/A
+11:11:31,"cleaver, meat cleaver, chopper (87.9%); letter opener, paper knife, paperknife (3.7%); scabbard (1.6%)",SAFE,N/A
+11:11:31,"cleaver, meat cleaver, chopper (55.8%); letter opener, paper knife, paperknife (17.8%); scabbard (7.0%)",SAFE,N/A
+11:11:32,"cleaver, meat cleaver, chopper (61.7%); letter opener, paper knife, paperknife (16.5%); can opener, tin opener (2.9%)",SAFE,N/A
+11:11:32,"cleaver, meat cleaver, chopper (53.6%); letter opener, paper knife, paperknife (19.6%); can opener, tin opener (4.3%)",SAFE,N/A
+11:11:32,"cleaver, meat cleaver, chopper (59.6%); letter opener, paper knife, paperknife (14.2%); scabbard (4.8%)",SAFE,N/A
+11:11:33,"cleaver, meat cleaver, chopper (43.5%); letter opener, paper knife, paperknife (21.9%); scabbard (6.7%)",SAFE,N/A
+11:11:33,"cleaver, meat cleaver, chopper (43.1%); letter opener, paper knife, paperknife (19.0%); scabbard (7.0%)",SAFE,N/A
+11:11:33,"cleaver, meat cleaver, chopper (41.4%); letter opener, paper knife, paperknife (19.0%); scabbard (7.0%)",SAFE,N/A
+11:11:34,"cleaver, meat cleaver, chopper (44.5%); letter opener, paper knife, paperknife (15.5%); scabbard (6.5%)",SAFE,N/A
+11:11:34,"cleaver, meat cleaver, chopper (42.3%); letter opener, paper knife, paperknife (17.7%); scabbard (6.4%)",SAFE,N/A
+11:11:34,"cleaver, meat cleaver, chopper (34.3%); letter opener, paper knife, paperknife (22.4%); scabbard (5.8%)",SAFE,N/A
+11:11:34,"letter opener, paper knife, paperknife (36.0%); cleaver, meat cleaver, chopper (27.4%); scabbard (8.1%)",SAFE,N/A
+11:11:35,"letter opener, paper knife, paperknife (33.2%); cleaver, meat cleaver, chopper (27.4%); scabbard (9.2%)",SAFE,N/A
+11:11:35,"letter opener, paper knife, paperknife (35.9%); cleaver, meat cleaver, chopper (26.5%); scabbard (8.3%)",SAFE,N/A
+11:11:35,"letter opener, paper knife, paperknife (31.7%); cleaver, meat cleaver, chopper (30.8%); scabbard (8.1%)",SAFE,N/A
+11:11:36,"letter opener, paper knife, paperknife (31.4%); cleaver, meat cleaver, chopper (30.4%); scabbard (8.2%)",SAFE,N/A
+11:11:36,"letter opener, paper knife, paperknife (34.0%); cleaver, meat cleaver, chopper (29.8%); scabbard (8.1%)",SAFE,N/A
+11:11:36,"letter opener, paper knife, paperknife (33.3%); cleaver, meat cleaver, chopper (31.0%); scabbard (8.5%)",SAFE,N/A
+11:11:36,"letter opener, paper knife, paperknife (34.6%); cleaver, meat cleaver, chopper (30.8%); scabbard (7.5%)",SAFE,N/A
+11:11:37,"letter opener, paper knife, paperknife (38.7%); cleaver, meat cleaver, chopper (27.4%); scabbard (8.0%)",SAFE,N/A
+11:11:37,"letter opener, paper knife, paperknife (36.6%); cleaver, meat cleaver, chopper (31.1%); scabbard (6.4%)",SAFE,N/A
+11:11:37,"letter opener, paper knife, paperknife (38.1%); cleaver, meat cleaver, chopper (31.2%); scabbard (6.2%)",SAFE,N/A
+11:11:38,"letter opener, paper knife, paperknife (41.9%); cleaver, meat cleaver, chopper (29.4%); scabbard (5.3%)",SAFE,N/A
+11:11:38,"letter opener, paper knife, paperknife (38.9%); cleaver, meat cleaver, chopper (30.4%); scabbard (4.8%)",SAFE,N/A
+11:11:38,"letter opener, paper knife, paperknife (40.4%); cleaver, meat cleaver, chopper (28.8%); scabbard (5.0%)",SAFE,N/A
+11:11:39,"letter opener, paper knife, paperknife (41.8%); cleaver, meat cleaver, chopper (27.3%); scabbard (5.1%)",SAFE,N/A
+11:11:39,"letter opener, paper knife, paperknife (33.8%); cleaver, meat cleaver, chopper (33.4%); scabbard (5.2%)",SAFE,N/A
+11:11:39,"cleaver, meat cleaver, chopper (35.5%); letter opener, paper knife, paperknife (28.9%); scabbard (5.2%)",SAFE,N/A
+11:11:39,"cleaver, meat cleaver, chopper (38.3%); letter opener, paper knife, paperknife (25.4%); scabbard (4.2%)",SAFE,N/A
+11:11:40,"cleaver, meat cleaver, chopper (36.6%); letter opener, paper knife, paperknife (27.4%); scabbard (4.3%)",SAFE,N/A
+11:11:40,"cleaver, meat cleaver, chopper (41.4%); letter opener, paper knife, paperknife (23.5%); scabbard (3.9%)",SAFE,N/A
+11:11:40,"cleaver, meat cleaver, chopper (46.6%); letter opener, paper knife, paperknife (20.2%); scabbard (3.5%)",SAFE,N/A
+11:11:41,"cleaver, meat cleaver, chopper (48.3%); letter opener, paper knife, paperknife (19.9%); scabbard (3.8%)",SAFE,N/A
+11:11:41,"cleaver, meat cleaver, chopper (51.8%); letter opener, paper knife, paperknife (17.3%); scabbard (3.4%)",SAFE,N/A
+11:11:41,"cleaver, meat cleaver, chopper (47.2%); letter opener, paper knife, paperknife (19.6%); scabbard (4.1%)",SAFE,N/A
+11:11:42,"cleaver, meat cleaver, chopper (46.2%); letter opener, paper knife, paperknife (22.1%); scabbard (4.3%)",SAFE,N/A
+11:11:42,"cleaver, meat cleaver, chopper (46.9%); letter opener, paper knife, paperknife (22.6%); scabbard (4.1%)",SAFE,N/A
+11:11:42,"cleaver, meat cleaver, chopper (49.5%); letter opener, paper knife, paperknife (21.3%); scabbard (4.8%)",SAFE,N/A
+11:11:42,"cleaver, meat cleaver, chopper (49.2%); letter opener, paper knife, paperknife (21.2%); scabbard (4.5%)",SAFE,N/A
+11:11:43,"cleaver, meat cleaver, chopper (48.3%); letter opener, paper knife, paperknife (20.4%); scabbard (4.4%)",SAFE,N/A
+11:11:43,"cleaver, meat cleaver, chopper (50.5%); letter opener, paper knife, paperknife (19.7%); scabbard (4.1%)",SAFE,N/A
+11:11:43,"cleaver, meat cleaver, chopper (54.3%); letter opener, paper knife, paperknife (19.8%); scabbard (4.6%)",SAFE,N/A
+11:11:44,"letter opener, paper knife, paperknife (35.1%); cleaver, meat cleaver, chopper (31.1%); scabbard (6.2%)",SAFE,N/A
+11:11:44,"cleaver, meat cleaver, chopper (31.7%); letter opener, paper knife, paperknife (30.1%); scabbard (5.6%)",SAFE,N/A
+11:11:44,"cleaver, meat cleaver, chopper (35.2%); letter opener, paper knife, paperknife (30.4%); scabbard (6.1%)",SAFE,N/A
+11:11:45,"cleaver, meat cleaver, chopper (33.7%); letter opener, paper knife, paperknife (30.1%); scabbard (6.5%)",SAFE,N/A
+11:11:45,"cleaver, meat cleaver, chopper (34.3%); letter opener, paper knife, paperknife (30.6%); scabbard (5.7%)",SAFE,N/A
+11:11:45,"cleaver, meat cleaver, chopper (34.6%); letter opener, paper knife, paperknife (31.4%); scabbard (6.3%)",SAFE,N/A
+11:11:45,"cleaver, meat cleaver, chopper (33.2%); letter opener, paper knife, paperknife (32.3%); scabbard (6.0%)",SAFE,N/A
+11:11:46,"letter opener, paper knife, paperknife (33.0%); cleaver, meat cleaver, chopper (32.7%); scabbard (6.1%)",SAFE,N/A
+11:11:46,"letter opener, paper knife, paperknife (33.0%); cleaver, meat cleaver, chopper (32.9%); scabbard (5.5%)",SAFE,N/A
+11:11:46,"cleaver, meat cleaver, chopper (36.5%); letter opener, paper knife, paperknife (29.5%); scabbard (5.8%)",SAFE,N/A
+11:11:47,"cleaver, meat cleaver, chopper (35.4%); letter opener, paper knife, paperknife (22.2%); scabbard (6.0%)",SAFE,N/A
+11:11:47,"cleaver, meat cleaver, chopper (29.8%); letter opener, paper knife, paperknife (29.0%); scabbard (6.5%)",SAFE,N/A
+11:11:47,"letter opener, paper knife, paperknife (33.5%); cleaver, meat cleaver, chopper (26.0%); scabbard (6.8%)",SAFE,N/A
+11:11:48,"letter opener, paper knife, paperknife (29.2%); cleaver, meat cleaver, chopper (28.5%); scabbard (6.0%)",SAFE,N/A
+11:11:48,"cleaver, meat cleaver, chopper (29.9%); letter opener, paper knife, paperknife (25.5%); scabbard (6.2%)",SAFE,N/A
+11:11:48,"cleaver, meat cleaver, chopper (30.7%); letter opener, paper knife, paperknife (26.6%); scabbard (6.8%)",SAFE,N/A
+11:11:48,"cleaver, meat cleaver, chopper (31.6%); letter opener, paper knife, paperknife (28.7%); scabbard (6.6%)",SAFE,N/A
+11:11:49,"cleaver, meat cleaver, chopper (32.2%); letter opener, paper knife, paperknife (30.2%); scabbard (6.4%)",SAFE,N/A
+11:11:49,"cleaver, meat cleaver, chopper (31.8%); letter opener, paper knife, paperknife (30.4%); scabbard (6.0%)",SAFE,N/A
+11:11:49,"cleaver, meat cleaver, chopper (32.6%); letter opener, paper knife, paperknife (28.9%); scabbard (6.4%)",SAFE,N/A
+11:11:50,"cleaver, meat cleaver, chopper (31.0%); letter opener, paper knife, paperknife (26.6%); scabbard (6.9%)",SAFE,N/A
+11:11:50,"cleaver, meat cleaver, chopper (30.3%); letter opener, paper knife, paperknife (29.0%); scabbard (6.8%)",SAFE,N/A
+11:11:50,"cleaver, meat cleaver, chopper (31.8%); letter opener, paper knife, paperknife (28.6%); scabbard (6.3%)",SAFE,N/A
+11:11:51,"cleaver, meat cleaver, chopper (31.5%); letter opener, paper knife, paperknife (25.0%); scabbard (6.6%)",SAFE,N/A
+11:11:51,"cleaver, meat cleaver, chopper (30.3%); letter opener, paper knife, paperknife (29.4%); scabbard (7.0%)",SAFE,N/A
+11:11:51,"cleaver, meat cleaver, chopper (35.8%); letter opener, paper knife, paperknife (25.2%); scabbard (6.0%)",SAFE,N/A
+11:11:51,"cleaver, meat cleaver, chopper (34.4%); letter opener, paper knife, paperknife (24.4%); scabbard (6.3%)",SAFE,N/A
+11:11:52,"cleaver, meat cleaver, chopper (34.0%); letter opener, paper knife, paperknife (20.7%); scabbard (6.3%)",SAFE,N/A
+11:11:52,"cleaver, meat cleaver, chopper (34.2%); letter opener, paper knife, paperknife (28.1%); scabbard (5.3%)",SAFE,N/A
+11:11:52,"cleaver, meat cleaver, chopper (32.3%); letter opener, paper knife, paperknife (24.7%); scabbard (5.6%)",SAFE,N/A
+11:11:53,"cleaver, meat cleaver, chopper (26.2%); letter opener, paper knife, paperknife (15.1%); scabbard (5.2%)",SAFE,N/A
+11:13:36,"nipple (17.1%); ice lolly, lolly, lollipop, popsicle (14.8%); jersey, T-shirt, tee shirt (8.5%)",SAFE,N/A
+11:13:37,"nipple (42.2%); oxygen mask (18.4%); ice lolly, lolly, lollipop, popsicle (18.0%)",SAFE,N/A
+11:13:37,"nipple (37.2%); oxygen mask (29.9%); ice lolly, lolly, lollipop, popsicle (8.5%)",SAFE,N/A
+11:13:37,"nipple (34.0%); oxygen mask (32.6%); ice lolly, lolly, lollipop, popsicle (6.8%)",SAFE,N/A
+11:13:38,"nipple (30.4%); oxygen mask (21.5%); ice lolly, lolly, lollipop, popsicle (12.1%)",SAFE,N/A
+11:13:38,"nipple (61.0%); ice lolly, lolly, lollipop, popsicle (25.5%); oxygen mask (4.4%)",SAFE,N/A
+11:13:38,"nipple (42.1%); oxygen mask (30.9%); ice lolly, lolly, lollipop, popsicle (5.9%)",SAFE,N/A
+11:13:38,"nipple (34.1%); oxygen mask (33.9%); ice lolly, lolly, lollipop, popsicle (6.8%)",SAFE,N/A
+11:13:39,"oxygen mask (33.9%); nipple (28.3%); ice lolly, lolly, lollipop, popsicle (5.9%)",SAFE,N/A
+11:13:39,"nipple (41.3%); oxygen mask (34.0%); ice lolly, lolly, lollipop, popsicle (5.2%)",SAFE,N/A
+11:13:39,Injection (26.7%); hair spray (13.6%); screwdriver (4.9%),SAFE,N/A
+11:13:40,"cleaver, meat cleaver, chopper (72.7%); letter opener, paper knife, paperknife (3.3%); spatula (1.8%)",SAFE,N/A
+11:13:40,"cleaver, meat cleaver, chopper (53.4%); letter opener, paper knife, paperknife (7.6%); Injection (3.7%)",SAFE,N/A
+11:13:40,"cleaver, meat cleaver, chopper (69.9%); letter opener, paper knife, paperknife (3.4%); Injection (2.9%)",SAFE,N/A
+11:13:40,"cleaver, meat cleaver, chopper (47.8%); Injection (13.3%); letter opener, paper knife, paperknife (5.6%)",SAFE,N/A
+11:13:41,"cleaver, meat cleaver, chopper (58.2%); letter opener, paper knife, paperknife (12.3%); scabbard (4.4%)",SAFE,N/A
+11:13:41,"cleaver, meat cleaver, chopper (54.1%); letter opener, paper knife, paperknife (13.4%); scabbard (8.2%)",SAFE,N/A
+11:13:41,"cleaver, meat cleaver, chopper (51.9%); letter opener, paper knife, paperknife (14.2%); scabbard (8.5%)",SAFE,N/A
+11:13:42,"cleaver, meat cleaver, chopper (52.8%); letter opener, paper knife, paperknife (14.2%); scabbard (8.4%)",SAFE,N/A
+11:13:42,"cleaver, meat cleaver, chopper (60.5%); letter opener, paper knife, paperknife (12.8%); scabbard (7.9%)",SAFE,N/A
+11:13:42,"cleaver, meat cleaver, chopper (63.2%); letter opener, paper knife, paperknife (12.1%); scabbard (6.7%)",SAFE,N/A
+11:13:42,"cleaver, meat cleaver, chopper (69.2%); letter opener, paper knife, paperknife (10.1%); scabbard (4.3%)",SAFE,N/A
+11:13:43,"cleaver, meat cleaver, chopper (65.7%); letter opener, paper knife, paperknife (12.4%); scabbard (4.9%)",SAFE,N/A
+11:13:43,"cleaver, meat cleaver, chopper (68.0%); letter opener, paper knife, paperknife (10.7%); scabbard (5.0%)",SAFE,N/A
+11:13:43,"cleaver, meat cleaver, chopper (63.8%); letter opener, paper knife, paperknife (15.2%); scabbard (5.0%)",SAFE,N/A
+11:13:44,"cleaver, meat cleaver, chopper (61.8%); letter opener, paper knife, paperknife (15.4%); scabbard (5.6%)",SAFE,N/A
+11:13:44,"cleaver, meat cleaver, chopper (63.9%); letter opener, paper knife, paperknife (14.4%); scabbard (5.1%)",SAFE,N/A
+11:13:44,"cleaver, meat cleaver, chopper (62.1%); letter opener, paper knife, paperknife (16.4%); scabbard (5.9%)",SAFE,N/A
+11:13:45,"cleaver, meat cleaver, chopper (64.4%); letter opener, paper knife, paperknife (16.7%); scabbard (4.8%)",SAFE,N/A
+11:13:45,"cleaver, meat cleaver, chopper (66.9%); letter opener, paper knife, paperknife (14.3%); scabbard (4.0%)",SAFE,N/A
+11:13:45,"cleaver, meat cleaver, chopper (63.4%); letter opener, paper knife, paperknife (14.7%); scabbard (5.0%)",SAFE,N/A
+11:13:45,"cleaver, meat cleaver, chopper (61.5%); letter opener, paper knife, paperknife (16.7%); scabbard (5.3%)",SAFE,N/A
+11:13:46,"cleaver, meat cleaver, chopper (64.8%); letter opener, paper knife, paperknife (15.3%); scabbard (5.0%)",SAFE,N/A
+11:13:46,"cleaver, meat cleaver, chopper (61.6%); letter opener, paper knife, paperknife (16.4%); scabbard (5.6%)",SAFE,N/A
+11:13:46,"cleaver, meat cleaver, chopper (62.8%); letter opener, paper knife, paperknife (16.3%); scabbard (5.1%)",SAFE,N/A
+11:13:47,"cleaver, meat cleaver, chopper (68.0%); letter opener, paper knife, paperknife (13.5%); scabbard (4.1%)",SAFE,N/A
+11:13:47,"cleaver, meat cleaver, chopper (67.5%); letter opener, paper knife, paperknife (14.2%); scabbard (4.3%)",SAFE,N/A
+11:13:47,"cleaver, meat cleaver, chopper (66.8%); letter opener, paper knife, paperknife (14.1%); scabbard (3.0%)",SAFE,N/A
+11:13:48,"cleaver, meat cleaver, chopper (66.0%); letter opener, paper knife, paperknife (14.1%); scabbard (3.1%)",SAFE,N/A
+11:13:48,"cleaver, meat cleaver, chopper (56.0%); letter opener, paper knife, paperknife (16.9%); scabbard (5.7%)",SAFE,N/A
+11:13:48,"cleaver, meat cleaver, chopper (56.7%); letter opener, paper knife, paperknife (14.1%); scabbard (5.2%)",SAFE,N/A
+11:13:48,"cleaver, meat cleaver, chopper (53.9%); letter opener, paper knife, paperknife (15.2%); scabbard (4.9%)",SAFE,N/A
+11:13:49,"cleaver, meat cleaver, chopper (53.8%); letter opener, paper knife, paperknife (15.5%); chain saw, chainsaw (5.2%)",SAFE,N/A
+11:13:49,"cleaver, meat cleaver, chopper (63.7%); letter opener, paper knife, paperknife (12.5%); scabbard (4.6%)",SAFE,N/A
+11:13:49,"cleaver, meat cleaver, chopper (59.7%); letter opener, paper knife, paperknife (14.5%); scabbard (5.6%)",SAFE,N/A
+11:13:50,"cleaver, meat cleaver, chopper (61.6%); letter opener, paper knife, paperknife (14.5%); scabbard (4.6%)",SAFE,N/A
+11:13:50,"cleaver, meat cleaver, chopper (55.7%); letter opener, paper knife, paperknife (16.8%); scabbard (6.0%)",SAFE,N/A
+11:13:50,"cleaver, meat cleaver, chopper (69.4%); letter opener, paper knife, paperknife (13.0%); scabbard (3.5%)",SAFE,N/A
+11:13:51,"cleaver, meat cleaver, chopper (67.3%); letter opener, paper knife, paperknife (18.3%); scabbard (3.2%)",SAFE,N/A
+11:13:51,"cleaver, meat cleaver, chopper (45.2%); Injection (7.8%); letter opener, paper knife, paperknife (4.4%)",SAFE,N/A
+11:13:51,"cleaver, meat cleaver, chopper (45.4%); letter opener, paper knife, paperknife (11.6%); Injection (8.3%)",SAFE,N/A
+11:13:51,"cleaver, meat cleaver, chopper (49.8%); letter opener, paper knife, paperknife (14.9%); scabbard (3.5%)",SAFE,N/A
+11:13:52,"cleaver, meat cleaver, chopper (49.4%); letter opener, paper knife, paperknife (15.6%); scabbard (4.0%)",SAFE,N/A
+11:13:52,"cleaver, meat cleaver, chopper (53.1%); letter opener, paper knife, paperknife (14.7%); scabbard (4.1%)",SAFE,N/A
+11:13:52,"cleaver, meat cleaver, chopper (53.9%); letter opener, paper knife, paperknife (10.6%); scabbard (4.7%)",SAFE,N/A
+11:13:53,"cleaver, meat cleaver, chopper (70.3%); letter opener, paper knife, paperknife (5.2%); scabbard (4.2%)",SAFE,N/A
+11:13:53,"cleaver, meat cleaver, chopper (60.8%); letter opener, paper knife, paperknife (4.1%); scabbard (3.5%)",SAFE,N/A
+11:13:53,"cleaver, meat cleaver, chopper (46.0%); Injection (4.0%); letter opener, paper knife, paperknife (3.7%)",SAFE,N/A
+11:13:54,"cleaver, meat cleaver, chopper (41.7%); letter opener, paper knife, paperknife (6.6%); Injection (2.7%)",SAFE,N/A
+11:16:55,"maraca (13.6%); Band Aid (8.9%); jersey, T-shirt, tee shirt (6.2%)",SAFE,N/A
+11:16:55,"Band Aid (16.7%); jersey, T-shirt, tee shirt (9.7%); maraca (9.3%)",SAFE,N/A
+11:16:56,"Band Aid (15.7%); maraca (9.5%); jersey, T-shirt, tee shirt (8.1%)",SAFE,N/A
+11:16:56,"ice lolly, lolly, lollipop, popsicle (28.3%); nipple (28.2%); oxygen mask (8.2%)",SAFE,N/A
+11:16:56,"ice lolly, lolly, lollipop, popsicle (34.9%); nipple (22.7%); oxygen mask (6.1%)",SAFE,N/A
+11:16:57,"nipple (39.1%); oxygen mask (17.2%); ice lolly, lolly, lollipop, popsicle (17.0%)",SAFE,N/A
+11:16:57,"nipple (14.0%); ice lolly, lolly, lollipop, popsicle (10.9%); maraca (7.6%)",SAFE,N/A
+11:16:57,"nipple (24.0%); ice lolly, lolly, lollipop, popsicle (23.8%); oxygen mask (9.3%)",SAFE,N/A
+11:16:58,"nipple (37.1%); ice lolly, lolly, lollipop, popsicle (24.9%); oxygen mask (9.4%)",SAFE,N/A
+11:16:58,"ice lolly, lolly, lollipop, popsicle (26.6%); maraca (13.6%); nipple (9.6%)",SAFE,N/A
+11:16:58,"ice lolly, lolly, lollipop, popsicle (18.3%); nipple (16.7%); maraca (13.2%)",SAFE,N/A
+11:16:58,"cleaver, meat cleaver, chopper (90.7%); scabbard (1.8%); letter opener, paper knife, paperknife (0.8%)",SAFE,N/A
+11:16:59,"cleaver, meat cleaver, chopper (92.7%); scabbard (2.6%); letter opener, paper knife, paperknife (1.1%)",SAFE,N/A
+11:16:59,"cleaver, meat cleaver, chopper (87.8%); scabbard (1.9%); letter opener, paper knife, paperknife (1.3%)",SAFE,N/A
+11:16:59,"cleaver, meat cleaver, chopper (89.3%); scabbard (3.2%); letter opener, paper knife, paperknife (0.9%)",SAFE,N/A
+11:17:00,"cleaver, meat cleaver, chopper (81.6%); scabbard (5.7%); letter opener, paper knife, paperknife (2.9%)",SAFE,N/A
+11:17:00,"cleaver, meat cleaver, chopper (76.8%); scabbard (4.2%); letter opener, paper knife, paperknife (3.5%)",SAFE,N/A
+11:17:00,"cleaver, meat cleaver, chopper (75.8%); scabbard (5.6%); letter opener, paper knife, paperknife (4.4%)",SAFE,N/A
+11:17:00,"cleaver, meat cleaver, chopper (73.9%); scabbard (6.5%); letter opener, paper knife, paperknife (4.7%)",SAFE,N/A
+11:17:01,"cleaver, meat cleaver, chopper (66.6%); scabbard (12.9%); letter opener, paper knife, paperknife (5.2%)",SAFE,N/A
+11:17:01,"cleaver, meat cleaver, chopper (42.1%); scabbard (10.2%); letter opener, paper knife, paperknife (6.1%)",SAFE,N/A
+11:17:01,"cleaver, meat cleaver, chopper (74.1%); scabbard (2.1%); letter opener, paper knife, paperknife (1.0%)",SAFE,N/A
+11:17:02,"cleaver, meat cleaver, chopper (51.5%); scabbard (3.4%); drumstick (2.4%)",SAFE,N/A
+11:17:02,"cleaver, meat cleaver, chopper (70.2%); letter opener, paper knife, paperknife (4.7%); scabbard (4.5%)",SAFE,N/A
+11:17:02,"cleaver, meat cleaver, chopper (62.6%); scabbard (3.7%); chain saw, chainsaw (2.3%)",SAFE,N/A
+11:17:03,"cleaver, meat cleaver, chopper (75.3%); scabbard (2.9%); letter opener, paper knife, paperknife (1.7%)",SAFE,N/A
+11:17:03,"cleaver, meat cleaver, chopper (60.4%); scabbard (6.4%); letter opener, paper knife, paperknife (4.9%)",SAFE,N/A
+11:17:03,"cleaver, meat cleaver, chopper (74.5%); scabbard (7.6%); letter opener, paper knife, paperknife (2.7%)",SAFE,N/A
+11:17:03,"cleaver, meat cleaver, chopper (81.0%); scabbard (7.2%); letter opener, paper knife, paperknife (1.8%)",SAFE,N/A
+11:17:04,"cleaver, meat cleaver, chopper (58.1%); scabbard (15.3%); letter opener, paper knife, paperknife (6.7%)",SAFE,N/A
+11:17:04,"cleaver, meat cleaver, chopper (67.4%); scabbard (13.8%); letter opener, paper knife, paperknife (5.3%)",SAFE,N/A
+11:17:04,"cleaver, meat cleaver, chopper (58.9%); scabbard (15.0%); letter opener, paper knife, paperknife (6.9%)",SAFE,N/A
+11:17:05,"cleaver, meat cleaver, chopper (52.5%); scabbard (14.3%); letter opener, paper knife, paperknife (8.8%)",SAFE,N/A
+11:17:05,"cleaver, meat cleaver, chopper (56.4%); scabbard (16.3%); letter opener, paper knife, paperknife (7.9%)",SAFE,N/A
+11:17:05,"cleaver, meat cleaver, chopper (56.6%); scabbard (17.4%); letter opener, paper knife, paperknife (8.2%)",SAFE,N/A
+11:17:05,"cleaver, meat cleaver, chopper (56.5%); scabbard (15.1%); letter opener, paper knife, paperknife (9.4%)",SAFE,N/A
+11:17:06,"cleaver, meat cleaver, chopper (76.6%); scabbard (11.1%); letter opener, paper knife, paperknife (1.5%)",SAFE,N/A
+11:17:06,"cleaver, meat cleaver, chopper (49.2%); scabbard (8.2%); letter opener, paper knife, paperknife (6.8%)",SAFE,N/A
+11:17:06,"cleaver, meat cleaver, chopper (53.5%); scabbard (5.8%); hatchet (3.4%)",SAFE,N/A
+11:17:07,"cleaver, meat cleaver, chopper (53.0%); scabbard (4.5%); letter opener, paper knife, paperknife (3.6%)",SAFE,N/A
+11:17:07,"cleaver, meat cleaver, chopper (55.2%); scabbard (4.2%); letter opener, paper knife, paperknife (3.3%)",SAFE,N/A
+11:17:07,"cleaver, meat cleaver, chopper (56.7%); scabbard (8.7%); letter opener, paper knife, paperknife (7.0%)",SAFE,N/A
+11:17:07,"cleaver, meat cleaver, chopper (50.8%); scabbard (7.6%); letter opener, paper knife, paperknife (7.6%)",SAFE,N/A
+11:17:08,"cleaver, meat cleaver, chopper (30.0%); letter opener, paper knife, paperknife (11.4%); scabbard (10.7%)",SAFE,N/A
+11:17:08,"cleaver, meat cleaver, chopper (25.0%); scabbard (14.3%); letter opener, paper knife, paperknife (9.5%)",SAFE,N/A
